@@ -1,0 +1,16 @@
+{
+  "slug": "sovereign-ai-health-score",
+  "name": "Sovereign AI Health Score",
+  "tagline": "Sovereign AI Health Score",
+  "price": "29",
+  "currency": "usd",
+  "audience": "sovereign AI operators, private LLM fleet owners, compliance officers",
+  "pain": "no way to prove your local AI box is actually healthy/sovereign/secure \u2014 Lucebox/Promptus sell metal, you sell trust",
+  "offer": "recurring trust score from your own telemetry (nvidia-smi, systemctl, revenue-os.db) \u2014 self-verified on landing page",
+  "deliverable": "template.md",
+  "stripe_sku": "sovereign-ai-health-score",
+  "checkout_url": "https://buy.stripe.com/6oU00ibvOeOogVs2Yhb3q2J",
+  "gumroad_url": "https://buy.stripe.com/6oU00ibvOeOogVs2Yhb3q2J",
+  "status": "ready",
+  "image_path": "/home/scott/hardonia.store/products/sovereign-ai-health-score/assets/cover.png"
+}
