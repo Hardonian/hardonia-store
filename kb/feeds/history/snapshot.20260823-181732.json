@@ -1,4 +1,19 @@
 {
+  "generated_at": "2026-08-23T18:17:31Z",
+  "intel": {"block": false, "active_flags": [], "note": "themes: none | best_offer: 0 (wr )"},
+  "analytics": {
+  "total_page_views": 91611,
+  "views_today": 5673,
+  "unique_visitors": 0,
+  "checkout_clicks": 10,
+  "checkout_clicks_today": 0,
+  "conversions": 36,
+  "conversion_rate": 0.04,
+  "total_revenue_cents": 1009200,
+  "top_pages": "comfyui-workflow-pack(7040), hardonia-compute-api-access(6975), ai-lab-health-report(6971)",
+  "generated_at": "2026-08-23T18:17:32.839269Z"
+},
+  "financial": {
   "total_revenue_cents": 0,
   "products": [
     {
@@ -73,6 +88,9 @@
     }
   ],
   "currency": "usd",
-  "generated_at": "2026-08-23T18:33:51.456139+00:00",
+  "generated_at": "2026-08-23T18:17:32.631236+00:00",
   "note": "live gumroad"
+},
+  "compute": {"gpu_util_pct":0,"free_vram_pct":66,"active_keys":2,"capacity_ok":true},
+  "legal": { "open_flags": [], "minor_safety_clear": true }
 }
