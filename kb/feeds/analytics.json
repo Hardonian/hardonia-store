@@ -1,12 +1,12 @@
 {
-  "total_page_views": 91776,
-  "views_today": 5838,
+  "total_page_views": 92076,
+  "views_today": 6138,
   "unique_visitors": 0,
   "checkout_clicks": 10,
   "checkout_clicks_today": 0,
   "conversions": 36,
   "conversion_rate": 0.04,
   "total_revenue_cents": 1009200,
-  "top_pages": "comfyui-workflow-pack(7050), hardonia-compute-api-access(6985), ai-lab-health-report(6981)",
-  "generated_at": "2026-08-23T18:33:51.665875Z"
+  "top_pages": "comfyui-workflow-pack(7069), hardonia-compute-api-access(7005), ai-lab-health-report(7000)",
+  "generated_at": "2026-08-23T19:03:52.074712Z"
 }

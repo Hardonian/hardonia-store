@@ -1,0 +1,23 @@
+{
+  "slug": "comfyui-pack-depth-and-3d",
+  "name": "ComfyUI Pack: Depth And 3D",
+  "description": "Depth estimation and 3D generation with MoGe, Lotus, Hunyuan3D",
+  "price": 5900,
+  "currency": "usd",
+  "status": "ready",
+  "category": "comfyui-pack",
+  "deliverable_path": "/home/scott/hardonia.store/products/comfyui-pack-depth-and-3d/comfyui-pack-depth-and-3d.tar.gz",
+  "workflows": [
+    "Image Depth Estimation (MoGe).json",
+    "Image Depth Estimation (Lotus Depth).json",
+    "Depth to Image (Z-Image-Turbo).json",
+    "Image to Model (Hunyuan3d 2.1).json",
+    "Image to Layers(Qwen-Image-Layered).json"
+  ],
+  "checkout_url": "https://checkout.stripe.com/c/pay/cs_live_a1KAVwWbA56YzdczbSi7VeUNDIwgZFIZNJSDEAWzbl5pA7kbqcxSzg38AM#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdicGRmZGhqaWBTZHdsZGtxJz8nZmprcXdqaScpJ2R1bE5gfCc%2FJ3VuWmlsc2BaMDRWQlB2TEYzMDRCM31odEJSdXB9aUlqS1djRmdtT11SY3xTXHJ2MVRyM2B8QExddEhrS0NKZE1VUDZwRHdkNU1kTlNDQGhIaX9GamFtNE1CSWRqdGlpcUI1NWRQa3ZfZ2ZSJyknY3dqaFZgd3Ngdyc%2FcXdwYCknZ2RmbmJ3anBrYUZqaWp3Jz8nJmNjY2NjYycpJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl",
+  "gumroad_url": "",
+  "image_path": "",
+  "created_at": "2026-08-23T19:03:11.336994+00:00",
+  "stripe_product_id": "prod_V7wZkKIrx3GWDb",
+  "stripe_price_id": "price_1U7gg6C651G6xmqGII5DavnC"
+}

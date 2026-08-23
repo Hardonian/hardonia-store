@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-23T19:03:51Z",
+  "generated_at": "2026-08-23T18:47:32Z",
   "intel": {"block": false, "active_flags": [], "note": "themes: none | best_offer: 0 (wr )"},
   "analytics": {
-  "total_page_views": 92076,
-  "views_today": 6138,
+  "total_page_views": 91916,
+  "views_today": 5978,
   "unique_visitors": 0,
   "checkout_clicks": 10,
   "checkout_clicks_today": 0,
   "conversions": 36,
   "conversion_rate": 0.04,
   "total_revenue_cents": 1009200,
-  "top_pages": "comfyui-workflow-pack(7069), hardonia-compute-api-access(7005), ai-lab-health-report(7000)",
-  "generated_at": "2026-08-23T19:03:52.074712Z"
+  "top_pages": "comfyui-workflow-pack(7059), hardonia-compute-api-access(6994), ai-lab-health-report(6990)",
+  "generated_at": "2026-08-23T18:47:33.344689Z"
 },
   "financial": {
   "total_revenue_cents": 0,
@@ -88,9 +88,9 @@
     }
   ],
   "currency": "usd",
-  "generated_at": "2026-08-23T19:03:51.866379+00:00",
+  "generated_at": "2026-08-23T18:47:33.139556+00:00",
   "note": "live gumroad"
 },
-  "compute": {"gpu_util_pct":0,"free_vram_pct":49,"active_keys":2,"capacity_ok":true},
+  "compute": {"gpu_util_pct":0,"free_vram_pct":66,"active_keys":2,"capacity_ok":true},
   "legal": { "open_flags": [], "minor_safety_clear": true }
 }

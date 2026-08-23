@@ -1,0 +1,22 @@
+{
+  "slug": "comfyui-pack-audio-generation-pack",
+  "name": "ComfyUI Pack: Audio Generation Pack",
+  "description": "Audio generation and captioning with Stable Audio and ACE-Step",
+  "price": 3900,
+  "currency": "usd",
+  "status": "ready",
+  "category": "comfyui-pack",
+  "deliverable_path": "/home/scott/hardonia.store/products/comfyui-pack-audio-generation-pack/comfyui-pack-audio-generation-pack.tar.gz",
+  "workflows": [
+    "Audio Generation (Stable Audio 3 Medium).json",
+    "Text to Audio (ACE-Step 1.5).json",
+    "Video Captioning (Gemini).json",
+    "Image Captioning (gemini).json"
+  ],
+  "checkout_url": "https://checkout.stripe.com/g/pay/cs_live_a18W02ulg6dfECCGs5R54bscLyUwFUCIIMQ10uyoptpxtDgNbo622klGWx#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdicGRmZGhqaWBTZHdsZGtxJz8ncXdgZHFoYGtxWjcnKSdicGRmZGhqaWBMa2xxVXdgY2BxZm1TZHdsZGtxJz8nZmprcXdqaScpJ2JwZGZkaGppYElqZGFsa2JWZndgYGtTZHdsZGtxJz8nZmprcXdqaScpJ2R1bE5gfCc%2FJ3VuWmlsc2BaMDRWQlB2TEYzMDRCM31odEJSdXB9aUlqS1djRmdtT11SY3xTXHJ2MVRyM2B8QExddEhrS0NKZE1VUDZwRHdkNU1kTlNDQGhIaX9GamFtNE1CSWRqdGlpcUI1NWRQa3ZfZ2ZSJyknY3dqaFZgd3Ngdyc%2FcXdwYCknZ2RmbmJ3anBrYUZqaWp3Jz8nJmNjY2NjYycpJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl",
+  "gumroad_url": "",
+  "image_path": "",
+  "created_at": "2026-08-23T19:03:11.336994+00:00",
+  "stripe_product_id": "prod_V7wZ3kUNXNqkrl",
+  "stripe_price_id": "price_1U7gg5C651G6xmqG360JsqfO"
+}

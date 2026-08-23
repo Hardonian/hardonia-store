@@ -1,77 +1,5 @@
 [
   {
-    "ts": "2026-08-22T05:03:45.685683+00:00",
-    "query": "How do I authenticate to the Hardonia Compute API?",
-    "escalated": false,
-    "answer_len": 215
-  },
-  {
-    "ts": "2026-08-22T05:03:45.718423+00:00",
-    "query": "What is Private Inference Access?",
-    "escalated": false,
-    "answer_len": 203
-  },
-  {
-    "ts": "2026-08-22T05:08:36.690172+00:00",
-    "query": "How do I authenticate to the Compute API?",
-    "escalated": false,
-    "answer_len": 215
-  },
-  {
-    "ts": "2026-08-22T05:08:48.655369+00:00",
-    "query": "How do I authenticate to the Hardonia Compute API?",
-    "escalated": false,
-    "answer_len": 215
-  },
-  {
-    "ts": "2026-08-22T05:08:48.685197+00:00",
-    "query": "What is Private Inference Access?",
-    "escalated": false,
-    "answer_len": 203
-  },
-  {
-    "ts": "2026-08-22T05:13:48.675982+00:00",
-    "query": "How do I authenticate to the Hardonia Compute API?",
-    "escalated": false,
-    "answer_len": 215
-  },
-  {
-    "ts": "2026-08-22T05:13:48.703687+00:00",
-    "query": "What is Private Inference Access?",
-    "escalated": false,
-    "answer_len": 203
-  },
-  {
-    "ts": "2026-08-22T05:18:50.861200+00:00",
-    "query": "How do I authenticate to the Hardonia Compute API?",
-    "escalated": false,
-    "answer_len": 215
-  },
-  {
-    "ts": "2026-08-22T05:18:50.888074+00:00",
-    "query": "What is Private Inference Access?",
-    "escalated": false,
-    "answer_len": 203
-  },
-  {
-    "ts": "2026-08-22T12:17:48.932178+00:00",
-    "query": "How do I authenticate to the Hardonia Compute API?",
-    "escalated": false,
-    "answer_len": 215
-  },
-  {
-    "ts": "2026-08-22T12:17:48.964175+00:00",
-    "query": "What is Private Inference Access?",
-    "escalated": false,
-    "answer_len": 203
-  },
-  {
-    "ts": "2026-08-22T12:17:50.388827+00:00",
-    "query": "How do I authenticate to the Compute API?",
-    "escalated": false,
-    "answer_len": 215
-  },
-  {
     "ts": "2026-08-22T12:22:49.408330+00:00",
     "query": "How do I authenticate to the Hardonia Compute API?",
     "escalated": false,
@@ -2995,6 +2923,78 @@
   },
   {
     "ts": "2026-08-23T18:39:17.843840+00:00",
+    "query": "What is Private Inference Access?",
+    "escalated": false,
+    "answer_len": 203
+  },
+  {
+    "ts": "2026-08-23T18:44:18.096191+00:00",
+    "query": "How do I authenticate to the Hardonia Compute API?",
+    "escalated": false,
+    "answer_len": 215
+  },
+  {
+    "ts": "2026-08-23T18:44:18.125701+00:00",
+    "query": "What is Private Inference Access?",
+    "escalated": false,
+    "answer_len": 203
+  },
+  {
+    "ts": "2026-08-23T18:48:51.942596+00:00",
+    "query": "How do I authenticate to the Compute API?",
+    "escalated": false,
+    "answer_len": 215
+  },
+  {
+    "ts": "2026-08-23T18:49:18.348484+00:00",
+    "query": "How do I authenticate to the Hardonia Compute API?",
+    "escalated": false,
+    "answer_len": 215
+  },
+  {
+    "ts": "2026-08-23T18:49:18.381237+00:00",
+    "query": "What is Private Inference Access?",
+    "escalated": false,
+    "answer_len": 203
+  },
+  {
+    "ts": "2026-08-23T18:54:18.847984+00:00",
+    "query": "How do I authenticate to the Hardonia Compute API?",
+    "escalated": false,
+    "answer_len": 215
+  },
+  {
+    "ts": "2026-08-23T18:54:18.880029+00:00",
+    "query": "What is Private Inference Access?",
+    "escalated": false,
+    "answer_len": 203
+  },
+  {
+    "ts": "2026-08-23T18:59:19.098692+00:00",
+    "query": "How do I authenticate to the Hardonia Compute API?",
+    "escalated": false,
+    "answer_len": 215
+  },
+  {
+    "ts": "2026-08-23T18:59:19.130069+00:00",
+    "query": "What is Private Inference Access?",
+    "escalated": false,
+    "answer_len": 203
+  },
+  {
+    "ts": "2026-08-23T19:03:52.377059+00:00",
+    "query": "How do I authenticate to the Compute API?",
+    "escalated": false,
+    "answer_len": 215
+  },
+  {
+    "ts": "2026-08-23T19:04:19.346005+00:00",
+    "query": "How do I authenticate to the Hardonia Compute API?",
+    "escalated": false,
+    "answer_len": 215
+  },
+  {
+    "ts": "2026-08-23T19:04:19.377554+00:00",
     "query": "What is Private Inference Access?",
     "escalated": false,
     "answer_len": 203

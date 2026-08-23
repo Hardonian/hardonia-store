@@ -1,0 +1,24 @@
+{
+  "slug": "comfyui-pack-video-generation-pack",
+  "name": "ComfyUI Pack: Video Generation Pack",
+  "description": "Video generation and enhancement with LTX and Wan models",
+  "price": 7900,
+  "currency": "usd",
+  "status": "ready",
+  "category": "comfyui-pack",
+  "deliverable_path": "/home/scott/hardonia.store/products/comfyui-pack-video-generation-pack/comfyui-pack-video-generation-pack.tar.gz",
+  "workflows": [
+    "Image to Video (LTX-2.3).json",
+    "Image to Video (Wan 2.2).json",
+    "Text to Video (LTX-2.3).json",
+    "Text to Video (Wan 2.2).json",
+    "Video Upscale(GAN x4).json",
+    "Frame Interpolation.json"
+  ],
+  "checkout_url": "https://checkout.stripe.com/c/pay/cs_live_a19rydmjZCiENlcGxcxEXWg1Pg55CfX3LOCwY7dY1ziP8eFKWMsQ43o4q4#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdicGRmZGhqaWBTZHdsZGtxJz8nZmprcXdqaScpJ2R1bE5gfCc%2FJ3VuWmlsc2BaMDRWQlB2TEYzMDRCM31odEJSdXB9aUlqS1djRmdtT11SY3xTXHJ2MVRyM2B8QExddEhrS0NKZE1VUDZwRHdkNU1kTlNDQGhIaX9GamFtNE1CSWRqdGlpcUI1NWRQa3ZfZ2ZSJyknY3dqaFZgd3Ngdyc%2FcXdwYCknZ2RmbmJ3anBrYUZqaWp3Jz8nJmNjY2NjYycpJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl",
+  "gumroad_url": "",
+  "image_path": "",
+  "created_at": "2026-08-23T19:03:11.336994+00:00",
+  "stripe_product_id": "prod_V7wZmntZSmcjul",
+  "stripe_price_id": "price_1U7gg8C651G6xmqGNmIUqw8m"
+}

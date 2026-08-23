@@ -1,0 +1,23 @@
+{
+  "slug": "comfyui-pack-ai-portrait-studio",
+  "name": "ComfyUI Pack: Ai Portrait Studio",
+  "description": "AI portrait workflow with face detection, pose mapping, depth estimation",
+  "price": 4900,
+  "currency": "usd",
+  "status": "ready",
+  "category": "comfyui-pack",
+  "deliverable_path": "/home/scott/hardonia.store/products/comfyui-pack-ai-portrait-studio/comfyui-pack-ai-portrait-studio.tar.gz",
+  "workflows": [
+    "Image Face Detection (Mediapipe).json",
+    "Image to Pose Map (SDPose Multi-Person).json",
+    "Pose to Image (Z-Image-Turbo).json",
+    "Image Depth Estimation (MoGe).json",
+    "Geometry Estimation (MoGe).json"
+  ],
+  "checkout_url": "https://checkout.stripe.com/g/pay/cs_live_a1SEQc3FTbYx3srfXeEDAiY5lydxOj6TxwMczMKODFr7bSeSlDfq7lQcYq#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdicGRmZGhqaWBTZHdsZGtxJz8ncXdgZHFoYGtxWjcnKSdicGRmZGhqaWBMa2xxVXdgY2BxZm1TZHdsZGtxJz8nZmprcXdqaScpJ2JwZGZkaGppYElqZGFsa2JWZndgYGtTZHdsZGtxJz8nZmprcXdqaScpJ2R1bE5gfCc%2FJ3VuWmlsc2BaMDRWQlB2TEYzMDRCM31odEJSdXB9aUlqS1djRmdtT11SY3xTXHJ2MVRyM2B8QExddEhrS0NKZE1VUDZwRHdkNU1kTlNDQGhIaX9GamFtNE1CSWRqdGlpcUI1NWRQa3ZfZ2ZSJyknY3dqaFZgd3Ngdyc%2FcXdwYCknZ2RmbmJ3anBrYUZqaWp3Jz8nJmNjY2NjYycpJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl",
+  "gumroad_url": "",
+  "image_path": "",
+  "created_at": "2026-08-23T19:03:11.336994+00:00",
+  "stripe_product_id": "prod_V7wZs6Z6b2exBe",
+  "stripe_price_id": "price_1U7gg4C651G6xmqGJyijeBDz"
+}

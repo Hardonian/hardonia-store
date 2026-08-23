@@ -18406,3 +18406,18 @@
 [2026-08-23T18:33:50Z] financial: bridged from Gumroad
 [2026-08-23T18:33:50Z] analytics: bridged from storefront events
 [2026-08-23T18:33:50Z] snapshot written
+[2026-08-23T18:47:32Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-08-23T18:47:32Z] intel: themes=none best_offer=0 wr=
+[2026-08-23T18:47:32Z] financial: bridged from Gumroad
+[2026-08-23T18:47:32Z] analytics: bridged from storefront events
+[2026-08-23T18:47:32Z] snapshot written
+[2026-08-23T18:48:50Z] compute probe: util=0 free_pct=26 cap_ok=true
+[2026-08-23T18:48:50Z] intel: themes=none best_offer=0 wr=
+[2026-08-23T18:48:50Z] financial: bridged from Gumroad
+[2026-08-23T18:48:50Z] analytics: bridged from storefront events
+[2026-08-23T18:48:50Z] snapshot written
+[2026-08-23T19:03:51Z] compute probe: util=0 free_pct=49 cap_ok=true
+[2026-08-23T19:03:51Z] intel: themes=none best_offer=0 wr=
+[2026-08-23T19:03:51Z] financial: bridged from Gumroad
+[2026-08-23T19:03:51Z] analytics: bridged from storefront events
+[2026-08-23T19:03:51Z] snapshot written
