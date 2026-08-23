@@ -1,0 +1,20 @@
+{
+  "name": "ComfyUI Workflow Subscription",
+  "status": "ready",
+  "audience": "ComfyUI operators, GPU homelab users, founders building image pipelines",
+  "pain": "Workflows are undocumented, brittle, and hard to reuse across machines.",
+  "offer": "Versioned workflow packs, templates, and runbooks for your local GPU stack.",
+  "price": "$29",
+  "headline": "Recurring workflow packs for local ComfyUI operators.",
+  "checkout_url": "https://buy.stripe.com/7sY8wO8jC7lW9t0eGZb3q0H",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/comfyui-workflow-subscription.tar.gz",
+  "updated_at": "2026-07-13T23:42:55.119531+00:00",
+  "readiness_score": 100,
+  "slug": "comfyui-workflow-subscription",
+  "gumroad_url": "https://scottrmhardie.gumroad.com/l/yciis",
+  "early_adopter": true,
+  "founding_cohort": "First 100 customers lock this price for life; standard rate increases as the brand establishes.",
+  "price_tier": "subscription",
+  "standard_rate_later": "founding rate rises after first 100 users",
+  "image_path": "cover.png"
+}

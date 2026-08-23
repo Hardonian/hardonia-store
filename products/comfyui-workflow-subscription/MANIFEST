@@ -1,0 +1,13 @@
+{
+  "product": "ComfyUI Workflow Subscription",
+  "slug": "comfyui-workflow-subscription",
+  "price": "$29",
+  "generated_at": "2026-07-17T14:39:49.958760+00:00",
+  "deliverables": [
+    "onboarding/welcome.md",
+    "prompts/starter-presets.txt",
+    "workflows/default.json",
+    "workflows/starter-portrait-light.json"
+  ],
+  "bundle_bytes": 1870163
+}

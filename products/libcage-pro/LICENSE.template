@@ -1,0 +1,5 @@
+# Libcage Pro license key
+# After purchase you receive a unique non-empty key here.
+# Place it in a file and pass to libcage:  libcage --pro <this-file> --sbom agent.c
+# The file must be non-empty (any content) to unlock Pro features.
+LIBRAGE-PRO-<ORDER_ID>-<RANDOM>

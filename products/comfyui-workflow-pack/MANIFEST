@@ -1,0 +1,17 @@
+{
+  "product": "ComfyUI Workflow Pack",
+  "slug": "comfyui-workflow-pack",
+  "price": "$29",
+  "generated_at": "2026-07-17T14:39:49.958238+00:00",
+  "deliverables": [
+    "CHANGELOG",
+    "LICENSE",
+    "MANIFEST",
+    "base-txt2img.json",
+    "default.json",
+    "manifest.json",
+    "portrait-light.json",
+    "portrait-presets.txt"
+  ],
+  "bundle_bytes": 1430145
+}

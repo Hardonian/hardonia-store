@@ -1,0 +1,19 @@
+{
+  "product": "Autonomous Revenue Loop",
+  "slug": "autonomous-revenue-loop",
+  "price": "$499 one-time / $997 with implementation day / $750-$2500/mo retainer",
+  "generated_at": "2026-07-17T14:39:49.956679+00:00",
+  "deliverables": [
+    "config/caddy-checkout.patch",
+    "config/install-caddy-checkout.sh",
+    "playbook/new-lab-setup.md",
+    "samples/daily-brief-sample.txt",
+    "scripts/ai-lab-health-aggregator",
+    "scripts/revenue-os-sync.py",
+    "scripts/telegram-alert.sh",
+    "skills/automation.md",
+    "skills/productization.md",
+    "skills/revenue-os.md"
+  ],
+  "bundle_bytes": 1622840
+}

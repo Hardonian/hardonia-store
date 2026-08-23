@@ -1,0 +1,10 @@
+{
+  "name": "ai-portrait-studio-fulfillment",
+  "nodes": [
+    {"name": "Webhook", "type": "n8n-nodes-base.webhook", "parameters": {"path": "ai-portrait/order", "method": "POST"}},
+    {"name": "HTTP Request", "type": "n8n-nodes-base.httpRequest", "parameters": {"url": "http://127.0.0.1:8188/prompt", "method": "POST", "body": "{{ $json.body }}"}},
+    {"name": "Wait", "type": "n8n-nodes-base.wait", "parameters": {"amount": 2, "unit": "minutes"}},
+    {"name": "HTTP Request", "type": "n8n-nodes-base.httpRequest", "parameters": {"url": "http://127.0.0.1:8188/history", "method": "GET"}},
+    {"name": "Send Email", "type": "n8n-nodes-base.emailSend", "parameters": {"to": "{{ $json.customer_email }}", "subject": "Your AI Portrait Pack", "body": "Download from /output"}}
+  ]
+}

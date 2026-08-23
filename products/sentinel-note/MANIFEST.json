@@ -1,0 +1,17 @@
+{
+  "slug": "sentinel-note",
+  "name": "Sentinel Note",
+  "source": "/home/scott/ai-lab/store/bundles/sentinel-note.zip",
+  "size_bytes": 6760,
+  "sha256": "1d0975cac1c9a03ee0daeaa20e84810f12bf4a8050e93655db886b41fe841847",
+  "members": [
+    "home/scott/air/bundles/sentinel-note/pipelines/billing-qa.air",
+    "home/scott/air/bundles/sentinel-note/pipelines/referral-summary.air",
+    "home/scott/air/bundles/sentinel-note/pipelines/soap-note.air",
+    "home/scott/air/bundles/sentinel-note/product.json",
+    "pipelines/billing-qa.air",
+    "pipelines/referral-summary.air",
+    "pipelines/soap-note.air",
+    "product.json"
+  ]
+}

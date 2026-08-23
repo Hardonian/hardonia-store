@@ -1,0 +1,8 @@
+{
+  "generated_at": "2026-07-12T00:18:46Z",
+  "intel": {"block": false, "active_flags": [], "note": "manual override. Set block=true to make AU bot auto-escalate ALL auth queries (incident pause). Restore block=false after."},
+  "analytics": {"visitors_24h": 0, "top_product": "", "conversion_pct": 0},
+  "financial": { "gumroad_fees_pct": 10, "burn_monthly": 0, "revenue_monthly": 0, "margin_by_product": {} },
+  "compute": {"gpu_util_pct":0,"free_vram_pct":99,"active_keys":2,"capacity_ok":true},
+  "legal": { "open_flags": [], "minor_safety_clear": true }
+}

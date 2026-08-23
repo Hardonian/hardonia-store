@@ -1,0 +1,22 @@
+{
+  "schema": "ai-assurance.workflow-recovery/v1",
+  "workflow": "minimal-comfy-api-workflow.json",
+  "ready": false,
+  "required_nodes": [
+    "CheckpointLoaderSimple",
+    "KSampler"
+  ],
+  "required_models": [
+    "replace-with-licensed-model.safetensors"
+  ],
+  "missing_nodes": [
+    "KSampler"
+  ],
+  "missing_models": [
+    "replace-with-licensed-model.safetensors"
+  ],
+  "next_actions": [
+    "Install only trusted, reviewed custom nodes.",
+    "Acquire models only from sources with compatible licenses."
+  ]
+}

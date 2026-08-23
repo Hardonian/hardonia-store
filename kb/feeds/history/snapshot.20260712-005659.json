@@ -1,0 +1,96 @@
+{
+  "generated_at": "2026-07-12T00:56:58Z",
+  "intel": {"block": false, "active_flags": [], "note": "manual override. Set block=true to make AU bot auto-escalate ALL auth queries (incident pause). Restore block=false after."},
+  "analytics": {
+  "total_page_views": 1556,
+  "views_today": 1417,
+  "unique_visitors": 0,
+  "checkout_clicks": 9,
+  "checkout_clicks_today": 0,
+  "conversions": 0,
+  "conversion_rate": 0.0,
+  "total_revenue_cents": 0,
+  "top_pages": "ai-lab-health-report(159), autonomous-revenue-loop(145), hardonia-compute-api-access(143)",
+  "generated_at": "2026-07-12T00:56:59.932640Z"
+},
+  "financial": {
+  "total_revenue_cents": 0,
+  "products": [
+    {
+      "name": "ComfyUI Fashion Lookbook Kit",
+      "price_cents": 6900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/wvalkb"
+    },
+    {
+      "name": "ComfyUI Node Starter Kit",
+      "price_cents": 3900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/pelij"
+    },
+    {
+      "name": "ComfyUI Thumbnail Creator Kit",
+      "price_cents": 4900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/bwagjx"
+    },
+    {
+      "name": "ComfyUI Product Photo Kit",
+      "price_cents": 5900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/llffwp"
+    },
+    {
+      "name": "ComfyUI Fashion Lookbook Kit",
+      "price_cents": 6900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/ygzde"
+    },
+    {
+      "name": "ComfyUI Node Starter Kit",
+      "price_cents": 3900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/rjgjwo"
+    },
+    {
+      "name": "ComfyUI Thumbnail Creator Kit",
+      "price_cents": 4900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/pixnh"
+    },
+    {
+      "name": "ComfyUI Product Photo Kit",
+      "price_cents": 5900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/znlmsk"
+    },
+    {
+      "name": "ComfyUI Fashion Lookbook Kit",
+      "price_cents": 6900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/bpanyc"
+    },
+    {
+      "name": "ComfyUI Node Starter Kit",
+      "price_cents": 3900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/zokve"
+    }
+  ],
+  "currency": "usd",
+  "generated_at": "2026-07-12T00:56:59.862411+00:00",
+  "note": "live gumroad"
+},
+  "compute": {"gpu_util_pct":0,"free_vram_pct":99,"active_keys":2,"capacity_ok":true},
+  "legal": { "open_flags": [], "minor_safety_clear": true }
+}

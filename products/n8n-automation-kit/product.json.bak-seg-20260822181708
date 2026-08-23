@@ -1,0 +1,30 @@
+{
+  "name": "n8n Automation Kit",
+  "status": "ready",
+  "audience": "Automation engineers, founders, ops teams",
+  "pain": "You manually glue 6 tools. When one API changes, your pipeline fails silently and the leads stop flowing.",
+  "offer": "n8n templates for AI workflows with error handling built in. Founder: no ops hire. Enterprise: documented flows. Solo-dev: recovers without you.",
+  "price": "$39",
+  "headline": "n8n workflow pack for local AI automation.",
+  "checkout_url": "https://buy.stripe.com/eVqeVcgQ8cGgdJg9mFb3q0G",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/n8n-automation-kit.tar.gz",
+  "updated_at": "2026-08-03T18:02:48+00:00",
+  "readiness_score": 100,
+  "slug": "n8n-automation-kit",
+  "gumroad_url": "https://scottrmhardie.gumroad.com/l/wbrub",
+  "early_adopter": true,
+  "founding_cohort": "First 100 customers lock this price for life; standard rate increases as the brand establishes.",
+  "price_tier": "download",
+  "standard_rate_later": "rises ~2x at general availability",
+  "image_path": "cover.png",
+  "faq": [
+    {
+      "q": "What does it automate?",
+      "a": "Lead capture, content syndication, and status reporting workflows as importable n8n JSON."
+    },
+    {
+      "q": "Self-hosted or cloud?",
+      "a": "Works on either; includes localhost binding notes for privacy."
+    }
+  ]
+}

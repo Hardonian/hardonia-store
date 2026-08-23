@@ -1,0 +1,16 @@
+{
+  "slug": "prompt-pack-agent-ops",
+  "name": "Agent Ops Prompt Pack",
+  "tagline": "A collection of battle-tested prompts for orchestration, debugging, and delegation.",
+  "price": 9,
+  "currency": "usd",
+  "audience": "Solo AI founders",
+  "pain": "Inconsistent agent outputs",
+  "offer": "20 copy-paste prompts that get reliable agent runs",
+  "deliverable": "prompts.md",
+  "stripe_sku": "prompt-pack-agent-ops",
+  "checkout_url": "",
+  "gumroad_url": "",
+  "status": "draft",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/prompt-pack-agent-ops.tar.gz"
+}

@@ -1,0 +1,96 @@
+{
+  "generated_at": "2026-07-19T16:52:49Z",
+  "intel": {"block": false, "active_flags": [], "note": "themes: /, | best_offer: /mnt/ai-storage (wr / 79.0)"},
+  "analytics": {
+  "total_page_views": 13111,
+  "views_today": 834,
+  "unique_visitors": 0,
+  "checkout_clicks": 10,
+  "checkout_clicks_today": 0,
+  "conversions": 17,
+  "conversion_rate": 0.13,
+  "total_revenue_cents": 925300,
+  "top_pages": "ai-lab-health-report(1258), hardonia-compute-api-access(1247), autonomous-revenue-loop(1243)",
+  "generated_at": "2026-07-19T16:52:49.875669Z"
+},
+  "financial": {
+  "total_revenue_cents": 0,
+  "products": [
+    {
+      "name": "AI Portrait Studio",
+      "price_cents": 4900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/byygqt"
+    },
+    {
+      "name": "n8n Automation Kit",
+      "price_cents": 3900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/dfvftp"
+    },
+    {
+      "name": "Local AI Ops Checklist",
+      "price_cents": 2900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/qlkzxb"
+    },
+    {
+      "name": "ComfyUI Workflow Subscription",
+      "price_cents": 2900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/yciis"
+    },
+    {
+      "name": "ComfyUI Workflow Pack",
+      "price_cents": 2900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/zcbfw"
+    },
+    {
+      "name": "AI Lab Health Report",
+      "price_cents": 1900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/onmdo"
+    },
+    {
+      "name": "ComfyUI Thumbnail Creator Kit",
+      "price_cents": 4900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/kzevjv"
+    },
+    {
+      "name": "ComfyUI Product Photo Kit",
+      "price_cents": 5900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/mgcbj"
+    },
+    {
+      "name": "ComfyUI Fashion Lookbook Kit",
+      "price_cents": 6900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/iigjo"
+    },
+    {
+      "name": "ComfyUI Node Starter Kit",
+      "price_cents": 3900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/tvyxsv"
+    }
+  ],
+  "currency": "usd",
+  "generated_at": "2026-07-19T16:52:49.794415+00:00",
+  "note": "live gumroad"
+},
+  "compute": {"gpu_util_pct":0,"free_vram_pct":99,"active_keys":2,"capacity_ok":true},
+  "legal": { "open_flags": [], "minor_safety_clear": true }
+}

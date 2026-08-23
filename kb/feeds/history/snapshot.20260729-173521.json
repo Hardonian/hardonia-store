@@ -1,0 +1,96 @@
+{
+  "generated_at": "2026-07-29T17:35:20Z",
+  "intel": {"block": false, "active_flags": [], "note": "themes: /, | best_offer: /mnt/ai-storage (wr / 79.0)"},
+  "analytics": {
+  "total_page_views": 35342,
+  "views_today": 1048,
+  "unique_visitors": 0,
+  "checkout_clicks": 10,
+  "checkout_clicks_today": 0,
+  "conversions": 173,
+  "conversion_rate": 0.49,
+  "total_revenue_cents": 7139100,
+  "top_pages": "ai-lab-health-report(3019), hardonia-compute-api-access(3001), comfyui-workflow-pack(2933)",
+  "generated_at": "2026-07-29T17:35:21.618758Z"
+},
+  "financial": {
+  "total_revenue_cents": 0,
+  "products": [
+    {
+      "name": "DepShield \u2014 GitHub Org CVE Closure Toolkit",
+      "price_cents": 3900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/xgxfv"
+    },
+    {
+      "name": "Autonomous Revenue Loop",
+      "price_cents": 19900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/ohbonc"
+    },
+    {
+      "name": "AI Lab Power Bundle",
+      "price_cents": 14900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/cfdbu"
+    },
+    {
+      "name": "Hardonia Compute API Access",
+      "price_cents": 7900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/ufvymu"
+    },
+    {
+      "name": "Private Inference Access",
+      "price_cents": 4900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/bdidwv"
+    },
+    {
+      "name": "ComfyUI Thumbnail Creator Kit",
+      "price_cents": 4900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/uifiuz"
+    },
+    {
+      "name": "ComfyUI Product Photo Kit",
+      "price_cents": 5900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/nhtljf"
+    },
+    {
+      "name": "ComfyUI Fashion Lookbook Kit",
+      "price_cents": 6900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/bupvwt"
+    },
+    {
+      "name": "ComfyUI Node Starter Kit",
+      "price_cents": 3900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/kkyhy"
+    },
+    {
+      "name": "ComfyUI Thumbnail Creator Kit",
+      "price_cents": 4900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/zyzqg"
+    }
+  ],
+  "currency": "usd",
+  "generated_at": "2026-07-29T17:35:21.510222+00:00",
+  "note": "live gumroad"
+},
+  "compute": {"gpu_util_pct":0,"free_vram_pct":80,"active_keys":2,"capacity_ok":true},
+  "legal": { "open_flags": [], "minor_safety_clear": true }
+}

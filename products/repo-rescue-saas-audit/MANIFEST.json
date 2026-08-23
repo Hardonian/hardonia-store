@@ -1,0 +1,42 @@
+{
+  "product": "repo-rescue-saas-audit",
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "3dc0de31499ecd8613ec11e05ed1cf8a06730722eee19f29ab44027b4e15b776"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "058ca45f5eae838c64b12ebe5a4bf1a1b3f8eb8d02d6f907edb9e35c9b772b82"
+    },
+    {
+      "path": "PREVIEW.md",
+      "sha256": "2059546cbf3b3b4a60a6c2c427ce41dfc7108c5a810edf1d663ccbf9b54ebec7"
+    },
+    {
+      "path": "README.md",
+      "sha256": "75bb99e490814065a788677ee8023c7cb05bbf4585619c3bdc57fc25ee1b3064"
+    },
+    {
+      "path": "SUPPORT.md",
+      "sha256": "66f3e68c276c708f4b39aa0abc2301510790cdb13590cbae31469a859e713cb3"
+    },
+    {
+      "path": "WALKTHROUGH.md",
+      "sha256": "6fcb179804096f9f85ff4d14135ef3cfc0724778feed1a390c26276cffcc0ea8"
+    },
+    {
+      "path": "product.json",
+      "sha256": "9e6ec32970c9dcf73b8369ee5e59b7026134ed3cb1aa6f2d2649d45f7554cb32"
+    },
+    {
+      "path": "templates/audit-intake.md",
+      "sha256": "41a5b988fb94e7ca905a708da7048b5a3390e20c2131bf880a4b8ad7087aa689"
+    },
+    {
+      "path": "templates/evidence-register.md",
+      "sha256": "dde9ff80a902566af0f73185bb905d7f1ea881c4541df163823c6578a963de49"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "product": "Local AI Ops Checklist",
+  "slug": "local-ai-ops-checklist",
+  "price": "$29",
+  "generated_at": "2026-07-17T14:39:49.961494+00:00",
+  "deliverables": [
+    "CHANGELOG",
+    "LICENSE",
+    "MANIFEST",
+    "ai-lab-dashboard.service",
+    "ai-lab-status.sh"
+  ],
+  "bundle_bytes": 1734874
+}

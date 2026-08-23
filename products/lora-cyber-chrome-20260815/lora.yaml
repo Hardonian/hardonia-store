@@ -1,0 +1,20 @@
+name: "Cyber Chrome LoRA"
+sku: lora-cyber-chrome-20260815
+type: comfyui-lora
+base_model: "SDXL 1.0"
+trigger_word: "cyberchrome"
+recommended_strength: 0.78
+description: >
+  Reflective liquid-metal chrome. Sovereign-trained LoRA; drop into
+  ComfyUI /models/loras and reference by filename.
+files:
+  - lora: lora-cyber-chrome-20260815.safetensors
+  - preview: preview.png
+  - readme: README.md
+install:
+  - "mkdir -p ~/ComfyUI/models/loras"
+  - "cp lora-cyber-chrome-20260815/lora-cyber-chrome-20260815.safetensors ~/ComfyUI/models/loras/"
+compat:
+  - "ComfyUI"
+  - "SDXL"
+  - "Automatic1111 (lora load)"

@@ -1,0 +1,20 @@
+{
+  "slug": "agent-skin-heritage-quiet",
+  "name": "Heritage Quiet — Agent Skin Pack",
+  "status": "draft",
+  "audience": "sovereign AI operators running Hermes / local agent fleets",
+  "pain": "generic, unbranded agent UIs; no identity separation between fleets or clients",
+  "offer": "Heritage Quiet — Agent Skin Pack: a drop-in skin.yaml that themes the agent CLI/TUI/GUI from one file, plus 2 bundled operator skills.",
+  "price": "$19 one-time",
+  "headline": "Restrained heritage monochrome — Wall Street restraint for AI operators.",
+  "checkout_url": "https://buy.stripe.com/00w28q1VecGgcFc9mFb3q2d",
+  "gumroad_url": "https://buy.stripe.com/00w28q1VecGgcFc9mFb3q2d",
+  "image_path": "/home/scott/hardonia.store/products/agent-skin-heritage-quiet/assets/cover.png",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/agent-skin-heritage-quiet.tar.gz",
+  "updated_at": "2026-08-06T20:21:57.416290+00:00",
+  "readiness_score": 95,
+  "source": "/home/scott/hardonia.store/products/agent-skin-heritage-quiet/product.json",
+  "launch_gate": "ready: deliverable present, checkout wired, install script included",
+  "sku": "skin-heritage-quiet",
+  "stripe_sku": "skin-heritage-quiet"
+}

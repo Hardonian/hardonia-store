@@ -1,0 +1,27 @@
+{
+  "name": "HRDraft",
+  "status": "ready",
+  "slug": "hr-draft",
+  "audience": "Small business HR teams, municipal HR offices, and local government people-operations.",
+  "pain": "Cloud HR AI tools expose employee PII and incident details to third parties and bill per seat/token.",
+  "offer": "Local AI runtime + 3 HR drafting pipelines (policy draft, offer letter, incident summary) with review gates and PII redaction.",
+  "price": "$197",
+  "headline": "Local HR & policy drafting. Employee data never leaves the building.",
+  "checkout_url": "https://buy.stripe.com/bJe14mgQ89u434CcyRb3q1T",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/hr-draft.tar.gz",
+  "readiness_score": 100,
+  "price_tier": "one-time",
+  "image_path": "/home/scott/hardonia.store/products/hr-draft/assets/cover.png",
+  "cross_sell": "Part of the Hardonia Enterpriser all-access suite.",
+  "faq": [
+    {
+      "q": "Is employee PII exposed?",
+      "a": "No. Incident summaries redact identifiers as [REDACTED] and run locally."
+    },
+    {
+      "q": "What does it draft?",
+      "a": "Workplace policies, offer letters, and incident investigation summaries."
+    }
+  ],
+  "updated_at": "2026-08-03T18:02:48+00:00"
+}

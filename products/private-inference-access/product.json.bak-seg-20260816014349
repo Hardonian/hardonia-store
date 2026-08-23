@@ -1,0 +1,20 @@
+{
+  "name": "Private Inference Access",
+  "status": "ready",
+  "audience": "Local AI operators, homelab users, solopreneurs needing private inference",
+  "pain": "Cloud inference logs prompts, costs spike, and privacy is optional.",
+  "offer": "Private Ollama/ComfyUI access with API keys, no logs, Ontario-hosted.",
+  "price": "$9/mo or $0.10 per 1k tokens",
+  "headline": "Private inference access with API keys and usage metering.",
+  "checkout_url": "https://buy.stripe.com/fZuaEW57q0Xy7kS7exb3q0I",
+  "gumroad_url": "https://scottrmhardie.gumroad.com/l/bdidwv",
+  "updated_at": "2026-08-03T18:02:48+00:00",
+  "readiness_score": 100,
+  "slug": "private-inference-access",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/private-inference-access.tar.gz",
+  "early_adopter": true,
+  "founding_cohort": "First 100 customers lock this price for life; standard rate increases as the brand establishes.",
+  "price_tier": "subscription",
+  "standard_rate_later": "$29/mo after first 100 users",
+  "image_path": "cover.png"
+}

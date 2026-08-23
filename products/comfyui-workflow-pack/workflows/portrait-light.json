@@ -1,0 +1,55 @@
+{
+  "last_node_id": 4,
+  "last_link_id": 4,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "EmptyLatentImage",
+      "width": 1024,
+      "height": 1024,
+      "batch_size": 1
+    },
+    {
+      "id": 2,
+      "type": "KSampler",
+      "seed": 0,
+      "steps": 30,
+      "cfg": 7,
+      "sampler_name": "euler",
+      "scheduler": "normal"
+    },
+    {
+      "id": 3,
+      "type": "CLIPTextEncode",
+      "text": "studio portrait, dramatic rim light, dark background"
+    },
+    {
+      "id": 4,
+      "type": "SaveImage",
+      "filename_prefix": "comfyui-pack-portrait-"
+    }
+  ],
+  "links": [
+    [
+      1,
+      0,
+      2,
+      0,
+      1
+    ],
+    [
+      3,
+      0,
+      2,
+      1,
+      1
+    ],
+    [
+      2,
+      0,
+      4,
+      0,
+      1
+    ]
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "LedgerDraft",
+  "status": "ready",
+  "slug": "ledger-draft",
+  "audience": "Accounting practices, bookkeeping firms, and small municipal finance offices.",
+  "pain": "Cloud AI writing tools expose client financial data to third parties and bill per token/seat.",
+  "offer": "Local AI runtime + 3 financial drafting pipelines (client letter, recon summary, grant report) with review gates.",
+  "price": "$197",
+  "headline": "Local bookkeeping & financial letter drafting. Client figures never leave the building.",
+  "checkout_url": "https://buy.stripe.com/eVqeVcbvO7lWgVsfL3b3q1U",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/ledger-draft.tar.gz",
+  "readiness_score": 100,
+  "price_tier": "one-time",
+  "image_path": "/home/scott/hardonia.store/products/ledger-draft/assets/cover.png",
+  "cross_sell": "Part of the Hardonia Enterpriser all-access suite.",
+  "faq": [
+    {
+      "q": "Are financial figures sent to a cloud?",
+      "a": "No. All processing is local on your hardware."
+    },
+    {
+      "q": "What does it draft?",
+      "a": "Client letters, reconciliation summaries, and grant reports."
+    }
+  ],
+  "updated_at": "2026-08-03T18:02:48+00:00"
+}

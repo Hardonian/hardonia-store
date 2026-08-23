@@ -1,0 +1,27 @@
+{
+  "name": "Sentinel Note",
+  "status": "ready",
+  "slug": "sentinel-note",
+  "audience": "Independent medical clinics that need local-first clinical drafting.",
+  "pain": "Generic AI scribing tools send patient intake to third-party clouds and bill per token.",
+  "offer": "Local AI SOAP-note drafter + audit log. Runs on your hardware, no cloud, no API keys.",
+  "price": "$297",
+  "headline": "Local SOAP-note drafting for clinics. Your data never leaves the building.",
+  "checkout_url": "https://buy.stripe.com/cNi00i43mgWwgVs1Udb3q1W",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/sentinel-note.tar.gz",
+  "readiness_score": 100,
+  "price_tier": "one-time",
+  "image_path": "/home/scott/hardonia.store/products/sentinel-note/assets/cover.png",
+  "cross_sell": "Part of the Hardonia Enterpriser all-access suite.",
+  "faq": [
+    {
+      "q": "Does it send data to the cloud?",
+      "a": "No. Everything runs on your local Ollama model."
+    },
+    {
+      "q": "What does it draft?",
+      "a": "SOAP notes, billing QA, and referral summaries from structured intake."
+    }
+  ],
+  "updated_at": "2026-08-03T18:02:48+00:00"
+}

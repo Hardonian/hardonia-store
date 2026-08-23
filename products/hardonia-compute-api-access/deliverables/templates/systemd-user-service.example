@@ -1,0 +1,13 @@
+[Unit]
+Description=Hardonia Compute API
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/scott/ai-workspace/repos/hardonia-compute-api
+ExecStart=/home/scott/ai-workspace/repos/hardonia-compute-api/.venv/bin/uvicorn app.main:app --host 127.0.0.1 --port 8050
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target

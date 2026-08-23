@@ -1,0 +1,29 @@
+{
+  "slug": "repo-rescue-saas-audit",
+  "name": "SaaS Repo Rescue Audit",
+  "status": "contact-pricing",
+  "audience": "SaaS founders and engineering leads operating a production web application with billing, authentication, webhooks, or tenant data.",
+  "pain": "A production repository can look healthy while hiding broken checkout, webhook, authorization, deployment, or data-isolation paths that cost trust and revenue.",
+  "offer": "A fixed-scope evidence-backed audit: buyer-path tests, risk-ranked findings, remediation plan, and an executive-ready closure report. The optional fix sprint is separately scoped after the audit.",
+  "headline": "Find the production path that is costing your SaaS trust before a customer does.",
+  "price": "$499 fixed-scope audit / $1,500 fix sprint after findings review",
+  "checkout_url": "https://aiautomatedsystems.ca/contact?product=repo-rescue-saas-audit",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/repo-rescue-saas-audit.tar.gz",
+  "readiness_score": 100,
+  "price_tier": "service",
+  "faq": [
+    {
+      "q": "What is reviewed?",
+      "a": "The agreed repository and deployed buyer path: auth, tenant boundaries, billing/checkout, webhook verification, fulfillment, health checks, tests, and release controls relevant to your stack."
+    },
+    {
+      "q": "What do I receive?",
+      "a": "A prioritized evidence register, reproducible findings, recommended fixes, rollback notes, and a concise leadership summary. No production change is made without approval."
+    },
+    {
+      "q": "What is not included?",
+      "a": "The fixed audit price does not include implementation, penetration testing, legal advice, or unrestricted source-code review. Any fix sprint is separately approved after findings review."
+    }
+  ],
+  "updated_at": "2026-08-11T21:00:57.877518+00:00"
+}

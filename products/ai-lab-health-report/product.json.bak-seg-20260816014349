@@ -1,0 +1,35 @@
+{
+  "name": "AI Lab Health Report",
+  "status": "ready",
+  "audience": "Local AI operators, homelab users, founders needing audits",
+  "pain": "Health checks are ad-hoc, not packaged, and hard to resell.",
+  "offer": "Local AI lab audit + monitoring pack for homelab/edge GPU operators.",
+  "price": "$19",
+  "headline": "AI lab health report pack for local operators.",
+  "checkout_url": "https://aiautomatedsystems.ca/audit/",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/ai-lab-health-report.tar.gz",
+  "updated_at": "2026-08-03T18:02:48+00:00",
+  "readiness_score": 100,
+  "slug": "ai-lab-health-report",
+  "gumroad_url": "https://scottrmhardie.gumroad.com/l/kesuja",
+  "early_adopter": true,
+  "founding_cohort": "First 100 customers lock this price for life; standard rate increases as the brand establishes.",
+  "price_tier": "download",
+  "standard_rate_later": "rises ~2x at general availability",
+  "ab_test": {
+    "slug": "ai-lab-health-report",
+    "a": "https://aiautomatedsystems.ca/audit/",
+    "b": "https://scottrmhardie.gumroad.com/l/hffnkj"
+  },
+  "image_path": "cover.png",
+  "faq": [
+    {
+      "q": "What does the report cover?",
+      "a": "GPU utilization, thermal headroom, disk pressure, and model routing efficiency across your lab."
+    },
+    {
+      "q": "How often should I run it?",
+      "a": "Weekly, or after any hardware or workload change."
+    }
+  ]
+}

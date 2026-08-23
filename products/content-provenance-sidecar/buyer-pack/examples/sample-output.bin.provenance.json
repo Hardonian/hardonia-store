@@ -1,0 +1,10 @@
+{
+  "asset_filename": "sample-output.bin",
+  "asset_sha256": "311d5fcaa4c18c8400446f076da1b5a80e10c2d7dc5b89167a2d93a59d82fe47",
+  "boundary": "Integrity/provenance record only; not a C2PA manifest, watermark, legal opinion, or compliance certification.",
+  "created_at": "2026-08-04T01:38:05.510896+00:00",
+  "model_identifier": "example-model",
+  "prompt_sha256": "0f3936bd400daf7bd0c2af727685d64fe717c4b1a2a17f3c11e70f8e8500a18d",
+  "schema": "ai-assurance.provenance-sidecar/v1",
+  "workflow_sha256": "e3b3dec78f3b53ef01d7149a76012cb850e1b6fd69684c0daf761c8c3c2a4486"
+}

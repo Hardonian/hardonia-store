@@ -1,0 +1,18 @@
+{
+  "slug": "compliance-keep-current",
+  "name": "Compliance Keep Current",
+  "status": "draft",
+  "audience": "local AI operators and small teams",
+  "pain": "unclear setup, operating, or compliance path for a local AI workflow",
+  "offer": "Draft offer for Compliance Keep Current; operator review required before launch.",
+  "price": "contact for pricing",
+  "headline": "Compliance Keep Current for private, local-first AI operations.",
+  "checkout_url": "https://aiautomatedsystems.ca/contact?product=compliance-keep-current",
+  "gumroad_url": "https://aiautomatedsystems.ca/contact?product=compliance-keep-current",
+  "image_path": "/home/scott/hardonia.store/products/compliance-keep-current/assets/cover.png",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/compliance-keep-current.tar.gz",
+  "updated_at": "2026-07-17T14:39:33.983981+00:00",
+  "readiness_score": 25,
+  "source": "/home/scott/hardonia.store/products/compliance-keep-current/product.json",
+  "launch_gate": "draft: validate deliverable, CTA, pricing, and support before promotion"
+}

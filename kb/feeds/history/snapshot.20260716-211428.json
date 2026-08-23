@@ -1,0 +1,96 @@
+{
+  "generated_at": "2026-07-16T21:14:27Z",
+  "intel": {"block": false, "active_flags": [], "note": "themes: /, | best_offer: /mnt/ai-storage (wr / 79.0)"},
+  "analytics": {
+  "total_page_views": 8270,
+  "views_today": 1381,
+  "unique_visitors": 0,
+  "checkout_clicks": 9,
+  "checkout_clicks_today": 0,
+  "conversions": 0,
+  "conversion_rate": 0.0,
+  "total_revenue_cents": 0,
+  "top_pages": "ai-lab-health-report(816), hardonia-compute-api-access(804), autonomous-revenue-loop(800)",
+  "generated_at": "2026-07-16T21:14:28.719367Z"
+},
+  "financial": {
+  "total_revenue_cents": 0,
+  "products": [
+    {
+      "name": "Local AI Ops Checklist",
+      "price_cents": 2900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/quvyz"
+    },
+    {
+      "name": "ComfyUI Workflow Subscription",
+      "price_cents": 2900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/zlnokv"
+    },
+    {
+      "name": "ComfyUI Workflow Pack",
+      "price_cents": 2900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/sfjgxy"
+    },
+    {
+      "name": "AI Lab Health Report",
+      "price_cents": 1900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/gavlzz"
+    },
+    {
+      "name": "Compliance Keep-Current",
+      "price_cents": 9900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/hunthb"
+    },
+    {
+      "name": "Compliance-as-a-Service Lite",
+      "price_cents": 29900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/cafvt"
+    },
+    {
+      "name": "Inference API \u2014 Scale",
+      "price_cents": 19900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/mmpqa"
+    },
+    {
+      "name": "Inference API \u2014 Starter",
+      "price_cents": 4900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/gbaduy"
+    },
+    {
+      "name": "Private AI Vault",
+      "price_cents": 199700,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/qbxlmb"
+    },
+    {
+      "name": "Agent Ops Concierge",
+      "price_cents": 49700,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/orztqk"
+    }
+  ],
+  "currency": "usd",
+  "generated_at": "2026-07-16T21:14:28.645999+00:00",
+  "note": "live gumroad"
+},
+  "compute": {"gpu_util_pct":0,"free_vram_pct":99,"active_keys":2,"capacity_ok":true},
+  "legal": { "open_flags": [], "minor_safety_clear": true }
+}

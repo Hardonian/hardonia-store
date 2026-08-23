@@ -1,0 +1,42 @@
+{
+  "slug": "comfyui-xxx-flux-pro",
+  "name": "FLUX Fantasy PRO — Uncensored Workflows + LoRA Recipe",
+  "status": "draft",
+  "audience": "Pro adult creators with a GPU + ComfyUI (18+)",
+  "pain": "SDXL can't hold character identity across a batch; creators need a repeatable local pipeline with their own trained LoRA.",
+  "offer": "Validated FLUX.1-dev fp8 workflows (UI + API), a real LoRA training recipe, 30 prompt presets, and the hardened headless generator for fictional, consensual, adult-only rendering on your own GPU.",
+  "price": "$49",
+  "currency": "usd",
+  "price_usd": 49,
+  "headline": "The complete local uncensored pipeline: FLUX.1-dev lane + your own character LoRA.",
+  "checkout_url": "https://buy.stripe.com/5kQbJ057qgWwbB8buNb3q2z",
+  "gumroad_url": "",
+  "deliverable": "bundle",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/comfyui-xxx-flux-pro.tar.gz",
+  "landing_path": "/home/scott/ai-lab/reports/landing/comfyui-xxx-flux-pro.html",
+  "image_path": "/home/scott/hardonia.store/products/comfyui-xxx-flux-pro/assets/cover.png",
+  "source": "/home/scott/hardonia.store/products/comfyui-xxx-flux-pro",
+  "readiness_score": 100,
+  "category": "digital-asset",
+  "stripe_sku": "comfyui-xxx-flux-pro",
+  "offer_desc": "FLUX.1-dev fp8 UI + API workflows, 30 presets, validated LoRA recipe (12-20 images, 2000 steps, flowmatch), headless generator. 18+ fictional consensual only.",
+  "updated_at": "2026-08-08T01:50:00-04:00",
+  "faq": [
+    {
+      "q": "What's in PRO that the base pack doesn't have?",
+      "a": "The LoRA training recipe (a real validated config for character/style identity at 1024x1024), 24 extra prompt presets, and the full buyer doc set. The workflows and generator are the same proven FLUX lane."
+    },
+    {
+      "q": "Is this for adult content?",
+      "a": "It is a workflow + recipe for fictional, consensual adult-fantasy art. You must be 18+. Buyer docs include age verification and legal safeguards."
+    },
+    {
+      "q": "Do I need ComfyUI + a GPU?",
+      "a": "Yes. Workflows run on your own ComfyUI; LoRA training needs ~20GB VRAM (recipe includes a lower-VRAM fallback). Models are not included."
+    },
+    {
+      "q": "Refunds?",
+      "a": "30-day no-questions money-back on the digital pack (details in LICENSE.md)."
+    }
+  ]
+}

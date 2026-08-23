@@ -1,0 +1,33 @@
+{
+  "slug": "ai-change-ledger",
+  "name": "AI Change Ledger",
+  "status": "ready",
+  "audience": "Auditors, founders, enterprises",
+  "pain": "Every change to your AI stack should leave a receipt. Yours leaves nothing.",
+  "offer": "Provable AI change ledger with hash-chained receipts. Founder: prove it shipped. Enterprise: stand the audit. Solo-dev: never lose the thread.",
+  "price": "$29/mo",
+  "headline": "Know exactly what changed in your AI stack before it becomes an outage.",
+  "checkout_url": "https://buy.stripe.com/7sY14m1Ve7lWeNkdCVb3q20",
+  "gumroad_url": "https://aiautomatedsystems.ca/contact?product=ai-change-ledger",
+  "landing_path": "/home/scott/ai-lab/reports/landing/ai-change-ledger.html",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/ai-change-ledger.tar.gz",
+  "readiness_score": 100,
+  "price_tier": "subscription",
+  "differentiator": "Continuous tamper-evident change receipts generated on-box; not a dashboard, audit, or cloud log collector.",
+  "proof": "/home/scott/ai-lab/reports/change-ledger/latest.md",
+  "faq": [
+    {
+      "q": "Does data leave the machine?",
+      "a": "No. The engine records aggregate local state and hashes it into an append-only receipt chain."
+    },
+    {
+      "q": "What does it monitor?",
+      "a": "Service and timer names, local inference lane/model counts, GPU summaries, and revenue-truth status."
+    },
+    {
+      "q": "Is this a security guarantee?",
+      "a": "No. It is an evidence and change-detection layer; human review remains required for material changes."
+    }
+  ],
+  "updated_at": "2026-08-03T18:02:48+00:00"
+}

@@ -1,0 +1,31 @@
+# AI Lab Audit API — Production .env Template
+# Copy to /mnt/ai-storage/ai-workspace/repos/ai-lab-audit-api/.env
+
+APP_NAME=ai-lab-audit-api
+APP_ENV=production
+ALLOW_INSECURE_LOCAL_AUTH=false
+API_KEY=your-secure-api-key-here
+DATABASE_PATH=./data/ai_lab_audit.db
+REPORT_DIR=./data/reports
+LOCAL_METRICS_DB=/home/scott/ai-lab/metrics/billing_metrics.db
+
+METRICS_ENABLED=true
+METRICS_SAMPLE_SECS=60
+METRICS_PREFIX=lab
+METRICS_EXPORT_DIR=/home/scott/ai-lab/metrics/prometheus
+
+# STRIPE — REPLACE WITH YOUR LIVE KEYS
+STRIPE_SECRET_KEY=sk_live_xxxxxxxxxxxxxxxxxxxxxxxx
+STRIPE_PUBLISHABLE_KEY=pk_live_xxxxxxxxxxxxxxxxxxxxxxxx
+STRIPE_WEBHOOK_SECRET=whsec_xxxxxxxxxxxxxxxxxxxxxxxx
+
+# Checkout API integration
+CHECKOUT_CLAIM_URL=http://127.0.0.1:8012/api/v1/fulfillment/claim
+CHECKOUT_SESSION_URL=http://127.0.0.1:8012/api/v1/checkout/session
+REPORT_ACCESS_SECRET=your-report-access-secret-here
+
+# Email (optional)
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=587
+EMAIL_USER=your-email@gmail.com
+EMAIL_PASS=your-app-password

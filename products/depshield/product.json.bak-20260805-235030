@@ -1,0 +1,27 @@
+{
+  "name": "DepShield — GitHub Org CVE Closure Toolkit",
+  "status": "draft",
+  "audience": "Dev teams, solo founders, and agencies running multi-repo GitHub orgs with Dependabot alert debt",
+  "pain": "50–900 open 'high severity' Dependabot alerts across repos you'll never get to — and they keep the org red.",
+  "offer": "The exact engine that cut 915 → 132 open alerts across 54 repos in one session — parameterized so you run it on ANY org (npm/pnpm/Python/Cargo/Maven).",
+  "price": "$39",
+  "headline": "Zero your GitHub org's CVE alerts — without breaking builds.",
+  "checkout_url": "https://buy.stripe.com/fZuaEWbvOay8gVs9mFb3q1Z",
+  "deliverable_path": "/home/scott/ai-lab/store/bundles/depshield-cve-closure-toolkit.zip",
+  "updated_at": "2026-07-26T15:30:00+00:00",
+  "readiness_score": 100,
+  "slug": "depshield",
+  "gumroad_url": "https://scottrmhardie.gumroad.com/l/xgxfv",
+  "price_cents": 3900,
+  "price_tier": "download",
+  "category": "developer-security",
+  "early_adopter": true,
+  "founding_cohort": "First 100 buyers lock $39 for life; standard rate rises as the brand establishes.",
+  "standard_rate_later": "rises to $79 at general availability",
+  "image_path": "cover.png",
+  "faq": [
+    { "q": "Does this need my GitHub token?", "a": "Yes — it runs the gh CLI against your org (read alerts, open PRs). The bypass-merge helper uses an admin token to land verified zero-CVE PRs." },
+    { "q": "Will it break my builds?", "a": "No. It pins in-major patched versions and verifies a 0-count audit before every merge. Major-migration items (e.g. next 15→16) are documented, not forced." },
+    { "q": "What package managers are covered?", "a": "npm, pnpm, Python (uv/pip), Cargo (Rust), and Maven — the five the engine actually cleared." }
+  ]
+}

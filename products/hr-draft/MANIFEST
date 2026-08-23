@@ -1,0 +1,21 @@
+{
+  "slug": "hr-draft",
+  "name": "HRDraft",
+  "source": "/home/scott/ai-lab/store/bundles/hr-draft.zip",
+  "size_bytes": 16605,
+  "sha256": "2ab7b3b94383cd742491aa96d31780b60824f37997e0765472b7c26990a77242",
+  "members": [
+    "bundles/hr-draft/README.md",
+    "bundles/hr-draft/pipelines/incident-summary.air",
+    "bundles/hr-draft/pipelines/offer-letter.air",
+    "bundles/hr-draft/pipelines/policy-draft.air",
+    "bundles/hr-draft/product.json",
+    "compiler/__pycache__/air_compiler.cpython-314.pyc",
+    "compiler/air_compiler.py",
+    "runtime/air_runtime.py",
+    "scripts/create_stripe_price.py",
+    "scripts/install.sh",
+    "scripts/sentinel-doctor.sh",
+    "scripts/suite-doctor.sh"
+  ]
+}

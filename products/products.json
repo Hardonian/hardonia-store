@@ -1,0 +1,38 @@
+[
+  {
+    "sku": "skin-neon-sovereign",
+    "name": "Neon Sovereign — Agent Skin Pack",
+    "price_usd": 19,
+    "tagline": "Cyan-on-ink command surface for operators running sovereign AI fleets at 2am.",
+    "type": "agent-skin",
+    "files": ["skin.yaml"],
+    "install": "install-neon-sovereign.sh",
+    "deliverable": "skin.yaml + 2 bundled skills (overnight-loop, revenue-os)",
+    "competition": "none — curated agent-identity packs are an uncrowded shelf",
+    "status": "ready"
+  },
+  {
+    "sku": "skin-heritage-quiet",
+    "name": "Heritage Quiet — Agent Skin Pack",
+    "price_usd": 19,
+    "tagline": "Restrained heritage monochrome — Wall Street restraint for AI operators.",
+    "type": "agent-skin",
+    "files": ["skin.yaml"],
+    "install": "install-heritage-quiet.sh",
+    "deliverable": "skin.yaml + 2 bundled skills (executive-brief, brand-ip)",
+    "competition": "none — premium monochrome agent themes are unclaimed",
+    "status": "ready"
+  },
+  {
+    "sku": "skin-pack-bundle",
+    "name": "Both Skins + Bonus Loop Pack",
+    "price_usd": 39,
+    "tagline": "Both agent skins plus the autonomous overnight-revenue skill bundle.",
+    "type": "agent-skin-bundle",
+    "files": ["skin.yaml", "skin.yaml"],
+    "install": "install-bundle.sh",
+    "deliverable": "both skins + 4 bundled skills + overnight-loop cron template",
+    "competition": "bundle arbitrage — two skins + automation for the price of two",
+    "status": "ready"
+  }
+]

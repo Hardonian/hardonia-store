@@ -1,0 +1,39 @@
+{
+  "slug": "sovereign-ops-score",
+  "name": "Sovereign Ops Score API",
+  "tagline": "POST your lab metrics \u2192 get JSON score + HTML report + trend history. Automate your weekly audit.",
+  "price": 29,
+  "currency": "usd",
+  "interval": "month",
+  "checkout_url": "https://buy.stripe.com/eVq4gyfM4dKk48G2Yhb3q2s",
+  "gumroad_url": "https://buy.stripe.com/eVq4gyfM4dKk48G2Yhb3q2s",
+  "category": "api",
+  "status": "ready",
+  "readiness_score": 90,
+  "launch_gate": {
+    "build_evidence": true,
+    "test_evidence": true,
+    "security_evidence": true
+  },
+  "assets": [
+    "api_key.txt",
+    "openapi.yaml",
+    "example_request.json"
+  ],
+  "deliverables": [
+    "API key (rate-limited, scoped)",
+    "POST /score \u2014 accepts GPU, disk, Ollama, service metrics",
+    "Returns: score JSON + HTML report URL + trend data",
+    "OpenAPI spec + example client (curl/Python/JS)",
+    "Monthly quota: 1000 requests"
+  ],
+  "stripe_sku": "sovereign-ops-score",
+  "price_id": "price_1U1qC0C651G6xmqGkAa5F2OV",
+  "leverages": [
+    "ai-lab-audit-api (:8011) report generator",
+    "generate_report.py",
+    "existing audit logic"
+  ],
+  "delivery": "instant API key + docs",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/sovereign-ops-score.tar.gz"
+}

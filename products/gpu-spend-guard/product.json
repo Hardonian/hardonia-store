@@ -1,0 +1,38 @@
+{
+  "slug": "gpu-spend-guard",
+  "name": "GPU Spend Guard",
+  "tagline": "Real-time alerts when GPU $/hr exceeds your threshold. Daily summary via Telegram/Discord/email.",
+  "price": 19,
+  "currency": "usd",
+  "interval": "month",
+  "checkout_url": "https://buy.stripe.com/28E3cu43m49K20ydCVb3q2r",
+  "gumroad_url": "https://buy.stripe.com/28E3cu43m49K20ydCVb3q2r",
+  "category": "monitoring",
+  "status": "draft",
+  "readiness_score": 90,
+  "launch_gate": {
+    "build_evidence": true,
+    "test_evidence": true,
+    "security_evidence": true
+  },
+  "assets": [
+    "config.yaml",
+    "notifier.py",
+    "install.sh"
+  ],
+  "deliverables": [
+    "config.yaml — thresholds, webhook URLs, schedule",
+    "notifier.py — reads GPU metrics, fires alerts",
+    "install.sh — systemd timer + env setup",
+    "Telegram/Discord/email webhook templates"
+  ],
+  "stripe_sku": "gpu-spend-guard",
+  "price_id": "price_1U1qC0C651G6xmqGxV9Lugic",
+  "leverages": [
+    "ollama-gpu-isolation-guard.sh",
+    "dashboard-smoke",
+    "Prometheus metrics stack"
+  ],
+  "delivery": "instant download + setup guide",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/gpu-spend-guard.tar.gz"
+}

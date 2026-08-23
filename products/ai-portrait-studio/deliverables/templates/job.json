@@ -1,0 +1,13 @@
+{
+  "product": "ai-portrait-studio",
+  "variant": "starter",
+  "customer_email": "",
+  "input_image": "",
+  "prompt": "",
+  "negative_prompt": "",
+  "width": 1024,
+  "height": 1024,
+  "steps": 30,
+  "cfg": 7,
+  "seed": -1
+}

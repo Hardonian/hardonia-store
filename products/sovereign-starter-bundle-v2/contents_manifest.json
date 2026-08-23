@@ -1,0 +1,88 @@
+{
+  "bundle_name": "Sovereign Starter Bundle",
+  "version": "2026.08.07",
+  "generated_at": "2026-08-07T12:31:58.368806",
+  "contents": [
+    {
+      "source": "agent-skin-heritage-quiet",
+      "category": "agent-skin",
+      "name": "Heritage Quiet \u2014 Agent Skin Pack",
+      "version": "2026-08-06T20:21:57.416290+00:00",
+      "assets_copied": [
+        "agent-skin-heritage-quiet_skin.yaml"
+      ],
+      "stripe_sku": "skin-heritage-quiet",
+      "price_id": ""
+    },
+    {
+      "source": "agent-skin-neon-sovereign",
+      "category": "agent-skin",
+      "name": "Neon Sovereign \u2014 Agent Skin Pack",
+      "version": "2026-08-06T20:21:57.415990+00:00",
+      "assets_copied": [
+        "agent-skin-neon-sovereign_skin.yaml"
+      ],
+      "stripe_sku": "skin-neon-sovereign",
+      "price_id": ""
+    },
+    {
+      "source": "lora-neon-line-art",
+      "category": "comfyui-lora",
+      "name": "Neon Line Art \u2014 ComfyUI LoRA Pack",
+      "version": "2026-08-07T12:31:58.370089",
+      "assets_copied": [
+        "lora-neon-line-art_lora.yaml",
+        "lora-neon-line-art_README.md"
+      ],
+      "stripe_sku": "lora-neon-line-art",
+      "price_id": ""
+    },
+    {
+      "source": "prompt-pack-agent-ops",
+      "category": "prompt-pack",
+      "name": "Agent Ops Prompt Pack",
+      "version": "2026-08-07T12:31:58.370567",
+      "assets_copied": [
+        "prompt-pack-agent-ops_prompts.md",
+        "prompt-pack-agent-ops_README.md"
+      ],
+      "stripe_sku": "prompt-pack-agent-ops",
+      "price_id": ""
+    },
+    {
+      "source": "prompt-pack-comfyui",
+      "category": "prompt-pack",
+      "name": "ComfyUI Workflow Prompt Pack",
+      "version": "2026-08-07T12:31:58.371010",
+      "assets_copied": [
+        "prompt-pack-comfyui_prompts.md",
+        "prompt-pack-comfyui_README.md"
+      ],
+      "stripe_sku": "prompt-pack-comfyui",
+      "price_id": ""
+    },
+    {
+      "source": "sop-incident-response",
+      "category": "prompt-pack",
+      "name": "AI Incident Response SOP",
+      "version": "2026-08-07T12:31:58.371308",
+      "assets_copied": [
+        "sop-incident-response_README.md"
+      ],
+      "stripe_sku": "sop-incident-response",
+      "price_id": ""
+    },
+    {
+      "source": "comfyui-workflow-pack",
+      "category": "comfyui-workflow",
+      "name": "ComfyUI Workflow Pack",
+      "version": "2026-08-03T18:02:48+00:00",
+      "assets_copied": [
+        "comfyui-workflow-pack_README.md",
+        "comfyui-workflow-pack_cover.png"
+      ],
+      "stripe_sku": "",
+      "price_id": ""
+    }
+  ]
+}

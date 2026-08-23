@@ -1,0 +1,20 @@
+name: "Neon Line Art LoRA"
+sku: lora-neon-line-art-20260816
+type: comfyui-lora
+base_model: "SDXL 1.0"
+trigger_word: "neonlineart"
+recommended_strength: 0.72
+description: >
+  Electric contour illustrations. Sovereign-trained LoRA; drop into
+  ComfyUI /models/loras and reference by filename.
+files:
+  - lora: lora-neon-line-art-20260816.safetensors
+  - preview: preview.png
+  - readme: README.md
+install:
+  - "mkdir -p ~/ComfyUI/models/loras"
+  - "cp lora-neon-line-art-20260816/lora-neon-line-art-20260816.safetensors ~/ComfyUI/models/loras/"
+compat:
+  - "ComfyUI"
+  - "SDXL"
+  - "Automatic1111 (lora load)"

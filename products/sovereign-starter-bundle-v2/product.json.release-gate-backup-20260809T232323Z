@@ -1,0 +1,38 @@
+{
+  "slug": "sovereign-starter-bundle-v2",
+  "name": "Sovereign Starter Bundle",
+  "tagline": "3 current skins + 1 current LoRA + 3 current prompt packs + 1 workflow. Factory-refreshed monthly.",
+  "price": 39,
+  "currency": "usd",
+  "interval": "one-time",
+  "checkout_url": "https://buy.stripe.com/fZu7sKgQ88q08oWcyRb3q2w",
+  "gumroad_url": "https://buy.stripe.com/fZu7sKgQ88q08oWcyRb3q2w",
+  "category": "bundle",
+  "status": "ready",
+  "readiness_score": 90,
+  "launch_gate": {
+    "build_evidence": true,
+    "test_evidence": true,
+    "security_evidence": true
+  },
+  "assets": [
+    "bundle.zip",
+    "contents_manifest.json",
+    "install_all.sh"
+  ],
+  "deliverables": [
+    "3 latest agent skins (skin.yaml + install.sh each)",
+    "1 latest LoRA (lora.yaml + preview + ComfyUI snippet)",
+    "3 latest prompt packs (Markdown + CSV)",
+    "1 latest ComfyUI workflow (JSON + prompts + model slots)",
+    "install_all.sh -- applies everything in one command",
+    "contents_manifest.json -- versioned, dated, verifiable"
+  ],
+  "stripe_sku": "sovereign-starter-bundle-v2",
+  "price_id": "price_1U1qC1C651G6xmqG6FEWXsI8",
+  "factory_backed": true,
+  "factory_name": "product-factory.py -> build_bundle()",
+  "refresh_schedule": "monthly (auto-regenerated from factory outputs)",
+  "delivery": "instant download (current month's bundle)",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/sovereign-starter-bundle-v2.tar.gz"
+}

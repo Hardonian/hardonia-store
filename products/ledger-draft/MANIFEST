@@ -1,0 +1,20 @@
+{
+  "slug": "ledger-draft",
+  "name": "LedgerDraft",
+  "source": "/home/scott/ai-lab/store/bundles/ledger-draft.zip",
+  "size_bytes": 14882,
+  "sha256": "7705858649fe220e8b00635b4fbf97568ff4a95a0f1b45b956805e08e6dd052b",
+  "members": [
+    "bundles/ledger-draft/README.md",
+    "bundles/ledger-draft/pipelines/client-letter.air",
+    "bundles/ledger-draft/pipelines/grant-report.air",
+    "bundles/ledger-draft/pipelines/recon-summary.air",
+    "bundles/ledger-draft/product.json",
+    "compiler/__pycache__/air_compiler.cpython-314.pyc",
+    "compiler/air_compiler.py",
+    "runtime/air_runtime.py",
+    "scripts/create_stripe_price.py",
+    "scripts/install.sh",
+    "scripts/sentinel-doctor.sh"
+  ]
+}

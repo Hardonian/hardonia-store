@@ -1,0 +1,16 @@
+{
+  "slug": "checklist-model-launch",
+  "name": "Model Launch Checklist",
+  "tagline": "Covers evals, safety, rollback, monitoring before any model ships.",
+  "price": 9,
+  "currency": "usd",
+  "audience": "ML engineers",
+  "pain": "Forgetting pre-launch steps",
+  "offer": "38-point go-live checklist",
+  "deliverable": "checklist.md",
+  "stripe_sku": "checklist-model-launch",
+  "checkout_url": "",
+  "gumroad_url": "",
+  "status": "ready",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/checklist-model-launch.tar.gz"
+}

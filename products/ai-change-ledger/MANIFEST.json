@@ -1,0 +1,17 @@
+{
+  "product": "AI Change Ledger",
+  "slug": "ai-change-ledger",
+  "files": [
+    "product.json",
+    "README.md",
+    "WALKTHROUGH.md",
+    "SUPPORT.md",
+    "LICENSE.md",
+    "CHANGELOG.md",
+    "PREVIEW.md",
+    "MANIFEST.json",
+    "DELIVERABLE-SNAPSHOT.txt",
+    "run.sh",
+    "sample-receipt.md"
+  ]
+}

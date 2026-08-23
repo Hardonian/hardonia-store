@@ -1,0 +1,5 @@
+# AI Change Ledger buyer license
+
+The buyer may run and modify the delivered engine for their own internal operations. Redistribution, resale, hosted access to third parties, and removal of attribution are not included without a separate written agreement.
+
+Provided as-is. This software reports evidence and does not guarantee uptime, security, compliance, revenue, or fitness for a particular purpose.

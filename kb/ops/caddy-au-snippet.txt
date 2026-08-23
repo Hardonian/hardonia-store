@@ -1,0 +1,12 @@
+# Caddy snippet: expose the AU bot intake behind the public site.
+# Drop into the aiautomatedsystems.ca site block in /etc/caddy/Caddyfile (sudo edit).
+# The bot server runs on 127.0.0.1:8071 (au-bot-server.service). Tunnel uses noTLSVerify,
+# so the self-signed origin cert is fine.
+#
+#   @au path /au/*
+#   handle @au {
+#       reverse_proxy 127.0.0.1:8071
+#   }
+#
+# Then: sudo bash -c 'caddy validate --config /etc/caddy/Caddyfile && systemctl restart caddy'
+# Verify: curl -s 127.0.0.1:8071/au/health   (then publicly: https://aiautomatedsystems.ca/au/health)

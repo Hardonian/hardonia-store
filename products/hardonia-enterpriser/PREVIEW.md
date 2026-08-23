@@ -1,0 +1,33 @@
+# Preview: Hardonia Enterpriser
+
+This pack is backed by the existing delivery at `the delivered buyer archive`.
+
+Representative contents:
+- `bundles/hardonia-enterpriser/README.md`
+- `bundles/hardonia-enterpriser/product.json`
+- `bundles/hardonia-enterpriser/products/hr-draft/README.md`
+- `bundles/hardonia-enterpriser/products/hr-draft/pipelines/incident-summary.air`
+- `bundles/hardonia-enterpriser/products/hr-draft/pipelines/offer-letter.air`
+- `bundles/hardonia-enterpriser/products/hr-draft/pipelines/policy-draft.air`
+- `bundles/hardonia-enterpriser/products/hr-draft/product.json`
+- `bundles/hardonia-enterpriser/products/ledger-draft/README.md`
+- `bundles/hardonia-enterpriser/products/ledger-draft/pipelines/client-letter.air`
+- `bundles/hardonia-enterpriser/products/ledger-draft/pipelines/grant-report.air`
+- `bundles/hardonia-enterpriser/products/ledger-draft/pipelines/recon-summary.air`
+- `bundles/hardonia-enterpriser/products/ledger-draft/product.json`
+- `bundles/hardonia-enterpriser/products/ops-draft/pipelines/board-minutes.air`
+- `bundles/hardonia-enterpriser/products/ops-draft/pipelines/matter-memo.air`
+- `bundles/hardonia-enterpriser/products/ops-draft/pipelines/permit-letter.air`
+- `bundles/hardonia-enterpriser/products/ops-draft/product.json`
+- `bundles/hardonia-enterpriser/products/sentinel-note/README.md`
+- `bundles/hardonia-enterpriser/products/sentinel-note/pipelines/billing-qa.air`
+- `bundles/hardonia-enterpriser/products/sentinel-note/pipelines/referral-summary.air`
+- `bundles/hardonia-enterpriser/products/sentinel-note/pipelines/soap-note.air`
+- `bundles/hardonia-enterpriser/products/sentinel-note/product.json`
+- `compiler/__pycache__/air_compiler.cpython-314.pyc`
+- `compiler/air_compiler.py`
+- `runtime/air_runtime.py`
+- `scripts/create_stripe_price.py`
+- `scripts/install.sh`
+- `scripts/sentinel-doctor.sh`
+- `scripts/suite-doctor.sh`

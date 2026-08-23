@@ -1,0 +1,22 @@
+{
+  "slug": "hardonia-compute-api-access",
+  "name": "Hardonia Compute API Access",
+  "status": "ready",
+  "audience": "Developers, AI startups, GPU-cloud shoppers",
+  "pain": "GPU inference is unpredictable. You need pay-as-you-go compute without cloud lock-in or minimums.",
+  "offer": "Buy credits once. Call the API. We execute Ollama or ComfyUI jobs on private EPYC/V100/P40/3060 lanes. You pay only for what you use.",
+  "price": "$20 starter / $99 pro / $299 enterprise",
+  "checkout_url": "https://buy.stripe.com/7sY8wOczS6hS34CcyRb3q1R",
+  "gumroad_url": "https://scottrmhardie.gumroad.com/l/ufvymu",
+  "image_path": "/home/scott/hardonia.store/products/hardonia-compute-api-access/assets/cover.png",
+  "landing_path": "/home/scott/ai-lab/reports/landing/hardonia-compute-api-access.html",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/hardonia-compute-api-access.tar.gz",
+  "source": "/home/scott/hardonia.store/products/hardonia-compute-api-access/product.json",
+  "readiness_score": 100,
+  "updated_at": "2026-08-03T18:02:48+00:00",
+  "headline": "Private GPU compute, billed by the job.",
+  "early_adopter": true,
+  "founding_cohort": "First 100 customers lock this price for life; standard rate increases as the brand establishes.",
+  "price_tier": "one-time credit pack",
+  "standard_rate_later": "$29/$99/$299 tiers (or incumbent rates) after first 100 users"
+}

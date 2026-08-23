@@ -1,0 +1,18 @@
+{
+  "slug": "comfyui-thumbnail-creator-kit",
+  "name": "Comfyui Thumbnail Creator Kit",
+  "status": "draft",
+  "audience": "local AI operators and small teams",
+  "pain": "unclear setup, operating, or compliance path for a local AI workflow",
+  "offer": "Draft offer for Comfyui Thumbnail Creator Kit; operator review required before launch.",
+  "price": "contact for pricing",
+  "headline": "Comfyui Thumbnail Creator Kit for private, local-first AI operations.",
+  "checkout_url": "https://aiautomatedsystems.ca/contact?product=comfyui-thumbnail-creator-kit",
+  "gumroad_url": "https://aiautomatedsystems.ca/contact?product=comfyui-thumbnail-creator-kit",
+  "image_path": "/home/scott/hardonia.store/products/comfyui-thumbnail-creator-kit/assets/cover.png",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/comfyui-thumbnail-creator-kit.tar.gz",
+  "updated_at": "2026-07-17T14:39:33.983742+00:00",
+  "readiness_score": 25,
+  "source": "/home/scott/hardonia.store/products/comfyui-thumbnail-creator-kit/product.json",
+  "launch_gate": "draft: validate deliverable, CTA, pricing, and support before promotion"
+}

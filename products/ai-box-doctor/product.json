@@ -1,0 +1,31 @@
+{
+  "name": "AI Box Doctor",
+  "status": "draft",
+  "audience": "Local AI box owners who want a broken box fixed \u2014 not just diagnosed. Regulated SMBs, homelab operators, appliance buyers.",
+  "pain": "You ran a Sovereign Ops Score and it found gaps. Now what? Most owners don't have time to SSH in, read systemd logs, and apply fixes. AI Box Doctor is the managed service that closes the gaps for you \u2014 privately, on your hardware, every month.",
+  "offer": "AI Box Doctor is the done-for-you managed remediation service built on the Sovereign Ops Score engine. Each month we score your box, then automatically apply every safe, reversible fix (secret-leak guard, failed-unit recovery, revenue-loop wiring, autonomy layers) and hand you a prioritized operator report for anything that needs a human. Your box stays SOVEREIGN without you touching a terminal.",
+  "price": "$99/mo",
+  "headline": "We don't just score your AI box \u2014 we fix it. Privately. Every month.",
+  "checkout_url": "https://aiautomatedsystems.ca/contact?product=ai-box-doctor",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/ai-box-doctor.tar.gz",
+  "updated_at": "2026-07-16T20:18:00.000000+00:00",
+  "readiness_score": 40,
+  "slug": "ai-box-doctor",
+  "gumroad_url": "https://aiautomatedsystems.ca/contact?product=ai-box-doctor",
+  "early_adopter": true,
+  "founding_cohort": "First 50 subscribers lock $99/mo for life; standard rate rises as the managed service scales.",
+  "price_tier": "subscription",
+  "upsell_from": "sovereign-ops-score",
+  "cross_sell": "The managed layer on top of Sovereign AI Ops Score \u2014 buy the score first, then let us fix what it finds.",
+  "image_path": "cover.png",
+  "faq": [
+    {
+      "q": "What is the AI Box Doctor?",
+      "a": "A diagnostic + repair pack for stuck or misconfigured local AI boxes (Ollama, ComfyUI, vLLM)."
+    },
+    {
+      "q": "Do I need a running box?",
+      "a": "Either send logs or run the bundled probe script; it returns a prioritized fix list."
+    }
+  ]
+}

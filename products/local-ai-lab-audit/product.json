@@ -1,0 +1,26 @@
+{
+  "slug": "local-ai-lab-audit",
+  "name": "Local AI Lab Audit",
+  "status": "draft",
+  "audience": "Founders and operators running private/local AI labs on their own hardware.",
+  "pain": "Hidden GPU bottlenecks, thermal headroom misuse, and model-routing inefficiency that waste money and burn uptime.",
+  "offer": "A one-day on-site audit of your local AI lab: ranked findings, a repair plan with owner + effort, and an APVA ROI estimate with optional dashboard setup.",
+  "price": "$499 fixed / $997 with implementation day",
+  "headline": "Find and fix the hidden bottlenecks in your local AI lab in one day.",
+  "checkout_url": "https://buy.stripe.com/7sYaEW9nG6hSdJggP7b3q0i",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/local-ai-lab-audit.tar.gz",
+  "updated_at": "2026-08-07T09:20:00+00:00",
+  "readiness_score": 90,
+  "price_tier": "service",
+  "founding_cohort": "First 10 audits at $499; standard rate rises after general availability.",
+  "faq": [
+    {
+      "q": "What does the audit cover?",
+      "a": "GPU utilization and VRAM routing, thermal headroom, disk pressure, service health, and throughput per dollar for the workloads you actually run."
+    },
+    {
+      "q": "What do I receive?",
+      "a": "A PDF/Markdown audit report with ranked fixes, an APVA ROI estimate, and (optional) dashboard setup on your machine."
+    }
+  ]
+}

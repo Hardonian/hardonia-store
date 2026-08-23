@@ -1,0 +1,18 @@
+{
+  "slug": "inference-api-scale",
+  "name": "Inference Api Scale",
+  "status": "draft",
+  "audience": "local AI operators and small teams",
+  "pain": "unclear setup, operating, or compliance path for a local AI workflow",
+  "offer": "Draft offer for Inference Api Scale; operator review required before launch.",
+  "price": "contact for pricing",
+  "headline": "Inference Api Scale for private, local-first AI operations.",
+  "checkout_url": "https://aiautomatedsystems.ca/contact?product=inference-api-scale",
+  "gumroad_url": "https://aiautomatedsystems.ca/contact?product=inference-api-scale",
+  "image_path": "/home/scott/hardonia.store/products/inference-api-scale/assets/cover.png",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/inference-api-scale.tar.gz",
+  "updated_at": "2026-07-17T14:39:33.984449+00:00",
+  "readiness_score": 25,
+  "source": "/home/scott/hardonia.store/products/inference-api-scale/product.json",
+  "launch_gate": "draft: validate deliverable, CTA, pricing, and support before promotion"
+}

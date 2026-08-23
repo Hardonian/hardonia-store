@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "product_slug": "private-ai-assurance-retainer",
+  "files": [
+    {
+      "path": "README.md",
+      "size": 858,
+      "sha256": "0613371813b07376b14786f8ae2610af75d532498c2c8b0b4f81191bd69e4352"
+    },
+    {
+      "path": "WALKTHROUGH.md",
+      "size": 781,
+      "sha256": "1e469474ac908e8eb0f7c0d19f9191719fe44c4a599c1c3478b41016bd6975c9"
+    },
+    {
+      "path": "SUPPORT.md",
+      "size": 458,
+      "sha256": "3d2a023041b076d215a4b937183f808c42fdb733267cd0996795f5addbd0442e"
+    },
+    {
+      "path": "LICENSE.md",
+      "size": 457,
+      "sha256": "43bccee679c66f454d567e806148312f1d61847a006e91ce4c286395721d4c4d"
+    },
+    {
+      "path": "PREVIEW.md",
+      "size": 387,
+      "sha256": "9a449cc1cdab83ba5b7dd9ea864c5bdb2518953753f0c5df4eb286c60bc812e4"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "size": 227,
+      "sha256": "90f65438bc7deef6273cfb63145761635618dbb9e4cb0852b7b34ba61001b668"
+    },
+    {
+      "path": "product.json",
+      "size": 1174,
+      "sha256": "de0961795390c7caec5b85a72bc8af62d883c913c942124a46f8c4cc8900c497"
+    },
+    {
+      "path": "samples/ai-assurance-sample.md",
+      "size": 937,
+      "sha256": "0621f9cb30962fabc95830338fafdf1919b8034e61421ef2ad4a6604018031ca"
+    }
+  ],
+  "delivery": "recurring-service",
+  "sample_report": "samples/ai-assurance-sample.md",
+  "external_gate": "manual commercial approval and real recurring checkout configuration"
+}

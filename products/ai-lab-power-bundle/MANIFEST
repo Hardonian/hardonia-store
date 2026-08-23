@@ -1,0 +1,20 @@
+{
+  "product": "AI Lab Power Bundle",
+  "slug": "ai-lab-power-bundle",
+  "price": "$59 bundle (save $19 vs $78 separate)",
+  "generated_at": "2026-07-17T14:39:49.955430+00:00",
+  "deliverables": [
+    "compute-api/README.md",
+    "compute-api/api-client-example.py",
+    "compute-api/main.py",
+    "compute-api/sample-job.json",
+    "compute-api/services.py",
+    "n8n-automation/README.md",
+    "n8n-automation/sample-payload.json",
+    "n8n-automation/webhook-to-sheet.json",
+    "portrait-studio/README.md",
+    "portrait-studio/prompt-presets.txt",
+    "portrait-studio/sample-runbook.md"
+  ],
+  "bundle_bytes": 1601315
+}

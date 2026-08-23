@@ -1,0 +1,7 @@
+AI Change Ledger deliverable snapshot
+Generated: 2026-07-31T01:35:26.038453+00:00
+Root: /home/scott/hardonia.store/products/ai-change-ledger
+Files excluding this snapshot: 13
+Bytes excluding this snapshot: 6941
+Tree SHA-256: 8bf6c7280150e12e939576b616397dbdb175936a87de108f560ab299566f3801
+Commercial evidence: artifact integrity only; this does not prove provider payment, fulfillment, delivery, or realized revenue.

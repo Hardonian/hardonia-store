@@ -1,0 +1,25 @@
+{
+  "slug": "comfyui-xxx-flux-fantasy",
+  "name": "FLUX Fantasy — Adult-Uncensored ComfyUI Workflow Pack",
+  "version": "1.0.0",
+  "price_usd": 19,
+  "status": "ready",
+  "category": "digital-asset",
+  "audience": "Adult creators / fantasy artists with a local ComfyUI (18+)",
+  "files": [
+    "README.md",
+    "AGE_VERIFICATION.md",
+    "LEGAL_SAFEGUARDS.md",
+    "WALKTHROUGH.md",
+    "SUPPORT.md",
+    "LICENSE.md",
+    "PREVIEW.md",
+    "CHANGELOG.md",
+    "workflows/flux-fantasy-workflow.json",
+    "workflows/flux-fantasy-workflow-api.json",
+    "scripts/generate_flux.py",
+    "prompts/prompt-presets.txt"
+  ],
+  "checksums": "computed-at-build",
+  "schema": "1.0"
+}

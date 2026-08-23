@@ -1,0 +1,8 @@
+{
+  "name": "webhook-to-sheet",
+  "nodes": [
+    {"name": "Webhook", "type": "n8n-nodes-base.webhook", "parameters": {"path": "ingest", "method": "POST"}},
+    {"name": "GoogleSheets", "type": "n8n-nodes-base.googleSheets", "parameters": {"operation": "append", "sheetId": "REPLACE_ME"}}
+  ],
+  "connections": {"Webhook": {"main": [[{"node": "GoogleSheets", "type": "main"}]]}}
+}

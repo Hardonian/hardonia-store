@@ -1,0 +1,32 @@
+[
+  {
+    "sku": "skin-neon-sovereign-20260806",
+    "name": "Neon Sovereign",
+    "price_usd": 19,
+    "tagline": "Midnight Ops command surface for operators running sovereign AI fleets at 2am.",
+    "type": "agent-skin",
+    "files": [
+      "skin.yaml"
+    ],
+    "install": "install-skin-neon-sovereign-20260806.sh",
+    "deliverable": "skin.yaml + 2 bundled skills",
+    "competition": "auto-generated \u2014 unique shelf slot",
+    "status": "ready",
+    "generated_at": "2026-08-06T20:19:17.349321+00:00"
+  },
+  {
+    "sku": "skin-violet-operator-20260806",
+    "name": "Violet Operator",
+    "price_usd": 19,
+    "tagline": "The Violet Operator's whisper-soft interface navigates shadows at midnight \u001b[K\nwith precision and calculated silence always intact",
+    "type": "agent-skin",
+    "files": [
+      "skin.yaml"
+    ],
+    "install": "install-skin-violet-operator-20260806.sh",
+    "deliverable": "skin.yaml + 2 bundled skills",
+    "competition": "auto-generated \u2014 unique shelf slot",
+    "status": "ready",
+    "generated_at": "2026-08-06T20:19:33.800482+00:00"
+  }
+]

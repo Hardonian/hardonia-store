@@ -1,0 +1,21 @@
+{
+  "slug": "ai-lab-power-bundle",
+  "name": "AI Lab Power Bundle",
+  "status": "early-access",
+  "audience": "Builders who want the whole stack: compute, portraits, automation",
+  "pain": "Buying each tool separately costs more and takes longer to wire up.",
+  "offer": "Compute API access + AI Portrait Studio + n8n Automation Kit in one downloadable bundle. Early-access fulfillment is arranged through the contact path until a provider checkout matches the canonical $59 offer.",
+  "price": "$59 bundle (save $19 vs $78 separate)",
+  "checkout_url": "https://aiautomatedsystems.ca/contact?product=ai-lab-power-bundle",
+  "gumroad_url": "",
+  "audit_previous_checkout_url": "https://buy.stripe.com/14A28q43m7lW34C6atb3q1x",
+  "audit_previous_gumroad_url": "https://scottrmhardie.gumroad.com/l/cfdbu",
+  "audit_reason": "Direct Stripe link was a $249 done-for-you setup, while this canonical downloadable bundle is $59; Gumroad displayed CAD$149 and was unavailable. Contact-only until a provider checkout matches the canonical offer.",
+  "image_path": "cover.png",
+  "landing_path": "/home/scott/ai-lab/reports/landing/ai-lab-power-bundle.html",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/ai-lab-power-bundle.tar.gz",
+  "source": "/home/scott/hardonia.store/products/ai-lab-power-bundle/product.json",
+  "readiness_score": 100,
+  "updated_at": "2026-08-03T18:02:48+00:00",
+  "headline": "One bundle. Three products. One checkout."
+}

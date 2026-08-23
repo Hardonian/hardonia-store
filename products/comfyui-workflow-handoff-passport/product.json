@@ -1,0 +1,13 @@
+{
+  "slug": "comfyui-workflow-handoff-passport",
+  "name": "ComfyUI Workflow Handoff Passport",
+  "audience": "Creative agencies and internal content teams handing workflows to another operator.",
+  "pain": "A working workflow can fail elsewhere because nodes, models, and versions drift.",
+  "offer": "A local dependency inventory, integrity manifest, and handoff checklist for ComfyUI API workflows.",
+  "price": "Contact pricing \u2014 founding delivery",
+  "status": "draft-page",
+  "checkout_url": "",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/comfyui-workflow-handoff-passport.tar.gz",
+  "readiness_score": 75,
+  "launch_blocker": "No provider checkout or human-approved publication exists yet."
+}

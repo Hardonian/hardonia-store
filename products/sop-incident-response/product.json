@@ -1,0 +1,16 @@
+{
+  "slug": "sop-incident-response",
+  "name": "AI Incident Response SOP",
+  "tagline": "Step-by-step response for model drift, prompt injection, and outage.",
+  "price": 19,
+  "currency": "usd",
+  "audience": "Ops teams",
+  "pain": "No documented incident playbook",
+  "offer": "One-page runbook for AI incidents",
+  "deliverable": "SOP.md",
+  "stripe_sku": "sop-incident-response",
+  "checkout_url": "",
+  "gumroad_url": "",
+  "status": "draft",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/sop-incident-response.tar.gz"
+}

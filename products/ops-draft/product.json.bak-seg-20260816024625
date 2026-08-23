@@ -1,0 +1,28 @@
+{
+  "name": "OpsDraft",
+  "status": "ready",
+  "slug": "ops-draft",
+  "audience": "Ops leads, founders, Solo-devs",
+  "pain": "Your runbooks live in someone's head. When they're on leave, nothing recovers.",
+  "offer": "Ops runbook draft pack. Founder: no key-person risk. Enterprise: documented procedure. Solo-dev: recovers without you.",
+  "price": "$197",
+  "headline": "Local drafting for law firms & municipal offices. Privileged data stays on-prem.",
+  "checkout_url": "https://buy.stripe.com/00wdR8bvObCcax46atb3q1V",
+  "landing_path": "/home/scott/ai-lab/reports/landing/ops-draft.html",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/ops-draft.tar.gz",
+  "readiness_score": 100,
+  "price_tier": "one-time",
+  "image_path": "/home/scott/hardonia.store/products/ops-draft/assets/cover.png",
+  "cross_sell": "Part of the Hardonia Enterpriser all-access suite.",
+  "faq": [
+    {
+      "q": "Is client data exposed?",
+      "a": "No. All drafting runs locally on your Ollama model."
+    },
+    {
+      "q": "What does it draft?",
+      "a": "Matter memos, permit response letters, and board minutes."
+    }
+  ],
+  "updated_at": "2026-08-03T18:02:48+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "skin-violet-operator-20260815",
+  "name": "Violet Operator",
+  "status": "draft",
+  "audience": "sovereign AI operators running Hermes / local agent fleets",
+  "pain": "generic, unbranded outputs; no style identity separation between fleets or clients",
+  "offer": "Violet Operator: a drop-in skin.yaml that themes the workflow from one file.",
+  "price": "$19 one-time",
+  "headline": "Heritage Quiet command surface for operators running sovereign AI fleets at 2am.",
+  "checkout_url": "https://buy.stripe.com/TODO_PASTE_REAL_STRIPE_PAYMENT_LINK",
+  "gumroad_url": "https://buy.stripe.com/TODO_PASTE_REAL_STRIPE_PAYMENT_LINK",
+  "image_path": "/home/scott/hardonia.store/products/skin-violet-operator-20260815/assets/cover.png",
+  "deliverable_path": "/home/scott/hardonia.store/products/skin-violet-operator-20260815/skin.yaml",
+  "category": "agent-skin",
+  "updated_at": "2026-08-15T11:47:58.766780+00:00",
+  "readiness_score": 40,
+  "source": "/home/scott/hardonia.store/products/skin-violet-operator-20260815/product.json",
+  "launch_gate": "draft: operator review of tagline + palette before promotion",
+  "sku": "skin-violet-operator-20260815"
+}

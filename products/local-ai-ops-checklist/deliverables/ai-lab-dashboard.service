@@ -1,0 +1,17 @@
+[Unit]
+Description=AI Lab Command Center Dashboard
+After=network-online.target ai-lab-audit-api.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/scott/ai-workspace/repos/ai-lab-command-center
+Environment=PATH=/home/scott/.local/bin:/usr/local/bin:/usr/bin:/bin
+ExecStart=/home/scott/.local/bin/uv run uvicorn main:app --host 127.0.0.1 --port 8000 --log-level warning
+Restart=on-failure
+RestartSec=2
+StandardOutput=append:/home/scott/ai-lab/logs/dashboard.log
+StandardError=append:/home/scott/ai-lab/logs/dashboard.log
+
+[Install]
+WantedBy=default.target

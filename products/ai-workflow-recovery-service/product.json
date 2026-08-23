@@ -1,0 +1,13 @@
+{
+  "slug": "ai-workflow-recovery-service",
+  "name": "AI Workflow Recovery Service",
+  "audience": "Agencies with broken or drifting ComfyUI API workflows.",
+  "pain": "Missing nodes and unavailable model files make workflow failures expensive to diagnose.",
+  "offer": "A deterministic dependency-gap report that separates missing nodes from missing models and creates a repair checklist.",
+  "price": "Contact pricing \u2014 per workflow family",
+  "status": "draft-page",
+  "checkout_url": "",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/ai-workflow-recovery-service.tar.gz",
+  "readiness_score": 75,
+  "launch_blocker": "No provider checkout or human-approved publication exists yet."
+}

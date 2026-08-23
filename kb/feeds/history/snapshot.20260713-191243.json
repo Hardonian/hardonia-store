@@ -1,0 +1,96 @@
+{
+  "generated_at": "2026-07-13T19:12:42Z",
+  "intel": {"block": false, "active_flags": [], "note": "themes: /, | best_offer: /mnt/ai-storage (wr / 79.0)"},
+  "analytics": {
+  "total_page_views": 4133,
+  "views_today": 1326,
+  "unique_visitors": 0,
+  "checkout_clicks": 9,
+  "checkout_clicks_today": 0,
+  "conversions": 0,
+  "conversion_rate": 0.0,
+  "total_revenue_cents": 0,
+  "top_pages": "ai-lab-health-report(415), autonomous-revenue-loop(400), ai-lab-power-bundle(399)",
+  "generated_at": "2026-07-13T19:12:43.825245Z"
+},
+  "financial": {
+  "total_revenue_cents": 0,
+  "products": [
+    {
+      "name": "Autonomous Revenue Loop",
+      "price_cents": 19900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/allczc"
+    },
+    {
+      "name": "AI Lab Power Bundle",
+      "price_cents": 14900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/xakjak"
+    },
+    {
+      "name": "Hardonia Compute API Access",
+      "price_cents": 7900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/qjhxbk"
+    },
+    {
+      "name": "Private Inference Access",
+      "price_cents": 4900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/waopgp"
+    },
+    {
+      "name": "AI Portrait Studio",
+      "price_cents": 4900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/piryid"
+    },
+    {
+      "name": "n8n Automation Kit",
+      "price_cents": 3900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/umolyg"
+    },
+    {
+      "name": "Local AI Ops Checklist",
+      "price_cents": 2900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/qcuwrc"
+    },
+    {
+      "name": "ComfyUI Workflow Subscription",
+      "price_cents": 2900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/komicr"
+    },
+    {
+      "name": "ComfyUI Workflow Pack",
+      "price_cents": 2900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/qcnlsdv"
+    },
+    {
+      "name": "AI Lab Health Report",
+      "price_cents": 1900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/hffnkj"
+    }
+  ],
+  "currency": "usd",
+  "generated_at": "2026-07-13T19:12:43.748503+00:00",
+  "note": "live gumroad"
+},
+  "compute": {"gpu_util_pct":0,"free_vram_pct":99,"active_keys":2,"capacity_ok":true},
+  "legal": { "open_flags": [], "minor_safety_clear": true }
+}

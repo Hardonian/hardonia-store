@@ -1,0 +1,1 @@
+Support: open a request from any product page. 1 business day.

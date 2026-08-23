@@ -1,0 +1,29 @@
+{
+  "name": "Sovereign AI Control Plane",
+  "status": "draft",
+  "audience": "Enterprises, MSPs, and private-AI appliance vendors with fleets of local AI boxes (edge, branch, client sites).",
+  "pain": "You sold 50 private AI boxes. Now who watches them? Each one drifts, breaks, or fails compliance silently. Spreadsheets and SSH don't scale. You need one pane of glass: every box scored, remediated, and compliance-attested \u2014 automatically, privately.",
+  "offer": "Sovereign AI Control Plane is the enterprise platform that turns your fleet of private AI boxes into one monitored, scored, remediated, and compliance-attested fleet. Every node feeds a single live operational dashboard \u2014 revenue leverage, system productivity, predictive signals, profit/financial modelling, and strategic outlook, all updating in real time. Multi-tenant orgs, per-node Sovereign Ops Score + AI Box Doctor remediation + Private AI Readiness Audit, fleet aggregation, SOC2/HIPAA/GDPR attestation export, RBAC, and white-label. Built on the exact engines already running our own 3xGPU sovereign fleet.",
+  "price": "$5,000/yr platform + $50/node/mo",
+  "image_path": "/home/scott/hardonia.store/products/sovereign-control-plane/assets/cover.png",
+  "dashboard_url": "http://127.0.0.1:8099/",
+  "dashboard_features": [
+    "Revenue leverage: ready products, verified purchases, scored leads, idle credits",
+    "System productivity: fleet service health, GPU lanes, operator inbox, CVE triage",
+    "Predictive: lead-to-buy conversion, credit burn-down runway, bottleneck detection",
+    "Profit/financial: addressable vs realized revenue, automation net, investment payback",
+    "Strategic & competitive outlook: moat, competitive watch, near-term bets, product mix"
+  ],
+  "headline": "One pane of glass for your entire private-AI fleet \u2014 scored, fixed, and compliance-attested.",
+  "checkout_url": "https://aiautomatedsystems.ca/contact?product=sovereign-control-plane",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/sovereign-control-plane.tar.gz",
+  "updated_at": "2026-07-16T21:00:00.000000+00:00",
+  "readiness_score": 40,
+  "slug": "sovereign-control-plane",
+  "gumroad_url": "https://aiautomatedsystems.ca/contact?product=sovereign-control-plane",
+  "early_adopter": true,
+  "founding_cohort": "First 10 enterprise customers: $5k/yr locked + first 25 nodes free forever. Standard rises to $8k/yr.",
+  "price_tier": "enterprise",
+  "upsell_from": "private-ai-readiness",
+  "cross_sell": "The fleet layer. Single boxes use Sovereign Ops Score / AI Box Doctor / Private AI Readiness Audit; fleets need the Control Plane."
+}

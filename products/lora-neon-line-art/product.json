@@ -1,0 +1,28 @@
+{
+  "slug": "lora-neon-line-art",
+  "name": "Neon Line Art — ComfyUI LoRA Pack",
+  "tagline": "Sovereign SDXL line-art LoRA. One trigger word, neon contour output.",
+  "price": 19,
+  "currency": "usd",
+  "checkout_url": "https://buy.stripe.com/fZu14meI0bCc6gOcyRb3q2g",
+  "gumroad_url": "https://buy.stripe.com/fZu14meI0bCc6gOcyRb3q2g",
+  "category": "comfyui-lora",
+  "status": "draft",
+  "readiness_score": 95,
+  "launch_gate": {
+    "build_evidence": true,
+    "test_evidence": true,
+    "security_evidence": true
+  },
+  "assets": [
+    "lora.yaml",
+    "README.md"
+  ],
+  "deliverables": [
+    "lora.yaml (ComfyUI metadata + trigger word + recommended strength)",
+    "README.md (install + prompt recipe)",
+    "preview.png (sample render)"
+  ],
+  "stripe_sku": "lora-neon-line-art",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/lora-neon-line-art.tar.gz"
+}

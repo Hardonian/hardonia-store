@@ -1,0 +1,1 @@
+{"block": false, "active_flags": [], "note": "manual override. Set block=true to make AU bot auto-escalate ALL auth queries (incident pause). Restore block=false after."}

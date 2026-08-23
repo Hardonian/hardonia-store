@@ -1,0 +1,44 @@
+{
+  "slug": "comfyui-node-of-month",
+  "name": "ComfyUI Node of the Month",
+  "tagline": "1 custom ComfyUI node (Python + JS) + docs + example workflow + install script. New capability every month.",
+  "price": 19,
+  "currency": "usd",
+  "interval": "month",
+  "checkout_url": "https://buy.stripe.com/cNi5kC1Ve49KfRoaqJb3q2x",
+  "gumroad_url": "https://buy.stripe.com/cNi5kC1Ve49KfRoaqJb3q2x",
+  "category": "comfyui-node",
+  "status": "draft",
+  "readiness_score": 85,
+  "launch_gate": {
+    "build_evidence": true,
+    "test_evidence": true,
+    "security_evidence": true
+  },
+  "assets": [
+    "node.py",
+    "node.js",
+    "README.md",
+    "example_workflow.json",
+    "install.sh"
+  ],
+  "deliverables": [
+    "Custom ComfyUI node (Python backend + JS frontend)",
+    "README.md — usage, inputs, outputs, examples",
+    "Example workflow.json demonstrating the node",
+    "install.sh — copies to ComfyUI/custom_nodes/, installs deps",
+    "Source code (MIT licensed — modify freely)"
+  ],
+  "stripe_sku": "comfyui-node-of-month",
+  "price_id": "price_1U1qC1C651G6xmqGJje9qrCi",
+  "factory_backed": true,
+  "factory_name": "comfyui-node-factory (to be built)",
+  "planned_nodes": [
+    "Prompt Scheduler — time/condition-based prompt switching",
+    "Model Hot-Swap — seamless checkpoint switching mid-workflow",
+    "VRAM Guard — auto offloads when memory exceeds threshold",
+    "Batch Namer — structured output filenames from metadata"
+  ],
+  "delivery": "monthly via shared repo / email",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/comfyui-node-of-month.tar.gz"
+}

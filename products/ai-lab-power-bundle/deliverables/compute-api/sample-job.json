@@ -1,0 +1,8 @@
+{
+  "prompt": "Hello from AI Lab Power Bundle",
+  "model": "llama3",
+  "provider": "ollama",
+  "metadata": {
+    "source": "ai-lab-power-bundle"
+  }
+}

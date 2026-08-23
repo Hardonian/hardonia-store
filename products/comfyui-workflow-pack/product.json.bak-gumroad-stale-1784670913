@@ -1,0 +1,30 @@
+{
+  "name": "ComfyUI Workflow Pack",
+  "status": "ready",
+  "audience": "Local AI operators, image pipeline builders, homelab users",
+  "pain": "Scattered workflow JSON, prompt presets, and no versioned deliverables.",
+  "offer": "Local-only workflow JSON + prompt presets for consistent image outputs.",
+  "price": "$29",
+  "headline": "Local-only workflow pack for ComfyUI.",
+  "checkout_url": "https://buy.stripe.com/bJe14m6bu8q09t0gP7b3q0E",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/comfyui-workflow-pack.tar.gz",
+  "updated_at": "2026-07-13T23:42:55.119289+00:00",
+  "readiness_score": 100,
+  "slug": "comfyui-workflow-pack",
+  "gumroad_url": "https://scottrmhardie.gumroad.com/l/zcbfw",
+  "early_adopter": true,
+  "founding_cohort": "First 100 customers lock this price for life; standard rate increases as the brand establishes.",
+  "price_tier": "download",
+  "standard_rate_later": "rises ~2x at general availability",
+  "image_path": "cover.png",
+  "faq": [
+    {
+      "q": "Do I need ComfyUI installed?",
+      "a": "Yes \u2014 these are drop-in workflow JSON files for an existing ComfyUI instance."
+    },
+    {
+      "q": "Are models included?",
+      "a": "No; you supply checkpoints. The workflows reference standard model slots."
+    }
+  ]
+}

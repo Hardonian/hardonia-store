@@ -1,0 +1,16 @@
+{
+  "slug": "prompt-pack-comfyui",
+  "name": "ComfyUI Workflow Prompt Pack",
+  "tagline": "Curated positive/negative prompt pairs for SDXL + LoRA.",
+  "price": 9,
+  "currency": "usd",
+  "audience": "ComfyUI users",
+  "pain": "Muddy generation prompts",
+  "offer": "15 prompt templates for clean renders",
+  "deliverable": "prompts.md",
+  "stripe_sku": "prompt-pack-comfyui",
+  "checkout_url": "",
+  "gumroad_url": "",
+  "status": "ready",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/prompt-pack-comfyui.tar.gz"
+}

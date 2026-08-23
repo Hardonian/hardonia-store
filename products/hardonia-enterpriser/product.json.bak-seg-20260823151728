@@ -1,0 +1,27 @@
+{
+  "name": "Hardonia Enterpriser",
+  "status": "ready",
+  "slug": "hardonia-enterpriser",
+  "audience": "Enterprise AI buyers, CISOs, founders scaling private AI",
+  "pain": "Your board wants AI. Your CISO wants isolation. Your vendor wants your data. And as a founder you can't afford a 3am tenant-bleed incident.",
+  "offer": "Enterprise private-AI platform: sovereign, tenant-isolated, audit-trailed. Enterprise: pass the security review with proof. Founder: ship enterprise-grade without the enterprise price. Solo-dev: one boundary, no vendor logs.",
+  "price": "$497",
+  "headline": "The complete local-first AI drafting suite. 12 pipelines, one license, zero cloud.",
+  "checkout_url": "https://buy.stripe.com/6oU6oGfM4eOo20y8iBb3q1S",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/hardonia-enterpriser.tar.gz",
+  "readiness_score": 100,
+  "price_tier": "one-time",
+  "image_path": "/home/scott/hardonia.store/products/hardonia-enterpriser/assets/cover.png",
+  "cross_sell": "Managed install available at $149/mo \u2014 we set it up on your hardware.",
+  "faq": [
+    {
+      "q": "What is included?",
+      "a": "All 4 verticals: clinical, legal/municipal, finance, and HR drafting (12 pipelines)."
+    },
+    {
+      "q": "Is this cloud-based?",
+      "a": "No. Everything runs on your hardware via the AIR engine and local Ollama."
+    }
+  ],
+  "updated_at": "2026-08-03T18:02:48+00:00"
+}

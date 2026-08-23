@@ -1,0 +1,13 @@
+{
+  "slug": "private-inference-launch-kit",
+  "name": "Private Inference Launch Kit",
+  "audience": "MSPs and technical teams preparing an internal Ollama-compatible inference service.",
+  "pain": "An inference endpoint is unsafe to expose without auth, rate limits, logs, backups, and reviewed GPU isolation.",
+  "offer": "A launch-gate assessor and local-first deployment checklist; it blocks unsafe readiness claims.",
+  "price": "Contact pricing \u2014 installation and handoff",
+  "status": "draft-page",
+  "checkout_url": "",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/private-inference-launch-kit.tar.gz",
+  "readiness_score": 75,
+  "launch_blocker": "No provider checkout or human-approved publication exists yet."
+}

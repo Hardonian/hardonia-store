@@ -1,0 +1,14 @@
+{
+  "product": "n8n Automation Kit",
+  "slug": "n8n-automation-kit",
+  "price": "$39",
+  "generated_at": "2026-07-17T14:39:49.961923+00:00",
+  "deliverables": [
+    "CHANGELOG",
+    "LICENSE",
+    "MANIFEST",
+    "default.json",
+    "webhook-to-sheet.json"
+  ],
+  "bundle_bytes": 1580764
+}

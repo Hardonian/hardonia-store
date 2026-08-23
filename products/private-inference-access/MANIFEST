@@ -1,0 +1,11 @@
+{
+  "product": "Private Inference Access",
+  "slug": "private-inference-access",
+  "price": "$9/mo or $0.10 per 1k tokens",
+  "generated_at": "2026-07-17T14:39:49.962995+00:00",
+  "deliverables": [
+    "samples/usage.md",
+    "templates/customer-key.json"
+  ],
+  "bundle_bytes": 1280778
+}

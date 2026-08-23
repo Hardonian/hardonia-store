@@ -1,0 +1,1 @@
+MIT — use freely; do not resell raw files.

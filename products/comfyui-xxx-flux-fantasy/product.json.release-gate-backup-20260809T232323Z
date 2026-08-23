@@ -1,0 +1,42 @@
+{
+  "slug": "comfyui-xxx-flux-fantasy",
+  "name": "FLUX Fantasy \u2014 Uncensored ComfyUI Workflow Pack",
+  "status": "ready",
+  "audience": "Adult creators, fantasy artists (18+)",
+  "pain": "Adults hit walls on anatomy, texture and light; censored checkpoints block mature fantasy rendering entirely.",
+  "offer": "Validated FLUX.1-dev fp8 workflows (UI + API) plus a headless generator for fictional, consensual, adult-only fantasy rendering on your own GPU.",
+  "price": "$19",
+  "currency": "usd",
+  "price_usd": 19,
+  "headline": "Local FLUX.1-dev lane for adult fantasy artists, priced at one dinner.",
+  "checkout_url": "https://buy.stripe.com/fZucN46bu6hS20y56pb3q2y",
+  "gumroad_url": "",
+  "deliverable": "bundle",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/comfyui-xxx-flux-fantasy.tar.gz",
+  "landing_path": "/home/scott/ai-lab/reports/landing/comfyui-xxx-flux-fantasy.html",
+  "image_path": "/home/scott/hardonia.store/products/comfyui-xxx-flux-fantasy/assets/cover.png",
+  "source": "/home/scott/hardonia.store/products/comfyui-xxx-flux-fantasy",
+  "readiness_score": 100,
+  "category": "digital-asset",
+  "stripe_sku": "comfyui-xxx-flux-fantasy",
+  "offer_desc": "Drop-in UI workflow + headless API workflow for fictional adult fantasy; real error surfacing; runs on your own ComfyUI.",
+  "updated_at": "2026-08-07T21:30:00-04:00",
+  "faq": [
+    {
+      "q": "Is this for adult content?",
+      "a": "It is a workflow for fictional, consensual adult-fantasy art. You must be 18+. Buyer docs include age verification and legal safeguards."
+    },
+    {
+      "q": "Do I need ComfyUI?",
+      "a": "Yes \u2014 the workflows run on your own ComfyUI; models are not included (FLUX.1-dev weights are free from Black Forest Labs)."
+    },
+    {
+      "q": "What hardware?",
+      "a": "Verified on 11 GB VRAM (Kijai fp8). A 3060/P40/V100 works; quality scales with resolution."
+    },
+    {
+      "q": "Refunds?",
+      "a": "30-day no-questions money-back on the digital pack (details in LICENSE.md)."
+    }
+  ]
+}

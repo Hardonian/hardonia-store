@@ -1,0 +1,8 @@
+{
+  "customer_email": "",
+  "api_key": "",
+  "plan": "monthly",
+  "token_quota": 100000,
+  "allow_models": ["default"],
+  "created_at": ""
+}

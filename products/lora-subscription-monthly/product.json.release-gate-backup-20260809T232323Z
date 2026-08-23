@@ -1,0 +1,35 @@
+{
+  "slug": "lora-subscription-monthly",
+  "name": "LoRA Style Drop — Monthly",
+  "tagline": "2 fresh SDXL/Flux LoRAs/month. Trigger words, preview grids, ComfyUI snippets included.",
+  "price": 15,
+  "currency": "usd",
+  "interval": "month",
+  "checkout_url": "https://buy.stripe.com/eVqcN4gQ8gWwfRo9mFb3q2p",
+  "gumroad_url": "https://buy.stripe.com/eVqcN4gQ8gWwfRo9mFb3q2p",
+  "category": "comfyui-lora-subscription",
+  "status": "ready",
+  "readiness_score": 95,
+  "launch_gate": {
+    "build_evidence": true,
+    "test_evidence": true,
+    "security_evidence": true
+  },
+  "assets": [
+    "lora_1.yaml",
+    "lora_2.yaml",
+    "previews.png",
+    "comfyui_snippet.json"
+  ],
+  "deliverables": [
+    "2 LoRA configs (SDXL + Flux variants)",
+    "Trigger words + recommended strengths",
+    "Preview grid (4 samples each)",
+    "Ready-to-drop ComfyUI workflow snippet"
+  ],
+  "stripe_sku": "lora-subscription-monthly",
+  "price_id": "price_1U1qC0C651G6xmqGOeTIdvl5",
+  "factory_backed": true,
+  "factory_name": "overnight-pack-generator",
+  "delivery": "monthly via shared repo / email"
+}

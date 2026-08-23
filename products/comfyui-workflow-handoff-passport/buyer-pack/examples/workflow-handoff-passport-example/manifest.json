@@ -1,0 +1,15 @@
+{
+  "boundary": "Dependency inventory only. Model weights and private prompts are not copied into this passport.",
+  "comfyui_version": "inventory-only",
+  "created_at": "2026-08-04T01:38:05.510369+00:00",
+  "models": [
+    "replace-with-licensed-model.safetensors"
+  ],
+  "required_nodes": [
+    "CheckpointLoaderSimple",
+    "KSampler"
+  ],
+  "schema": "ai-assurance.workflow-passport/v1",
+  "workflow_file": "workflow.json",
+  "workflow_sha256": "e3b3dec78f3b53ef01d7149a76012cb850e1b6fd69684c0daf761c8c3c2a4486"
+}

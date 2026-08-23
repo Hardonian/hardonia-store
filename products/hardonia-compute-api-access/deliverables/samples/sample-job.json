@@ -1,0 +1,8 @@
+{
+  "prompt": "Hello from Hardonia Compute API",
+  "model": "llama3",
+  "provider": "ollama",
+  "metadata": {
+    "source": "hardonia-compute-api-access"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "product": "comfyui-workflow-pack",
+  "version": "0.2.0",
+  "description": "Curated ComfyUI workflow pack with prompt presets.",
+  "files": [
+    "workflows/base-txt2img.json",
+    "workflows/portrait-light.json",
+    "prompts/portrait-presets.txt",
+    "README.md"
+  ]
+}

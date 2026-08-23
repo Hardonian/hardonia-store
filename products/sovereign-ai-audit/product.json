@@ -1,0 +1,27 @@
+{
+  "name": "Sovereign AI Audit",
+  "status": "draft",
+  "slug": "sovereign-ai-audit",
+  "audience": "Regulated SMBs who want a professional review of their AI drafting sovereignty before they buy.",
+  "pain": "Buyers aren't sure if a local-first suite will actually fit their compliance posture. They want an expert check first.",
+  "offer": "Fixed-fee ($297) 1-hour sovereignty audit: we review your current AI drafting setup (cloud exposure, billing, audit logs, compliance gaps) and deliver a prioritized remediation report. Credits $297 toward any product purchase.",
+  "price": "$297",
+  "headline": "Know your sovereignty gaps before you buy. 1-hour expert audit, $297 credited toward any suite.",
+  "checkout_url": "https://aiautomatedsystems.ca/contact?product=sovereign-ai-audit",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/sovereign-ai-audit.tar.gz",
+  "readiness_score": 40,
+  "price_tier": "one-time",
+  "image_path": "/home/scott/hardonia.store/products/sovereign-ai-audit/assets/cover.png",
+  "cross_sell": "Credits toward Sentinel Note, OpsDraft, LedgerDraft, HRDraft, or Sovereign Supercharger.",
+  "faq": [
+    {
+      "q": "What do I get?",
+      "a": "A prioritized remediation report + 1-hour call. The $297 is credited if you buy any product."
+    },
+    {
+      "q": "Do you need access to my systems?",
+      "a": "No. You run the free Readiness Score script and share the report; we analyze it."
+    }
+  ],
+  "updated_at": "2026-07-20T01:16:30.460091+00:00"
+}

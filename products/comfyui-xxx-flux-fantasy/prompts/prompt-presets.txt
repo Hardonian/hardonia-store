@@ -1,0 +1,15 @@
+# FLUX Fantasy — prompt presets (fictional, consensual, 18+)
+
+All presets target fictional characters in consensual adult-fantasy scenarios.
+Do not use with real persons, minors, or non-consensual content (see
+LEGAL_SAFEGUARDS.md).
+
+1. neon-sovereign: neon sovereign shield sigil, clean vector stroke, glowing cyan edges, geometric frame
+2. cinematic-guardian: cinematic portrait of an adult fantasy guardian, neon crown, volumetric rim light, editorial grade
+3. low-light-editorial: studio portrait, dramatic low-key lighting, fine grain, shallow depth
+4. abstract-vector: abstract vector burst, iridescent gradients, sharp geometry, high contrast
+5. fantasy-royalty: fictional royal consort portrait, ornate fabric, candlelight, painterly finish
+6. noir-nocturne: noir nightclub fantasy scene, single-source practical light, smoke, film grain
+
+Usage: append as --prompt "<preset text>" to scripts/generate_flux.py, or paste
+into the CLIPTextEncode text widget in the UI workflow.

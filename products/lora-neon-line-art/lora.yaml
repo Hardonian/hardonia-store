@@ -1,0 +1,21 @@
+name: "Neon Line Art — ComfyUI LoRA Pack"
+sku: lora-neon-line-art
+type: comfyui-lora
+base_model: "SDXL 1.0"
+trigger_word: "neonlineart"
+recommended_strength: 0.72
+description: >
+  A sovereign-trained line-art LoRA for SDXL. Produces crisp neon contour
+  illustrations from a single trigger word. Drop into ComfyUI /models/loras
+  and reference by filename; no checkpoint swap required.
+files:
+  - lora: neon-line-art.safetensors
+  - preview: preview.png
+  - readme: README.md
+install:
+  - "mkdir -p ~/ComfyUI/models/loras"
+  - "cp lora-neon-line-art/neon-line-art.safetensors ~/ComfyUI/models/loras/"
+compat:
+  - "ComfyUI"
+  - "SDXL"
+  - "Automatic1111 (lora load)"

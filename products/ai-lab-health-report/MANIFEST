@@ -1,0 +1,16 @@
+{
+  "product": "AI Lab Health Report",
+  "slug": "ai-lab-health-report",
+  "price": "$19",
+  "generated_at": "2026-07-17T14:39:49.954704+00:00",
+  "deliverables": [
+    "CHANGELOG",
+    "LICENSE",
+    "LICENSE.txt",
+    "MANIFEST",
+    "generate-lab-health-report.sh",
+    "watchdog.service",
+    "watchdog.timer"
+  ],
+  "bundle_bytes": 1353505
+}

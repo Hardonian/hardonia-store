@@ -1,0 +1,43 @@
+{
+  "slug": "private-ai-readiness",
+  "name": "Private AI Readiness Audit",
+  "tagline": "90-min call + written report: data residency, model licensing, inference stack, compliance gaps. Fixed scope.",
+  "price": 149,
+  "currency": "usd",
+  "interval": "one-time",
+  "checkout_url": "https://buy.stripe.com/cNi5kC57q0Xy5cKgP7b3q2u",
+  "gumroad_url": "https://buy.stripe.com/cNi5kC57q0Xy5cKgP7b3q2u",
+  "category": "audit",
+  "status": "draft",
+  "readiness_score": 95,
+  "launch_gate": {
+    "build_evidence": true,
+    "test_evidence": true,
+    "security_evidence": true
+  },
+  "assets": [
+    "intake_form.md",
+    "report_template.md",
+    "calendly_link.txt"
+  ],
+  "deliverables": [
+    "Pre-call intake form (15 min)",
+    "90-min video call (screen share your lab)",
+    "Written report (PDF + Markdown):",
+    "  - Data residency & sovereignty assessment",
+    "  - Model licensing & commercial use review",
+    "  - Inference stack hardening gaps",
+    "  - Compliance gaps (GDPR, SOC2, industry)",
+    "  - Prioritized remediation roadmap",
+    "Follow-up email (7 days) with Q&A"
+  ],
+  "stripe_sku": "private-ai-readiness",
+  "price_id": "price_1U1qC1C651G6xmqGYI1JdwCf",
+  "leverages": [
+    "local-ai-lab-audit framework",
+    "sovereign-ai-audit content",
+    "private-ai-assurance-retainer templates"
+  ],
+  "delivery": "Calendly link instant; report within 48h of call",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/private-ai-readiness.tar.gz"
+}

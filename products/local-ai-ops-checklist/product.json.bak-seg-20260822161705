@@ -1,0 +1,34 @@
+{
+  "name": "Local AI Ops Checklist",
+  "status": "ready",
+  "audience": "AI lab owners, ops leads, solo operators",
+  "pain": "Your lab runs on hope. One misconfigured path and customer data leaks, or a node dies unpublished with no alarm.",
+  "offer": "A local-first ops checklist covering isolation, backups, and failure alerts. Founder: cheap insurance. Enterprise: GRC-ready. Solo-dev: set-and-forget.",
+  "price": "$29",
+  "headline": "Operational checklist for local AI labs.",
+  "checkout_url": "https://buy.stripe.com/aFacN47fyeOo6gO42lb3q0F",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/local-ai-ops-checklist.tar.gz",
+  "updated_at": "2026-08-03T18:02:48+00:00",
+  "readiness_score": 100,
+  "slug": "local-ai-ops-checklist",
+  "gumroad_url": "https://scottrmhardie.gumroad.com/l/oqhcne",
+  "early_adopter": true,
+  "founding_cohort": "First 100 customers lock this price for life; standard rate increases as the brand establishes.",
+  "price_tier": "download",
+  "standard_rate_later": "rises ~2x at general availability",
+  "image_path": "cover.png",
+  "faq": [
+    {
+      "q": "Who is this checklist for?",
+      "a": "Local AI operators, homelab owners, and solo founders running GPU stacks who want repeatable, billable operations."
+    },
+    {
+      "q": "What do I get?",
+      "a": "Systemd unit templates, health probes, and runbooks you can drop into your lab immediately."
+    },
+    {
+      "q": "Is it a subscription?",
+      "a": "No. One-time download, lifetime updates at the founding-cohort price."
+    }
+  ]
+}

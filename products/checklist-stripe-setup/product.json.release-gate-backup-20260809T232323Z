@@ -1,0 +1,16 @@
+{
+  "slug": "checklist-stripe-setup",
+  "name": "Stripe sovereign setup checklist",
+  "tagline": "Covers webhook verify, catalog sync, fulfillment, and key rotation.",
+  "price": 9,
+  "currency": "usd",
+  "audience": "Indie founders",
+  "pain": "Broken checkout wiring",
+  "offer": "End-to-end Stripe hardening checklist",
+  "deliverable": "checklist.md",
+  "stripe_sku": "checklist-stripe-setup",
+  "checkout_url": "",
+  "gumroad_url": "",
+  "status": "ready",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/checklist-stripe-setup.tar.gz"
+}

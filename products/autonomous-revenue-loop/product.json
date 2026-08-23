@@ -1,0 +1,23 @@
+{
+  "slug": "autonomous-revenue-loop",
+  "name": "Autonomous Revenue Loop",
+  "status": "early-access",
+  "audience": "Solo AI-lab founders, GPU workstation owners, indie tool builders",
+  "pain": "Too many crons, no single view, revenue stuck at zero traffic, everything needs babysitting.",
+  "offer": "11 tested scripts + 3 Hermes skills + new-lab playbook + Caddy hardening snippets",
+  "price": "$499 one-time / $997 with implementation day / $750-$2500/mo retainer",
+  "checkout_url": "https://aiautomatedsystems.ca/contact?product=autonomous-revenue-loop",
+  "gumroad_url": "https://scottrmhardie.gumroad.com/l/ohbonc",
+  "image_path": "/home/scott/hardonia.store/products/autonomous-revenue-loop/assets/cover.png",
+  "landing_path": "/home/scott/ai-lab/reports/landing/autonomous-revenue-loop.html",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/autonomous-revenue-loop.tar.gz",
+  "source": "/home/scott/hardonia.store/products/autonomous-revenue-loop/product.json",
+  "readiness_score": 100,
+  "updated_at": "2026-08-03T18:02:48+00:00",
+  "headline": "Turn 60+ crons into a hands-off revenue loop.",
+  "early_adopter": true,
+  "founding_cohort": "First 100 customers lock this price for life; standard rate increases as the brand establishes.",
+  "price_tier": "service",
+  "standard_rate_later": "rises to market rate as brand establishes",
+  "early_access": true
+}

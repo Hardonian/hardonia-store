@@ -1,0 +1,13 @@
+{
+  "product": "comfyui-workflow-subscription",
+  "version": "0.1.0",
+  "billing": "monthly",
+  "renewal_note": "Subscribers receive new workflow packs each month.",
+  "files": [
+    "workflows/starter-portrait-light.json",
+    "prompts/starter-presets.txt",
+    "onboarding/welcome.md",
+    "README.md",
+    "posting-instructions.md"
+  ]
+}

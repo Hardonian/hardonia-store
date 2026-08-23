@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+# .git/hooks/pre-commit — run KB regression gate + storefront tests before commit.
+# Fails the commit if the KB bot or storefront breaks (no broken state reaches the repo).
+set -Euo pipefail
+root=$(git rev-parse --show-toplevel 2>/dev/null || echo /home/scott)
+fail=0
+
+# KB regression gate (if kb/ changed)
+if git diff --cached --name-only | grep -q 'hardonia.store/kb/'; then
+  echo "[pre-commit] running kb-ci gate..."
+  if ! bash "$root/hardonia.store/kb/tools/kb-ci.sh" >/dev/null 2>&1; then
+    echo "  kb-ci FAILED — commit blocked. Run: bash hardonia.store/kb/tools/kb-ci.sh"
+    fail=1
+  fi
+fi
+
+# Storefront pytest (if storefront changed)
+if git diff --cached --name-only | grep -q 'storefront/app/\|storefront/tests/'; then
+  echo "[pre-commit] running storefront pytest..."
+  export STOREFRONT_DOWNLOAD_SECRET="precommit-placeholder-secret-$(date +%s)"
+  if ! python3 -m pytest "$root/ai-workspace/repos/storefront/tests/" -q -p no:cacheprovider >/dev/null 2>&1; then
+    echo "  storefront tests FAILED — commit blocked. Fix tests before committing."
+    fail=1
+  fi
+fi
+
+# Secret scan (gitleaks if present)
+if command -v gitleaks >/dev/null 2>&1; then
+  echo "[pre-commit] gitleaks scan..."
+  # Use repo .gitleaks.toml if present (allowlists test placeholders); otherwise defaults.
+  # NOTE: this gitleaks build has no --quiet flag; rely on exit code only.
+  if ! gitleaks protect --staged --redact --config="$root/.gitleaks.toml" 2>/dev/null \
+     && ! gitleaks protect --staged --redact 2>/dev/null; then
+    echo "  gitleaks found a secret — commit blocked. Remove/rotate the secret."
+    fail=1
+  fi
+fi
+
+[[ "$fail" -eq 0 ]] && exit 0 || exit 1

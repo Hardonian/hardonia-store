@@ -1,0 +1,13 @@
+{
+  "product": "AI Portrait Studio",
+  "slug": "ai-portrait-studio",
+  "price": "$19\u2013$49",
+  "generated_at": "2026-07-17T14:39:49.955963+00:00",
+  "deliverables": [
+    "samples/sample-prompt-1.txt",
+    "templates/job.json",
+    "workflows/portrait-base.json",
+    "workflows/portrait-default.json"
+  ],
+  "bundle_bytes": 1535108
+}

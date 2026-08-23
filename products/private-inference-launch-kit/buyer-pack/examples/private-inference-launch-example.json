@@ -1,0 +1,10 @@
+{
+  "schema": "ai-assurance.private-inference-launch/v1",
+  "ready": true,
+  "blockers": [],
+  "warnings": [
+    "No backup/restore verification recorded.",
+    "No GPU isolation evidence recorded."
+  ],
+  "boundary": "Assessment only. Do not expose an inference endpoint or issue customer credentials until blockers are resolved and human review approves launch."
+}

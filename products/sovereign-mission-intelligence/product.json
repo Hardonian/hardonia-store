@@ -1,0 +1,23 @@
+{
+  "name": "Sovereign Mission Intelligence",
+  "status": "early-access",
+  "slug": "sovereign-mission-intelligence",
+  "headline": "Turn scattered evidence, private AI, and governed automation into one decision-support operating layer.",
+  "audience": "Owner-operators, regulated SMBs, municipalities, MSPs, and AI teams that need dependable intelligence without handing sensitive operations to a black box.",
+  "pain": "Operational facts are scattered across dashboards, tickets, model runs, spreadsheets, and alerts. Teams cannot tell what is healthy, what matters next, or which action is safe to automate.",
+  "offer": "A tailored Sovereign Mission Intelligence implementation: evidence collection, private inference routing, operational context, explainable analysis, approval-gated actions, and a buyer-ready operating brief. We map the decision loop to your systems, keep sensitive workloads local where practical, and leave you with documented ownership rather than an opaque dependency.",
+  "price": "From CAD$2,500 discovery / implementation quoted to scope",
+  "checkout_url": "https://aiautomatedsystems.ca/contact?product=sovereign-mission-intelligence",
+  "landing_path": "/home/scott/ai-lab/reports/landing/sovereign-mission-intelligence.html",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/sovereign-mission-intelligence.tar.gz",
+  "source": "hardonia.store",
+  "readiness_score": 100,
+  "price_tier": "service",
+  "support": "Discovery workshop, architecture map, implementation handoff, documented runbooks, and human support during the agreed onboarding window.",
+  "assurances": [
+    "No claim of perfect autonomy: approval gates remain explicit for consequential actions.",
+    "Private-first routing and data minimization are designed into the implementation.",
+    "Evidence, assumptions, and recommendations remain distinguishable in the operating brief."
+  ],
+  "updated_at": "2026-08-03T18:02:48+00:00"
+}

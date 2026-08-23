@@ -1,0 +1,45 @@
+# FLUX Fantasy PRO — 30 prompt presets (fictional, consensual, 18+)
+
+Usage: pass as `--prompt "<preset text>"` to scripts/generate_flux.py in this
+pack (set --steps 20-24 for FLUX), or paste into the positive text widget in
+the UI workflow. Presets are grouped; base presets 1-6 are shared with the
+FLUX Fantasy pack, 7-30 are PRO-only.
+
+## Portraits / figurative (fallback 1-6 shared, 7+ PRO)
+1. neon-sovereign: sovereign shield sigil, clean vector strokes, glowing cyan edges, geometric frame
+2. cinematic-guardian: cinematic portrait of an adult fantasy guardian, neon crown, volumetric rim light, editorial grade
+3. low-light-editorial: studio portrait, dramatic low-key lighting, fine grain, shallow depth
+4. abstract-vector: abstract vector burst, iridescent gradients, sharp geometry, high contrast
+5. fantasy-royalty: fictional royal consort portrait, ornate fabric, candlelight, painterly finish
+6. noir-nocturne: noir nightclub scene, single-source practical light, smoke, film grain
+7. velvet-afterglow: elegant evening portrait, warm gold backlight, velvet texture, soft halation, glamour
+8. rain-neon: adult figure under neon rain, reflective street, cyan/magenta split, cinematic
+9. marble-bloom: sculptural portrait, marble and flower motif, rim light, fine art
+10. smoke-halo: profile portrait, thin smoke halo, backlit, minimal palette
+11. copper-hour: late sun through sheer fabric, copper tones, fine grain editorial
+12. mirror-twin: adult model and mirror reflection, diptych framing, shallow focus
+13. orchid-study: close portrait surrounded by dark orchids, moody chiaroscuro
+14. velvet-storm: swirling dark fabrics, storm-lit, high drama, editorial
+15. aurora-noble: aurora tones over elegant portrait, cool green/violet palette
+
+## Scenes / narrative (fictional, 18+ context)
+16. candle-conclave: candlelit chamber, adults in formal garb, painterly depth
+17. night-arboretum: one adult lost in a glowing botanical atrium, moonlight, wet leaves
+18. steam-bath: steamy warm interior, one adult silhouette, soft diffusion, tasteful
+19. boudoir-velvet: elegant boudoir, velvet tones, dim gold light, framing safe, tasteful
+20. grandhall-dusk: tall hall at dusk, figure in frame, god-ray volume, film grain
+21. silver-meridian: art-deco lounge, silver leaf, one adult center, editorial lighting
+22. rain-check: adult under awning, evening rain, specular highlights, shallow depth
+23. lantern-courtyard: hidden courtyard at blue hour, lanterns, one figure, painterly
+24. ember-cabinet: dark room, single ember glow, face-lit portrait, high contrast
+25. slat-light: sunlight through blinds, light strips on one figure, minimal composition
+
+## Style vectors (for character LoRA testing)
+26. stitch-face: close-up with visible photorealism finishing, no gloss-look
+27. ink-veil: selective color desaturation except a single accent hue
+28. duotone-noir: strict two-tone treatment with silhouette contrast
+29. anamorphic-frame: anamorphic lens flares, wide composition, cookie shadows
+30. editorial-cover: cover composition, type-safe negative space on top
+
+## Quality tags (append to any preset for PRO lane)
+fictional adult character, 18 plus, cinematic grading, no text, no watermark

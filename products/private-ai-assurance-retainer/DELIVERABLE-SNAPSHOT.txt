@@ -1,0 +1,7 @@
+Private AI Assurance Retainer deliverable snapshot
+Generated: 2026-07-31T01:35:26+00:00
+Root: /home/scott/hardonia.store/products/private-ai-assurance-retainer
+Files excluding this snapshot: 14
+Bytes excluding this snapshot: 71331
+Tree SHA-256: 2d83c8e084ff40facbb737255f092af89c98c91787bdd9c0a2733c76f6a5db88
+Scope: buyer documents, sample assurance report, and product assets for the recurring service. This artifact does not prove payment, fulfillment, or realized revenue.

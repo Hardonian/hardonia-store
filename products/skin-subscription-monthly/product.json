@@ -1,0 +1,33 @@
+{
+  "slug": "skin-subscription-monthly",
+  "name": "Agent Skin Subscription — Monthly",
+  "tagline": "1 new sovereign agent skin/month. Drop-in skin.yaml + 1 bundled operator skill.",
+  "price": 12,
+  "currency": "usd",
+  "interval": "month",
+  "checkout_url": "https://buy.stripe.com/8x2fZggQ849KbB86atb3q2o",
+  "gumroad_url": "https://buy.stripe.com/8x2fZggQ849KbB86atb3q2o",
+  "category": "agent-skin-subscription",
+  "status": "draft",
+  "readiness_score": 95,
+  "launch_gate": {
+    "build_evidence": true,
+    "test_evidence": true,
+    "security_evidence": true
+  },
+  "assets": [
+    "skin.yaml (monthly)",
+    "install.sh",
+    "operator_skill.py"
+  ],
+  "deliverables": [
+    "skin.yaml — themes CLI/TUI/GUI from one file",
+    "install.sh — one-command apply",
+    "1 bundled operator skill (rotating)"
+  ],
+  "stripe_sku": "skin-subscription-monthly",
+  "price_id": "price_1U1qBzC651G6xmqG0lD35TCR",
+  "factory_backed": true,
+  "factory_name": "overnight-agent-skin-factory",
+  "delivery": "monthly via shared repo / email"
+}

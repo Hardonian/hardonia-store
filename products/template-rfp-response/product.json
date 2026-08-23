@@ -1,0 +1,16 @@
+{
+  "slug": "template-rfp-response",
+  "name": "Sovereign RFP Response Template",
+  "tagline": "Structured RFP response with scoring, positioning, and pricing blocks.",
+  "price": 19,
+  "currency": "usd",
+  "audience": "Consultants",
+  "pain": "Slow, generic proposals",
+  "offer": "Fill-in RFP template that wins",
+  "deliverable": "template.md",
+  "stripe_sku": "template-rfp-response",
+  "checkout_url": "",
+  "gumroad_url": "",
+  "status": "draft",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/template-rfp-response.tar.gz"
+}

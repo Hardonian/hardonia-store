@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Hardonian Agent Skins — Sovereign AI Identity Packs</title>
+<style>
+  :root { --bg:#0b0f17; --ink:#e2e8f0; --accent:#22d3ee; --muted:#64748b; --border:#1e293b; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; }
+  header { padding:48px 24px 24px; text-align:center; border-bottom:1px solid var(--border); }
+  h1 { margin:0 0 8px; font-size:2rem; color:#67e8f9; }
+  .sub { color:var(--muted); max-width:640px; margin:0 auto; }
+  main { max-width:980px; margin:0 auto; padding:32px 24px 64px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:20px; }
+  .card { border:1px solid var(--border); border-radius:14px; padding:22px; background:#0e1320; display:flex; flex-direction:column; }
+  .card h2 { margin:0 0 6px; font-size:1.25rem; }
+  .price { color:var(--accent); font-weight:700; font-size:1.5rem; margin:8px 0; }
+  .tag { color:var(--muted); font-size:.9rem; flex:1; }
+  button { margin-top:16px; background:var(--accent); color:#05121a; border:0; border-radius:10px; padding:12px 16px; font-weight:700; cursor:pointer; }
+  button:hover { filter:brightness(1.08); }
+  button:disabled { opacity:.6; cursor:wait; }
+  .note { color:var(--muted); font-size:.8rem; margin-top:10px; }
+  .email { width:100%; padding:10px; border-radius:10px; border:1px solid var(--border); background:#0b0f17; color:var(--ink); margin-top:12px; }
+  footer { text-align:center; color:var(--muted); padding:24px; border-top:1px solid var(--border); font-size:.85rem; }
+  #status { text-align:center; color:var(--accent); min-height:1.4em; margin-top:18px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Hardonian Agent Skins</h1>
+  <p class="sub">Sovereign AI identity packs. Drop a skin into <code>~/.hermes/skins</code> and your agent looks like it runs a fleet at 2am. Curated, low-competition, built by the same agents that use them.</p>
+</header>
+<main>
+  <div class="grid" id="products"></div>
+  <div id="status"></div>
+</main>
+<footer>
+  Sold via Stripe · Delivered by email · No account needed · Built and hosted on sovereign infrastructure.
+</footer>
+
+<script>
+const CHECKOUT_URL = "https://aiautomatedsystems.ca/api/checkout";  // production audit-api host
+const products = [
+  { sku:"skin-neon-sovereign", name:"Neon Sovereign — Agent Skin Pack", price:19,
+    tag:"Cyan-on-ink command surface for operators running sovereign AI fleets at 2am. Includes skin.yaml + 2 bundled skills." },
+  { sku:"skin-heritage-quiet", name:"Heritage Quiet — Agent Skin Pack", price:19,
+    tag:"Restrained heritage monochrome — Wall Street restraint for AI operators. Includes skin.yaml + 2 bundled skills." },
+  { sku:"skin-pack-bundle", name:"Both Skins + Bonus Loop Pack", price:39,
+    tag:"Both agent skins plus the autonomous overnight-revenue skill bundle. Best value." }
+];
+
+const grid = document.getElementById("products");
+const status = document.getElementById("status");
+
+products.forEach(p => {
+  const card = document.createElement("div");
+  card.className = "card";
+  card.innerHTML = `
+    <h2>${p.name}</h2>
+    <div class="price">$${p.price}</div>
+    <p class="tag">${p.tag}</p>
+    <input class="email" type="email" placeholder="you@domain.com" data-sku="${p.sku}" />
+    <button data-sku="${p.sku}">Buy ${p.name.split(" — ")[0]}</button>
+    <div class="note">One-time purchase. Download link emailed instantly.</div>`;
+  grid.appendChild(card);
+});
+
+grid.addEventListener("click", async (e) => {
+  const btn = e.target.closest("button");
+  if (!btn) return;
+  const sku = btn.dataset.sku;
+  const email = grid.querySelector(`input[data-sku="${sku}"]`).value.trim();
+  if (!email || !email.includes("@")) { status.textContent = "Enter a valid email first."; return; }
+  btn.disabled = true; status.textContent = "Redirecting to secure checkout…";
+  try {
+    const res = await fetch(CHECKOUT_URL, {
+      method:"POST", headers:{"content-type":"application/json"},
+      body: JSON.stringify({ sku, email })
+    });
+    const data = await res.json();
+    if (data && data.url) { window.location.href = data.url; }
+    else { status.textContent = data.detail || "Checkout unavailable — contact support."; btn.disabled = false; }
+  } catch (err) {
+    status.textContent = "Network error — try again or email support."; btn.disabled = false;
+  }
+});
+</script>
+</body>
+</html>

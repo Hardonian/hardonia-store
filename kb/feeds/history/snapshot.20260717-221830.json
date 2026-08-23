@@ -1,0 +1,96 @@
+{
+  "generated_at": "2026-07-17T22:18:29Z",
+  "intel": {"block": false, "active_flags": [], "note": "themes: /, | best_offer: /mnt/ai-storage (wr / 79.0)"},
+  "analytics": {
+  "total_page_views": 10516,
+  "views_today": 1928,
+  "unique_visitors": 0,
+  "checkout_clicks": 10,
+  "checkout_clicks_today": 1,
+  "conversions": 0,
+  "conversion_rate": 0.0,
+  "total_revenue_cents": 0,
+  "top_pages": "ai-lab-health-report(1016), hardonia-compute-api-access(1004), autonomous-revenue-loop(1001)",
+  "generated_at": "2026-07-17T22:18:29.978523Z"
+},
+  "financial": {
+  "total_revenue_cents": 0,
+  "products": [
+    {
+      "name": "GPU Spend Guard",
+      "price_cents": 1900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/cocwjg"
+    },
+    {
+      "name": "Sovereign AI Control Plane",
+      "price_cents": 500000,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/nntpsf"
+    },
+    {
+      "name": "Private AI Readiness Audit",
+      "price_cents": 14900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/mopkw"
+    },
+    {
+      "name": "AI Box Doctor",
+      "price_cents": 9900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/assiv"
+    },
+    {
+      "name": "Sovereign AI Ops Score",
+      "price_cents": 2900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/ijvqhz"
+    },
+    {
+      "name": "ComfyUI Thumbnail Creator Kit",
+      "price_cents": 4900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/najphx"
+    },
+    {
+      "name": "ComfyUI Product Photo Kit",
+      "price_cents": 5900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/lrtgq"
+    },
+    {
+      "name": "ComfyUI Fashion Lookbook Kit",
+      "price_cents": 6900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/byiny"
+    },
+    {
+      "name": "ComfyUI Node Starter Kit",
+      "price_cents": 3900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/xacpo"
+    },
+    {
+      "name": "Local AI Ops Checklist",
+      "price_cents": 2900,
+      "sold": 0,
+      "revenue_cents": 0,
+      "url": "https://scottrmhardie.gumroad.com/l/quvyz"
+    }
+  ],
+  "currency": "usd",
+  "generated_at": "2026-07-17T22:18:29.899778+00:00",
+  "note": "live gumroad"
+},
+  "compute": {"gpu_util_pct":0,"free_vram_pct":99,"active_keys":2,"capacity_ok":true},
+  "legal": { "open_flags": [], "minor_safety_clear": true }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ops-draft",
+  "name": "OpsDraft",
+  "source": "/home/scott/ai-lab/store/bundles/ops-draft.zip",
+  "size_bytes": 13910,
+  "sha256": "2cd0f0b08d23503389d64455e74d9ff59d983585b36de22957db27511927a5f9",
+  "members": [
+    "bundles/ops-draft/pipelines/board-minutes.air",
+    "bundles/ops-draft/pipelines/matter-memo.air",
+    "bundles/ops-draft/pipelines/permit-letter.air",
+    "bundles/ops-draft/product.json",
+    "compiler/__pycache__/air_compiler.cpython-314.pyc",
+    "compiler/air_compiler.py",
+    "runtime/air_runtime.py",
+    "scripts/create_stripe_price.py",
+    "scripts/install.sh",
+    "scripts/sentinel-doctor.sh"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "last_node_id": 3,
+  "last_link_id": 3,
+  "nodes": [
+    {"id": 1, "type": "KSampler", "pos": [100, 100]},
+    {"id": 2, "type": "CLIPTextEncode", "pos": [300, 100]},
+    {"id": 3, "type": "VAEDecode", "pos": [500, 100]}
+  ],
+  "links": [
+    [1, 0, 3, 0, 1],
+    [2, 0, 1, 0, 1],
+    [1, 1, 2, 0, 1]
+  ]
+}

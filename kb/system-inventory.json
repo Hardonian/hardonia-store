@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-07-12",
+  "description": "Machine-readable inventory of the Hardonia AI-lab platform: services, ports, workers, bots, cron timers, realtime routes, data flows, and operations. Consumed by the AU support bot and ecosystem-update.",
+  "host": "aiautomatedsystems.ca (HX370 orchestration + EPYC GPU server + edge nodes)",
+  "services": {
+    "ai-lab-command-center": {"port": 8000, "pid": 1293406, "role": "Unified dashboard / operator console / self-healing orchestrator", "auth": "JWT or shared dashboard token (require_auth)", "deps": ["ollama (4 instances)", "redis (optional, fail-soft)", "vramd", "comfyui"], "health": "/health /live /ready", "repo": "ai-lab-command-center"},
+    "hardonia-checkout-api": {"port": 8012, "pid": 4173010, "role": "Stripe checkout + webhook -> revenue-os purchases -> workforce fanout", "auth": "Operator key for revenue endpoints; Stripe sig on webhooks", "deps": ["revenue-os.db", "workforce-control-plane :8040"], "health": "/health /live /ready", "repo": "hardonia-checkout-api"},
+    "hardonia-compute-api": {"port": 8050, "pid": 4173121, "role": "Paid GPU inference / image-gen jobs, prepaid credits + metered usage", "auth": "X-API-Key; admin X-Admin-Key", "deps": ["sqlite.db (usage_logs/jobs/credit_transactions)", "ollama-router", "comfyui"], "health": "/health /live /ready", "repo": "hardonia-compute-api", "notes": "metered usage now logged to usage_logs.job_id; /admin/billing/usage-report aggregates"},
+    "workforce-control-plane": {"port": 8040, "pid": 11123, "role": "Workforce queue/status/complete + webhook ingest (HMAC-verified opt-in)", "auth": "X-Workforce-Key for non-localhost; HMAC PLATFORM_ENFORCE_SIGNING", "deps": ["ai-lab/agents/queue"], "health": "/health", "repo": "workforce-control-plane (in ai-lab tree)"},
+    "ai-lab-audit-api": {"port": 8011, "pid": 10557, "role": "Audit/snapshot/doctor API", "auth": "internal", "deps": [], "health": "/health"},
+    "storefront": {"port": 8020, "pid": 10530, "role": "Public storefront, blog, landing pages, lead capture, Gumroad CTA", "auth": "public + STOREFRONT_DOWNLOAD_SECRET for downloads", "deps": ["hardonia.store/products", "revenue-os (events)"], "health": "/health", "repo": "storefront"},
+    "platform-control-plane": {"port": 8070, "pid": 10038, "role": "Platform control plane: /platform/services /status /contracts /slos /actions (authed, audited)", "auth": "HMAC or control admin token", "deps": ["service_registry manifests", "recovery_watchdog", "contracts.py"], "health": "/platform/status", "repo": "ai-lab/platform"},
+    "stripe-webhook": {"port": null, "pid": null, "role": "Stripe webhook receiver (separate service)", "auth": "Stripe sig", "deps": ["checkout-api"], "health": "internal"},
+    "comfyui": {"port": 8188, "pid": 42141, "role": "Local image-diffusion engine", "auth": "none (localhost)", "deps": ["GPU"], "health": "/system_stats"},
+    "open-webui": {"port": 3002, "role": "Chat UI over Ollama", "auth": "ui", "deps": ["ollama"], "health": "/api/health"},
+    "n8n": {"port": 5678, "pid": 17171, "role": "Workflow automation (CREDENTIALS COMPROMISED - rotate)", "auth": "basic (rotate pw)", "deps": [], "health": "/"},
+    "ollama-router": {"port": 11438, "pid": 10538, "role": "Ollama model router across GPU instances", "auth": "none (localhost)", "deps": ["ollama-v100/p40/3060"], "health": "/api/tags"},
+    "ollama-v100": {"port": 11434, "role": "Ollama on V100", "auth": "none", "deps": ["GPU"], "health": "/api/tags"},
+    "ollama-p40": {"port": null, "role": "Ollama on P40", "auth": "none", "deps": ["GPU"], "health": "/api/tags"},
+    "ollama-3060": {"port": null, "role": "Ollama on 3060", "auth": "none", "deps": ["GPU"], "health": "/api/tags"},
+    "redis": {"port": 6380, "pid": null, "role": "Cache/rate-limit backend (REQUIRES AUTH - currently app uses empty pw -> fail-soft)", "auth": "required (misconfigured)", "deps": [], "health": "RESP ping"},
+    "node_exporter": {"port": 9100, "pid": 10278, "role": "Prometheus host metrics", "auth": "none", "deps": [], "health": "/metrics"},
+    "caddy": {"port": "80/443", "pid": null, "role": "Reverse proxy / TLS", "auth": "n/a", "deps": [], "health": "/"},
+    "vramd": {"port": 8001, "role": "VRAM dashboard", "auth": "internal", "deps": ["GPU"], "health": "/"}
+  },
+  "workers": {
+    "workforce-executor": {"unit": "workforce-executor.service/.timer", "interval": "60s", "role": "Pops filesystem queue, runs mapped command, records completion to control-plane"},
+    "ai-agent-orchestrator": {"unit": "ai-agent-orchestrator.service/.timer", "role": "Spawns/monitors sub-agents; self-healing loop"},
+    "platform-recovery": {"unit": "platform-recovery.timer", "interval": "5m", "role": "recovery_watchdog: lease reclaim, poison quarantine, bounded restart, reconcile"},
+    "platform-delivery": {"unit": "platform-delivery.timer", "interval": "10m", "role": "hardened_delivery: idempotent bundle assembly + DLQ"},
+    "delivery-executor": {"unit": "delivery-executor.timer", "interval": "15m", "role": "On new purchase: customize bundle, drop to store/sent/<order>/"},
+    "revenue-os-sync": {"unit": "revenue-os-sync.timer", "interval": "30m", "role": "Sync revenue-os events/purchases to snapshot"},
+    "autonomous-hour": {"unit": "autonomous-hour.timer", "interval": "daily 04:00", "role": "Self-driving plan: priority sort, execute safe tasks"},
+    "profit-operator": {"unit": "profit-operator.timer", "interval": "daily 06:05", "role": "Generate <=120min human agenda from real signals"},
+    "suite-verify": {"unit": "suite-verify.timer", "interval": "daily 03:30", "role": "Run all test suites + qa_harness"},
+    "revenue-watch": {"unit": "revenue-watch.timer", "interval": "hourly", "role": "funnel-watch + conversion-auditor + approval-queue"},
+    "idle-gpu-watch": {"unit": "idle-gpu-watch.timer", "interval": "30m", "role": "Detect idle GPU, flag monetization"},
+    "gumroad-publish": {"unit": "gumroad-publish.timer", "interval": "daily 14:00", "role": "Publish queued products (10-create/24h cap)"},
+    "security-scan": {"unit": "security-scan.timer", "role": "Secret/expiry/dependency drift scans"},
+    "kb-ecosystem-update": {"unit": "kb-ecosystem-update.timer", "interval": "30m", "role": "Ingest intel/analytics/compute -> snapshot.json"},
+    "platform-contracts-refresh": {"unit": "platform-contracts-refresh.timer", "interval": "6h", "role": "Refresh contracts/manifest.json"}
+  },
+  "bots": {
+    "au-bot": {"path": "hardonia.store/kb/tools/au_bot.py", "role": "Support bot answering auth/access questions from real auth.py; reads snapshot.json", "server": "au-bot-server.service (active)"},
+    "agent-orchestrator": {"path": "ai-lab/agents/orchestrator/agent-orchestrator.py", "role": "Autonomous agent loop"},
+    "hermes-gateway": {"role": "Hermes operator gateway", "active": true}
+  },
+  "cron_groups": {
+    "revenue": ["revenue-os-sync", "revenue-watch", "revenue-dashboard", "revenue-pnl", "daily-pnl", "morning-profit-brief", "profit-operator", "gumroad-publish", "money-factory", "money-lane", "financial-tracker"],
+    "ai_lab_health": ["ai-doctor", "ai-heal", "ai-lab-watchdog", "ai-lab-cleanup", "ai-disk-pressure", "ai-metrics", "ai-service-data-truth", "ai-asset-truth", "hardware-os-truth", "service-watchdog", "workforce-self-heal", "auto-remediation", "config-drift", "dep-drift-guard", "cuda-x-doctor", "comfyui-symlink-check"],
+    "growth": ["seo-pages", "seo-auto-submit", "seo-rank-tracker", "content-generator", "content-queue-review", "newsletter-draft", "lead-scoring", "lead-nurture", "lead-connector", "abandoned-checkout", "opportunity-ranker", "competitor-monitor", "readme-backlinks", "social-poster", "social-content"],
+    "platform": ["suite-verify", "platform-recovery", "platform-delivery", "platform-contracts-refresh", "cross-layer-verify", "service-dependency", "kb-ci", "knowledge-base", "sandbox-reconcile"],
+    "workforce": ["workforce-executor", "ai-agent-orchestrator", "autonomous-hour", "autonomous-workforce-daily", "autonomous-workforce-weekly", "autonomous-workforce-monthly", "task-priority-sort", "self-driving-plan", "proactive-loop"],
+    "security": ["security-scan", "secret-expiry", "backup-drill", "backup-restore-test", "backup-revenue-os", "incident-postmortem", "log-watcher", "au-watchdog"],
+    "intel": ["kb-ecosystem-update", "analytics-summary", "ops-status", "lab-monitor", "lab-memory", "ecosystem-gap-audit", "night-skill-scout", "capacity-planner"]
+  },
+  "data_flows": {
+    "purchase": "Stripe checkout -> checkout-api /webhooks/stripe (sig verified) -> revenue-os.purchases -> workforce fanout (HMAC-signed) -> :8040 /workforce/webhooks/{workflow} -> queue -> executor -> delivery-executor (customize_bundle) -> store/sent/<order>/",
+    "usage_metering": "compute-api job complete -> db.log_usage(job_id) -> usage_logs -> /admin/billing/usage-report (admin) | future: Stripe usage_record",
+    "intel": "kb-ecosystem-update ingests intel/analytics/compute -> kb/feeds/snapshot.json -> au-bot reads it",
+    "platform_control": "service_registry probes all services -> platform-control-plane :8070 /platform/status ; recovery_watchdog runs on timer"
+  },
+  "external_blockers": {
+    "domain_tls": "aiautomatedsystems.ca TLS DOWN (Cloudflare token rejected 9109; needs sudo/Caddy or new token) -> blocks external traffic to SEO/blog/compute",
+    "gumroad_cap": "10 product CREATE per 24h (timer @14:00)",
+    "n8n_compromise": "n8n password in plaintext /home/scott/.local/etc/n8n.env -> ROTATE + move to secret store",
+    "redis_auth": "Redis :6380 requires auth but apps use empty pw -> rate-limiter fail-soft (no 500), creds not injected",
+    "sudo_needed": "Caddy edit/reload, Prometheus/Grafana, pen-test tooling, AV/rootkit (clamav/rkhunter/lynis)"
+  },
+  "secrets_policy": "Never expose: Stripe keys, Redis auth, n8n pw, Gumroad token, API keys, PATs. Redact as [REDACTED] in all logs/docs. Workforce control plane localhost-only."
+}

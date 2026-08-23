@@ -1,0 +1,13 @@
+{
+  "slug": "private-ai-evidence-sprint",
+  "name": "Private AI Evidence Sprint",
+  "audience": "Teams evaluating private AI operations without sharing secrets or production data.",
+  "pain": "Teams lack a bounded, readable evidence record for private-AI readiness decisions.",
+  "offer": "A redacted operational evidence report template with explicit scope and next actions.",
+  "price": "Contact pricing \u2014 fixed-scope sprint",
+  "status": "draft-page",
+  "checkout_url": "",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/private-ai-evidence-sprint.tar.gz",
+  "readiness_score": 75,
+  "launch_blocker": "No provider checkout or human-approved publication exists yet."
+}

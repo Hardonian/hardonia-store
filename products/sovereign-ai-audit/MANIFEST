@@ -1,0 +1,10 @@
+{
+  "slug": "sovereign-ai-audit",
+  "name": "Sovereign AI Audit",
+  "source": "/home/scott/ai-lab/revenue-os/deliverables/sovereign-ai-audit",
+  "size_bytes": 605,
+  "sha256": "directory-backed service deliverable",
+  "members": [
+    "README.md"
+  ]
+}

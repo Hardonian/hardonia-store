@@ -1,0 +1,22 @@
+{
+  "slug": "comfyui-xxx-flux-pro",
+  "name": "FLUX Fantasy PRO — Uncensored Workflows + LoRA Recipe",
+  "version": "1.0.0",
+  "price_usd": 49,
+  "status": "ready",
+  "category": "digital-asset",
+  "audience": "Pro adult creators with GPU + ComfyUI (18+)",
+  "pain": "SDXL cannot hold character identity across a batch; creators want a local pipeline with their own trained LoRA",
+  "offer": "Validated FLUX.1-dev fp8 workflows (UI+API) + LoRA recipe + 30 presets",
+  "deliverable": "tar.gz zip",
+  "includes": {
+    "workflows": ["flux-fantasy-workflow.json", "flux-fantasy-workflow-api.json"],
+    "scripts": ["generate_flux.py"],
+    "prompts": ["prompt-presets.txt (30)"],
+    "docs": ["AGE_VERIFICATION.md", "LEGAL_SAFEGUARDS.md", "WALKTHROUGH.md",
+             "SUPPORT.md", "LICENSE.md", "README.md", "CHANGELOG.md",
+             "PREVIEW.md", "MANIFEST.json", "LORA_RECIPE.md"]
+  },
+  "age_gate": "18+, fictional consensual only",
+  "support": "support@aiautomatedsystems.ca"
+}

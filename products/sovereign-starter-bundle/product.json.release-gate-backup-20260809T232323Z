@@ -1,0 +1,16 @@
+{
+  "slug": "sovereign-starter-bundle",
+  "name": "Sovereign Starter Bundle",
+  "tagline": "3 skins + 1 LoRA + 3 prompt packs at one price.",
+  "price": 39,
+  "currency": "usd",
+  "audience": "Sovereign AI operators",
+  "pain": "Unbranded, generic outputs",
+  "offer": "Drop-in ready-to-use asset",
+  "deliverable": "bundle.md",
+  "stripe_sku": "sovereign-starter-bundle",
+  "checkout_url": "",
+  "gumroad_url": "",
+  "status": "ready",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/sovereign-starter-bundle.tar.gz"
+}

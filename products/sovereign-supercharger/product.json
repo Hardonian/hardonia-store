@@ -1,0 +1,29 @@
+{
+  "name": "Sovereign Supercharger",
+  "status": "draft",
+  "slug": "sovereign-supercharger",
+  "audience": "Regulated SMBs, clinics, law firms, municipalities, finance offices wanting the full suite + IP protection + sovereignty audit.",
+  "pain": "Piecemeal buying is friction; cloud AI exposes privileged data; competitors clone open pipeline logic.",
+  "offer": "All 5 products (12 pipelines) + IP/LICENSE pack + sovereign audit engine + 3 months managed install included.",
+  "price": "$1497",
+  "headline": "The complete sovereign AI drafting suite. 12 pipelines, IP-protected, audit-verified, zero cloud.",
+  "checkout_url": "https://aiautomatedsystems.ca/contact?product=sovereign-supercharger",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/sovereign-supercharger.tar.gz",
+  "readiness_score": 25,
+  "price_tier": "one-time",
+  "image_path": "/home/scott/hardonia.store/products/sovereign-supercharger/assets/cover.png",
+  "cross_sell": "Managed install available at $149/mo after the included 3 months.",
+  "faq": [
+    {
+      "q": "What is included?",
+      "a": "All 4 verticals + Hardonia Enterpriser + IP pack + audit engine + 3 months managed."
+    },
+    {
+      "q": "Is it cloud-based?",
+      "a": "No. The audit engine proves offline execution."
+    }
+  ],
+  "audit_previous_checkout_url": "https://buy.stripe.com/8x2aEWdDWeOo9t02Yhb3q1X",
+  "audit_reason": "Purchase path quarantined: selected archive contains broad internal AI-lab scripts and does not contain the promised five-product/12-pipeline buyer payload.",
+  "updated_at": "2026-07-30T21:24:10-04:00"
+}

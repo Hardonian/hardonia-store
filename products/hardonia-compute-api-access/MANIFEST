@@ -1,0 +1,19 @@
+{
+  "product": "Hardonia Compute API Access",
+  "slug": "hardonia-compute-api-access",
+  "price": "$20 starter / $99 pro / $299 enterprise",
+  "generated_at": "2026-07-17T14:39:49.960407+00:00",
+  "deliverables": [
+    "hardonia-compute-api/app/auth.py",
+    "hardonia-compute-api/app/config.py",
+    "hardonia-compute-api/app/db.py",
+    "hardonia-compute-api/app/main.py",
+    "hardonia-compute-api/app/schemas.py",
+    "hardonia-compute-api/app/services.py",
+    "hardonia-compute-api/requirements.txt",
+    "samples/api-usage.md",
+    "samples/sample-job.json",
+    "templates/systemd-user-service.example"
+  ],
+  "bundle_bytes": 1870300
+}

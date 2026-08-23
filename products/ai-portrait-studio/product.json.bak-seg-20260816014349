@@ -1,0 +1,20 @@
+{
+  "name": "AI Portrait Studio",
+  "status": "ready",
+  "audience": "Local AI operators, homelab users, solo founders running GPU stacks",
+  "pain": "Scattered workflow exports, expensive cloud photo APIs, and data leaving your hardware.",
+  "offer": "Buyer submits reference + notes \u2192 runs on your V100 \u2192 delivers results.",
+  "price": "$19/month founding subscription",
+  "headline": "Private AI portraits, executed on your local GPU.",
+  "checkout_url": "https://buy.stripe.com/6oU4gyczSgWwfRobuNb3q0J",
+  "gumroad_url": "https://scottrmhardie.gumroad.com/l/nwmoip",
+  "updated_at": "2026-08-03T18:02:48+00:00",
+  "readiness_score": 100,
+  "slug": "ai-portrait-studio",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/ai-portrait-studio.tar.gz",
+  "early_adopter": true,
+  "founding_cohort": "First 100 customers lock this price for life; standard rate increases as the brand establishes.",
+  "price_tier": "subscription",
+  "standard_rate_later": "~$49-$99 at general availability",
+  "image_path": "cover.png"
+}

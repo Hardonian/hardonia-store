@@ -1,0 +1,3 @@
+# Caddy checkout patch
+# Add to Caddyfile:
+reverse_proxy /checkout/* 127.0.0.1:8012
