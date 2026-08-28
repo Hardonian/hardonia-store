@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.next/
+out/
+
+# OS/editor
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Build outputs
+dist/
+build/
+
+# Local env/secrets
+.env
+.env.local
+.env.*.local
+
+# Generated AI/model artifacts not intended for repo history
+kb/feeds/history/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Cache/temp
+.tmp/
+.cache/
+*.tmp
+
+# Optional local tooling
+.venv/
+__pycache__/

@@ -1,8 +1,0 @@
-{
-  "generated_at": "2026-07-12T00:07:46Z",
-  "intel": {"block": false, "active_flags": [], "note": "themes: apva-roi-benchmark, repo-rescue-saas-audit, ai-command-center-setup, local-ai-lab-audit | best_offer: local-ai-lab-audit (wr 0.55)"},
-  "analytics": {"visitors_24h": 0, "top_product": "", "conversion_pct": 0},
-  "financial": { "gumroad_fees_pct": 10, "burn_monthly": 0, "revenue_monthly": 0, "margin_by_product": {} },
-  "compute": {"gpu_util_pct":0,"free_vram_pct":99,"active_keys":2,"capacity_ok":true},
-  "legal": { "open_flags": [], "minor_safety_clear": true }
-}
