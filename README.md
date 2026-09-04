@@ -8,6 +8,10 @@
 [![Products](https://img.shields.io/badge/products-38-5a32a3?style=flat-square)](https://hardonia.store/products)
 [![Status](https://img.shields.io/badge/stack-all%20green-2ea043?style=flat-square)](https://hardonia.store)
 
+<!-- BEGIN: EPYC GPU STACK -->
+![EPYC GPU Stack — private, local-first inference fabric](assets/epyc-gpu-fabric.svg)
+<!-- END: EPYC GPU STACK -->
+
 > **Run powerful AI on your own hardware. No data leaves the building. No
 > per-seat SaaS tax. No vendor lock-in.** Hardonia is a private, local-first AI
 > product studio and compute layer — from GPU inference APIs to compliance-grade
