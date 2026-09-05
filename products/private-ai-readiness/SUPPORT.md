@@ -1,11 +1,19 @@
-# Private AI Readiness Audit — Support
+# Support and Scope
 
-## How to get help
-- Email: support@aiautomatedsystems.ca (reply with your order id)
-- Docs: each deliverable has inline notes
-- Customization: see `HANDOFF.md` for the template-edit path
+Included support
 
-## Common issues
-- Missing file? Re-download from your purchase link.
-- ComfyUI workflow won't load? Ensure ComfyUI is updated and the listed custom nodes are installed.
-- API access denied? Check your API key in the deliverable `main.py` notes.
+- Clarification on using the supplied read-only collector
+- Clarification on report-template sections
+- Correction of packaging defects in this toolkit
+
+Not included
+
+- emergency incident response
+- penetration testing or exploitation
+- legal, tax, privacy, licensing, or regulatory advice
+- hardware purchase recommendations without a separately scoped assessment
+- implementation work, production change approval, or managed operations
+
+Escalation
+
+If the collector fails, share the command used, operating-system version, and sanitized error output. Do not send credentials, private keys, customer information, or full configuration files.

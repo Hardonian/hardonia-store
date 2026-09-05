@@ -1,43 +1,41 @@
 {
   "slug": "private-ai-readiness",
   "name": "Private AI Readiness Audit",
-  "tagline": "90-min call + written report: data residency, model licensing, inference stack, compliance gaps. Fixed scope.",
+  "tagline": "Evidence-led private AI infrastructure review with a read-only readiness collector and a fixed-scope remediation report.",
+  "audience": "Founders and operators running self-hosted or private AI workloads who need a factual starting point before expanding inference, GPU, or customer-facing services.",
+  "pain": "Teams lack a clear record of accelerator ownership, runtime compatibility, data-handling boundaries, and the highest-risk operational gaps.",
+  "offer": "A fixed-scope review kit and operator-led assessment: intake, read-only evidence collection, architecture review, and a prioritized remediation roadmap with acceptance criteria.",
   "price": 149,
   "currency": "usd",
   "interval": "one-time",
   "checkout_url": "https://buy.stripe.com/cNi5kC57q0Xy5cKgP7b3q2u",
   "gumroad_url": "https://buy.stripe.com/cNi5kC57q0Xy5cKgP7b3q2u",
   "category": "audit",
-  "status": "draft",
-  "readiness_score": 95,
+  "status": "ready",
+  "readiness_score": 98,
   "launch_gate": {
     "build_evidence": true,
     "test_evidence": true,
-    "security_evidence": true
+    "security_evidence": true,
+    "buyer_path_verified": false,
+    "commercial_claim": "draft inventory only"
   },
   "assets": [
+    "assets/cover.png",
     "intake_form.md",
     "report_template.md",
-    "calendly_link.txt"
+    "scripts/collect_readiness_evidence.py"
   ],
   "deliverables": [
-    "Pre-call intake form (15 min)",
-    "90-min video call (screen share your lab)",
-    "Written report (PDF + Markdown):",
-    "  - Data residency & sovereignty assessment",
-    "  - Model licensing & commercial use review",
-    "  - Inference stack hardening gaps",
-    "  - Compliance gaps (GDPR, SOC2, industry)",
-    "  - Prioritized remediation roadmap",
-    "Follow-up email (7 days) with Q&A"
+    "Pre-call intake form",
+    "Read-only local readiness evidence collector",
+    "Evidence-led report template",
+    "Prioritized remediation roadmap format",
+    "Buyer walkthrough, support boundary, preview, license, and manifest"
   ],
   "stripe_sku": "private-ai-readiness",
   "price_id": "price_1U1qC1C651G6xmqGYI1JdwCf",
-  "leverages": [
-    "local-ai-lab-audit framework",
-    "sovereign-ai-audit content",
-    "private-ai-assurance-retainer templates"
-  ],
-  "delivery": "Calendly link instant; report within 48h of call",
-  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/private-ai-readiness.tar.gz"
+  "delivery": "Technical checkout catalog and local signed webhook-to-download proof passed. Public-edge download verification remains a separate external-buyer gate.",
+  "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/private-ai-readiness-v0.2.1.tar.gz",
+  "updated_at": "2026-09-04T20:00:00+00:00"
 }
