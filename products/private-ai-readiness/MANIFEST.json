@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "product": "Private AI Readiness Audit",
+  "slug": "private-ai-readiness",
+  "version": "0.2.1",
+  "commercial_status": "draft",
+  "package_files": [
+    "README.md",
+    "WALKTHROUGH.md",
+    "PREVIEW.md",
+    "SUPPORT.md",
+    "LICENSE.md",
+    "CHANGELOG.md",
+    "DELIVERABLE-SNAPSHOT.txt",
+    "intake_form.md",
+    "report_template.md",
+    "scripts/collect_readiness_evidence.py"
+  ],
+  "verification": [
+    "python3 -m py_compile scripts/collect_readiness_evidence.py",
+    "python3 scripts/collect_readiness_evidence.py --out /tmp/private-ai-readiness-evidence.json",
+    "tar -tzf private-ai-readiness-v0.2.0.tar.gz"
+  ],
+  "privacy_boundary": "The collector does not intentionally read credentials, configuration files, customer data, prompts, model weights, or upload data. Review output before sharing.",
+  "release_note": "Draft inventory only. A package is not a public listing, fulfilled service, compliance certification, or verified sale."
+}

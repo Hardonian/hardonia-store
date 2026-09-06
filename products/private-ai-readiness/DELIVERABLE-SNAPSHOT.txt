@@ -1,0 +1,10 @@
+Private AI Readiness Audit Toolkit v0.2.0
+
+Included:
+- buyer intake form
+- evidence-led report template
+- read-only local readiness collector
+- delivery walkthrough, preview, support, license, changelog, and manifest
+
+Not included:
+- credentials, configuration dumps, model files, client data, a production deployment, or compliance certification.
