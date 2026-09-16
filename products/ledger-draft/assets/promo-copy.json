@@ -1,0 +1,16 @@
+{
+  "headline": "Streamline Your Ledger Drafts",
+  "subheadline": "Effortlessly manage your ledger drafts with our AI-powered solution.",
+  "three_benefits": [
+    "Get answers in minutes for Founders",
+    "Keep evidence on file for Enterprise teams",
+    "Maintain reproducible history for Solo-devs"
+  ],
+  "alt_text": "LedgerDraft: Simplifying Ledger Draft Management",
+  "social_caption": "Take control of your ledger drafts with LedgerDraft",
+  "image_prompt": "A screenshot of the LedgerDraft interface, showcasing its intuitive design and features.",
+  "generated_at": "2026-09-09T17:00:51.720512+00:00",
+  "model": "llama3.1:8b",
+  "lane": "p40",
+  "source": "local-ollama"
+}

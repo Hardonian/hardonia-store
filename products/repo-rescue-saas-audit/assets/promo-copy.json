@@ -1,0 +1,16 @@
+{
+  "headline": "SaaS Repo Rescue Audit",
+  "subheadline": "Ensure your SaaS repository is ready for shipping and reviews.",
+  "three_benefits": [
+    "Buyer-path tests to validate your product's market fit.",
+    "Risk-ranked findings to prioritize improvements.",
+    "Remediation plan to keep your codebase healthy."
+  ],
+  "alt_text": "A diagram showing the process of conducting a SaaS repo rescue audit, including buyer-path testing, risk-ranking findings, and creating a remediation plan.",
+  "social_caption": "SaaS Repo Rescue Audit: Buyer-path tests, risk-ranked findings, and a remediation plan to ensure your codebase is ready for shipping and reviews. #SaaS #CodeHealth",
+  "image_prompt": "Visualize the process of conducting a SaaS repo rescue audit, highlighting buyer-path testing, risk-ranking findings, and creating a comprehensive remediation plan.",
+  "generated_at": "2026-09-09T17:01:17.743780+00:00",
+  "model": "hermes3:latest",
+  "lane": "v100",
+  "source": "local-ollama"
+}

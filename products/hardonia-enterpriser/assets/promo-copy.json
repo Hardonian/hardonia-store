@@ -1,0 +1,16 @@
+{
+  "headline": "Private-AI for Enterprise",
+  "subheadline": "Sovereign and secure, without the enterprise price tag",
+  "three_benefits": [
+    "Tenant-isolated for maximum security",
+    "Audit-trailed for transparency",
+    "Enterprise-grade without the vendor lock-in"
+  ],
+  "alt_text": "Private-AI platform for Enterprise",
+  "social_caption": "Take control of your AI with Hardonia Enterpriser",
+  "image_prompt": "Secure, sovereign, and scalable private-AI",
+  "generated_at": "2026-09-09T17:00:40.467483+00:00",
+  "model": "llama3.1:8b",
+  "lane": "p40",
+  "source": "local-ollama"
+}

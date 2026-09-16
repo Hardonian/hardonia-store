@@ -1,0 +1,23 @@
+{
+  "slug": "ledger-draft",
+  "generated_at": "2026-09-15T23:35:41.046191+00:00",
+  "source": "/home/scott/ai-lab/comfyui-covers/output/ledger-draft_00001_.png",
+  "source_sha256": "3402ac7090c166fb87b22b77c56b596a9c6d3f4f35440891bf6b1dbf0df72dfc",
+  "assets": {
+    "cover": {
+      "path": "/home/scott/hardonia.store/products/ledger-draft/assets/cover.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "1ad390cee0153698f2c5a825d004bb671a6015bc9cbe55d07503c56d0c25eabc"
+    },
+    "demo_square": {
+      "path": "/home/scott/hardonia.store/products/ledger-draft/assets/demo-square.png",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "0667862b8225d4f2ca798302d603151e413c78eaebdf35d77a32f3ebde2d0894"
+    }
+  },
+  "copy_lane": "p40",
+  "copy_path": "/home/scott/hardonia.store/products/ledger-draft/assets/promo-copy.json",
+  "provenance": "Locally rendered ComfyUI image; locally generated Ollama copy; human review required before public campaign use."
+}

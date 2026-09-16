@@ -1,0 +1,23 @@
+{
+  "slug": "sentinel-note",
+  "generated_at": "2026-09-15T23:36:01.935976+00:00",
+  "source": "/home/scott/ai-lab/comfyui-covers/output/sentinel-note_00001_.png",
+  "source_sha256": "56f7e63480b346ee9cd53c992a196947ec32d075d1fe671c7b900daa1cf57aca",
+  "assets": {
+    "cover": {
+      "path": "/home/scott/hardonia.store/products/sentinel-note/assets/cover.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "71fc6e16b8cd4b07a5f3e92f4a164ae1062748642297809bb25a74e9862ecfd5"
+    },
+    "demo_square": {
+      "path": "/home/scott/hardonia.store/products/sentinel-note/assets/demo-square.png",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "d17f8e90fdbf4728672083038237a7ac56b396f37e53e23b9b93ee675273875b"
+    }
+  },
+  "copy_lane": "p40",
+  "copy_path": "/home/scott/hardonia.store/products/sentinel-note/assets/promo-copy.json",
+  "provenance": "Locally rendered ComfyUI image; locally generated Ollama copy; human review required before public campaign use."
+}

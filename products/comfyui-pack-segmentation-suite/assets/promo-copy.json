@@ -1,0 +1,16 @@
+{
+  "headline": "ComfyUI Pack: segmentation-suite - Advanced Image and Video Segmentation",
+  "subheadline": "Unlock the power of SAM3 and BiRefNet for your projects",
+  "three_benefits": [
+    "Precise image segmentation with SAM3",
+    "Easy background removal using BiRefNet",
+    "Versatile video segmentation capabilities"
+  ],
+  "alt_text": "Image showing a variety of visually appealing product images showcasing the ComfyUI Pack's segmentation capabilities.",
+  "social_caption": "Transform your projects with the ComfyUI Pack: segmentation-suite - Advanced image and video segmentation using SAM3 and BiRefNet.",
+  "image_prompt": "Showcase the powerful segmentation features of the ComfyUI Pack, highlighting the versatility and precision of SAM3 and BiRefNet.",
+  "generated_at": "2026-09-09T17:00:17.272026+00:00",
+  "model": "hermes3:latest",
+  "lane": "v100",
+  "source": "local-ollama"
+}

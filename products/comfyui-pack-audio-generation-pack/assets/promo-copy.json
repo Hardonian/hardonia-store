@@ -1,0 +1,16 @@
+{
+  "headline": "Unleash Your Creativity with ComfyUI Pack",
+  "subheadline": "Experience the power of audio and text generation with Stable Audio and ACE-Step.",
+  "three_benefits": [
+    "Elevate your audio content creation",
+    "Streamline text-to-audio conversion",
+    "Enhance your video and image captioning"
+  ],
+  "alt_text": "ComfyUI Pack: audio-generation-pack",
+  "social_caption": "Discover the ultimate toolkit for audio, text, and visual content creation.",
+  "image_prompt": "Showcase the versatility of ComfyUI Pack in generating high-quality audio, captions, and descriptions.",
+  "generated_at": "2026-09-09T16:59:45.774200+00:00",
+  "model": "hermes3:latest",
+  "lane": "v100",
+  "source": "local-ollama"
+}

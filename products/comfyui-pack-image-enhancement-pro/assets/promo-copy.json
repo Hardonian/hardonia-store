@@ -1,0 +1,16 @@
+{
+  "headline": "Enhance Your Images with ComfyUI Pack",
+  "subheadline": "A comprehensive toolkit for image enhancement",
+  "three_benefits": [
+    "Upscale images to incredible detail",
+    "Add professional effects and film grain",
+    "Sharpen your photos with precision"
+  ],
+  "alt_text": "ComfyUI Pack: a collection of image-enhancement tools",
+  "social_caption": "Take your images to the next level with ComfyUI Pack",
+  "image_prompt": "A photo of a beautiful landscape, enhanced with ComfyUI Pack's features",
+  "generated_at": "2026-09-09T17:00:11.771001+00:00",
+  "model": "llama3.1:8b",
+  "lane": "p40",
+  "source": "local-ollama"
+}

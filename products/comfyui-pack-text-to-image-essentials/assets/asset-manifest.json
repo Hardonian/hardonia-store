@@ -1,0 +1,23 @@
+{
+  "slug": "comfyui-pack-text-to-image-essentials",
+  "generated_at": "2026-09-15T23:35:26.590251+00:00",
+  "source": "/home/scott/ai-lab/comfyui-covers/output/comfyui-pack-text-to-image-essentials_00001_.png",
+  "source_sha256": "6232d1acae84de1b1a80cadd2dacad3a58bca826ba327f88b33ab98ae6c38489",
+  "assets": {
+    "cover": {
+      "path": "/home/scott/hardonia.store/products/comfyui-pack-text-to-image-essentials/assets/cover.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "ba1a83b4eb89907dbfa2057d55452e604e290a9a06c168f0c33a7cf2ffefcd33"
+    },
+    "demo_square": {
+      "path": "/home/scott/hardonia.store/products/comfyui-pack-text-to-image-essentials/assets/demo-square.png",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "7a6663493b4f0501df39c8c335655b2b5c97baabc4e5b1ea68ffd1521153592c"
+    }
+  },
+  "copy_lane": "p40",
+  "copy_path": "/home/scott/hardonia.store/products/comfyui-pack-text-to-image-essentials/assets/promo-copy.json",
+  "provenance": "Locally rendered ComfyUI image; locally generated Ollama copy; human review required before public campaign use."
+}

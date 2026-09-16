@@ -1,12 +1,12 @@
 {
   "slug": "comfyui-pack-text-to-image-essentials",
-  "name": "ComfyUI Pack: Text To Image Essentials",
+  "name": "ComfyUI Pack: text-to-image-essentials",
   "description": "Core text-to-image generation with Flux, Qwen, Z-Image, and Anima models",
-  "price": 4900,
+  "price": 1900,
+  "price_display": "$19 one-time",
   "currency": "usd",
   "status": "ready",
   "category": "comfyui-pack",
-  "deliverable_path": "/home/scott/hardonia.store/products/comfyui-pack-text-to-image-essentials/comfyui-pack-text-to-image-essentials.tar.gz",
   "workflows": [
     "Text to Image (Flux.1 Dev).json",
     "Text to Image (Qwen-Image).json",
@@ -14,10 +14,13 @@
     "Text to Image (Anima).json",
     "Prompt Enhance.json"
   ],
-  "checkout_url": "https://checkout.stripe.com/c/pay/cs_live_a1IrVfBNxDnsLeIWbpwkQeeyOvRJYUtJx4KXxeLdgfUyhcNmTJo2gRRInP#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdicGRmZGhqaWBTZHdsZGtxJz8nZmprcXdqaScpJ2R1bE5gfCc%2FJ3VuWmlsc2BaMDRWQlB2TEYzMDRCM31odEJSdXB9aUlqS1djRmdtT11SY3xTXHJ2MVRyM2B8QExddEhrS0NKZE1VUDZwRHdkNU1kTlNDQGhIaX9GamFtNE1CSWRqdGlpcUI1NWRQa3ZfZ2ZSJyknY3dqaFZgd3Ngdyc%2FcXdwYCknZ2RmbmJ3anBrYUZqaWp3Jz8nJmNjY2NjYycpJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl",
-  "gumroad_url": "",
-  "image_path": "",
-  "created_at": "2026-08-23T19:03:11.336994+00:00",
-  "stripe_product_id": "prod_V7wZRDbA1jTqJm",
-  "stripe_price_id": "price_1U7gg8C651G6xmqGKygh0TUT"
+  "stripe_product_id": "prod_VEHHkUWncEwHqI",
+  "stripe_price_id": "price_1UDoivC651G6xmqGooQgagHX",
+  "checkout_url": "https://buy.stripe.com/fZu14m8jC8q05cK6atb3r0j",
+  "deliverable_path": "/home/scott/hardonia.store/products/comfyui-pack-text-to-image-essentials/comfyui-pack-text-to-image-essentials-20260825-234007.tar.gz",
+  "manifest_sha": "6fa1932de14895eb4cf7ebdb330b841e7dd1ec26bfdcce0068afcb26e3ceb26a",
+  "workflow_count": 5,
+  "created_at": "2026-09-09T16:51:41.369278+00:00",
+  "image_path": "/home/scott/hardonia.store/products/comfyui-pack-text-to-image-essentials/assets/cover.png",
+  "updated_at": "2026-09-09T17:00:25.043363+00:00"
 }

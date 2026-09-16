@@ -1,0 +1,20 @@
+{
+  "slug": "pack-comfyui-20260913",
+  "name": "ComfyUI Workflow Prompt Pack",
+  "status": "draft",
+  "audience": "solo AI founders and operators",
+  "pain": "generic, unbranded outputs; no style identity separation between fleets or clients",
+  "offer": "ComfyUI Workflow Prompt Pack: a drop-in prompts.md that themes the workflow from one file.",
+  "price": "$9 one-time",
+  "headline": "Violet Sovereign command surface for operators running sovereign AI fleets at 2am.",
+  "checkout_url": "https://buy.stripe.com/TODO_PASTE_REAL_STRIPE_PAYMENT_LINK",
+  "gumroad_url": "https://buy.stripe.com/TODO_PASTE_REAL_STRIPE_PAYMENT_LINK",
+  "image_path": "/home/scott/hardonia.store/products/pack-comfyui-20260913/assets/cover.png",
+  "deliverable_path": "/home/scott/hardonia.store/products/pack-comfyui-20260913/prompts.md",
+  "category": "digital-asset",
+  "updated_at": "2026-09-13T23:43:36.707496+00:00",
+  "readiness_score": 40,
+  "source": "/home/scott/hardonia.store/products/pack-comfyui-20260913/product.json",
+  "launch_gate": "draft: operator review of tagline + palette before promotion",
+  "sku": "pack-comfyui-20260913"
+}

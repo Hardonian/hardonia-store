@@ -1,0 +1,23 @@
+{
+  "slug": "comfyui-pack-ai-portrait-studio",
+  "generated_at": "2026-09-15T23:35:04.242444+00:00",
+  "source": "/home/scott/ai-lab/comfyui-covers/output/comfyui-pack-ai-portrait-studio_00001_.png",
+  "source_sha256": "5c20f560618be8ad0376c23062868ba0f849df42cd96447a14927e0bbb39cd66",
+  "assets": {
+    "cover": {
+      "path": "/home/scott/hardonia.store/products/comfyui-pack-ai-portrait-studio/assets/cover.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "dfda528ebb1c5ce2523e6a12daa9f5be61f96a5f83957988fed42652e4d190e8"
+    },
+    "demo_square": {
+      "path": "/home/scott/hardonia.store/products/comfyui-pack-ai-portrait-studio/assets/demo-square.png",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "7bb95de434b49cf3e752eb68b111642374a30aa8533d2a4bf08709b9a6ffb80d"
+    }
+  },
+  "copy_lane": "p40",
+  "copy_path": "/home/scott/hardonia.store/products/comfyui-pack-ai-portrait-studio/assets/promo-copy.json",
+  "provenance": "Locally rendered ComfyUI image; locally generated Ollama copy; human review required before public campaign use."
+}

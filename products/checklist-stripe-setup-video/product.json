@@ -1,14 +1,14 @@
 {
   "slug": "checklist-stripe-setup-video",
   "name": "Stripe Sovereign Setup Checklist + Video Walkthrough",
-  "tagline": "The checklist + 30-min Loom of live config: webhooks, catalog, metadata, test→live. No guesswork.",
+  "tagline": "The checklist + 30-min Loom of live config: webhooks, catalog, metadata, test\u2192live. No guesswork.",
   "price": 29,
   "currency": "usd",
   "interval": "one-time",
   "checkout_url": "https://buy.stripe.com/3cI7sK43m21CcFceGZb3q2v",
   "gumroad_url": "https://buy.stripe.com/3cI7sK43m21CcFceGZb3q2v",
   "category": "digital-asset",
-  "status": "draft",
+  "status": "ready",
   "readiness_score": 100,
   "launch_gate": {
     "build_evidence": true,
@@ -22,16 +22,16 @@
     "catalog_example.py"
   ],
   "deliverables": [
-    "checklist.md — 40-step sovereign Stripe setup",
-    "30-min Loom video — live walkthrough of:",
+    "checklist.md \u2014 40-step sovereign Stripe setup",
+    "30-min Loom video \u2014 live walkthrough of:",
     "  - Stripe Dashboard: Products, Prices, Payment Links",
     "  - Webhook endpoint config + signing secret",
     "  - catalog.py wiring (price_id + payment_link)",
     "  - Metadata: sku, product_slug, package",
-    "  - Test mode → Live mode checklist",
+    "  - Test mode \u2192 Live mode checklist",
     "  - Webhook verification (stripe CLI + live events)",
-    "env_template.txt — copy-paste .env",
-    "catalog_example.py — reference implementation"
+    "env_template.txt \u2014 copy-paste .env",
+    "catalog_example.py \u2014 reference implementation"
   ],
   "stripe_sku": "checklist-stripe-setup-video",
   "price_id": "price_1U1qC1C651G6xmqGHdytYV6N",

@@ -1,0 +1,16 @@
+{
+  "headline": "Streamline Your HR Processes with HRDraft",
+  "subheadline": "The ultimate local-first document draft pack for HR and operations teams.",
+  "three_benefits": [
+    "Stay compliant without breaking the bank",
+    "Ensure your documents are always review-ready",
+    "Never let important information go stale"
+  ],
+  "alt_text": "A clean, modern interface with various icons representing HR-related tasks and documents.",
+  "social_caption": "HRDraft: Your one-stop solution for efficient HR document drafting. Try it now!",
+  "image_prompt": "Showcase the user-friendly interface of HRDraft, highlighting its key features and benefits.",
+  "generated_at": "2026-09-09T17:00:44.682994+00:00",
+  "model": "hermes3:latest",
+  "lane": "v100",
+  "source": "local-ollama"
+}

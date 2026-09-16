@@ -1,0 +1,16 @@
+{
+  "headline": "Elevate Your Visual Content with ComfyUI Pack",
+  "subheadline": "Transform images and text into stunning videos using cutting-edge AI models.",
+  "three_benefits": [
+    "Effortless video creation from images or text",
+    "High-quality video enhancement for professional results",
+    "Versatile workflows to suit your creative needs"
+  ],
+  "alt_text": "ComfyUI Pack logo showcasing the power of AI in generating and enhancing videos.",
+  "social_caption": "Unleash your creativity with ComfyUI Pack - the ultimate tool for turning images and text into captivating videos.",
+  "image_prompt": "Showcase the capabilities of ComfyUI Pack by creating engaging video content from a provided image or text prompt.",
+  "generated_at": "2026-09-09T17:00:30.794971+00:00",
+  "model": "hermes3:latest",
+  "lane": "v100",
+  "source": "local-ollama"
+}

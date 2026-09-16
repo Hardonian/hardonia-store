@@ -1,0 +1,16 @@
+{
+  "headline": "Unlock AI Portrait Workflow with ComfyUI Pack",
+  "subheadline": "Streamline your creative process with our comprehensive pack of AI portrait tools.",
+  "three_benefits": [
+    "Effortless face detection and pose mapping",
+    "Accurate depth estimation for stunning portraits",
+    "Enhance your workflow with cutting-edge technology"
+  ],
+  "alt_text": "ComfyUI Pack: ai-portrait-studio - A collection of AI portrait tools for effortless creative work.",
+  "social_caption": "Take your portrait game to the next level with ComfyUI Pack! #AIportraits #CreativeTools",
+  "image_prompt": "A beautifully rendered AI-generated portrait, showcasing the capabilities of ComfyUI Pack.",
+  "generated_at": "2026-09-09T16:59:41.258760+00:00",
+  "model": "llama3.1:8b",
+  "lane": "p40",
+  "source": "local-ollama"
+}

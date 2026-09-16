@@ -1,7 +1,7 @@
 {
   "slug": "comfyui-xxx-flux-fantasy",
-  "name": "FLUX Fantasy — Uncensored ComfyUI Workflow Pack",
-  "status": "draft",
+  "name": "FLUX Fantasy \u2014 Uncensored ComfyUI Workflow Pack",
+  "status": "ready",
   "audience": "Adult creators, fantasy artists (18+)",
   "pain": "Adults hit walls on anatomy, texture and light; censored checkpoints block mature fantasy rendering entirely.",
   "offer": "Validated FLUX.1-dev fp8 workflows (UI + API) plus a headless generator for fictional, consensual, adult-only fantasy rendering on your own GPU.",
@@ -28,7 +28,7 @@
     },
     {
       "q": "Do I need ComfyUI?",
-      "a": "Yes — the workflows run on your own ComfyUI; models are not included (FLUX.1-dev weights are free from Black Forest Labs)."
+      "a": "Yes \u2014 the workflows run on your own ComfyUI; models are not included (FLUX.1-dev weights are free from Black Forest Labs)."
     },
     {
       "q": "What hardware?",

@@ -1,0 +1,23 @@
+{
+  "slug": "comfyui-pack-depth-and-3d",
+  "generated_at": "2026-09-15T23:35:11.753325+00:00",
+  "source": "/home/scott/ai-lab/comfyui-covers/output/comfyui-pack-depth-and-3d_00001_.png",
+  "source_sha256": "26478858aa34314d71d8e57a72812eec56e828e0d4d165307f2152e35b45cdec",
+  "assets": {
+    "cover": {
+      "path": "/home/scott/hardonia.store/products/comfyui-pack-depth-and-3d/assets/cover.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "94184c70959416b18f7a361e599dbcb95bd9ecc4566bbea130b20a50532cb825"
+    },
+    "demo_square": {
+      "path": "/home/scott/hardonia.store/products/comfyui-pack-depth-and-3d/assets/demo-square.png",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "82a7bb07f0a70ae6e415a6707a658b1dd6896a67b42856881352ffe3ad51cf0a"
+    }
+  },
+  "copy_lane": "p40",
+  "copy_path": "/home/scott/hardonia.store/products/comfyui-pack-depth-and-3d/assets/promo-copy.json",
+  "provenance": "Locally rendered ComfyUI image; locally generated Ollama copy; human review required before public campaign use."
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "skin-neon-sovereign-20260913",
+  "name": "Neon Sovereign",
+  "status": "draft",
+  "audience": "sovereign AI operators running Hermes / local agent fleets",
+  "pain": "generic, unbranded outputs; no style identity separation between fleets or clients",
+  "offer": "Neon Sovereign: a drop-in skin.yaml that themes the workflow from one file.",
+  "price": "$19 one-time",
+  "headline": "Midnight Ops command surface for operators running sovereign AI fleets at 2am.",
+  "checkout_url": "https://buy.stripe.com/TODO_PASTE_REAL_STRIPE_PAYMENT_LINK",
+  "gumroad_url": "https://buy.stripe.com/TODO_PASTE_REAL_STRIPE_PAYMENT_LINK",
+  "image_path": "/home/scott/hardonia.store/products/skin-neon-sovereign-20260913/assets/cover.png",
+  "deliverable_path": "/home/scott/hardonia.store/products/skin-neon-sovereign-20260913/skin.yaml",
+  "category": "agent-skin",
+  "updated_at": "2026-09-13T23:43:36.706461+00:00",
+  "readiness_score": 40,
+  "source": "/home/scott/hardonia.store/products/skin-neon-sovereign-20260913/product.json",
+  "launch_gate": "draft: operator review of tagline + palette before promotion",
+  "sku": "skin-neon-sovereign-20260913"
+}

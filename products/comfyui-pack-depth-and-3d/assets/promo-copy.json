@@ -1,0 +1,16 @@
+{
+  "headline": "ComfyUI Pack: depth-and-3d",
+  "subheadline": "Unlock advanced depth estimation and 3D generation capabilities with MoGe, Lotus, Hunyuan3D.",
+  "three_benefits": [
+    "Estimate depth with precision using MoGe and Lotus Depth.",
+    "Generate high-quality 3D models with Hunyuan3D 2.1.",
+    "Convert images to layers with Qwen-Image-Layered."
+  ],
+  "alt_text": "ComfyUI Pack: depth-and-3d",
+  "social_caption": "Take your 3D generation and depth estimation skills to the next level with ComfyUI Pack!",
+  "image_prompt": "A 3D model generated using Hunyuan3D 2.1, with a depth map created by MoGe.",
+  "generated_at": "2026-09-09T16:59:56.557844+00:00",
+  "model": "llama3.1:8b",
+  "lane": "p40",
+  "source": "local-ollama"
+}

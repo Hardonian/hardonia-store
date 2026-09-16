@@ -1,22 +1,25 @@
 {
   "slug": "comfyui-pack-segmentation-suite",
-  "name": "ComfyUI Pack: Segmentation Suite",
+  "name": "ComfyUI Pack: segmentation-suite",
   "description": "Advanced segmentation with SAM3 and BiRefNet for image and video",
-  "price": 4900,
+  "price": 1900,
+  "price_display": "$19 one-time",
   "currency": "usd",
   "status": "ready",
   "category": "comfyui-pack",
-  "deliverable_path": "/home/scott/hardonia.store/products/comfyui-pack-segmentation-suite/comfyui-pack-segmentation-suite.tar.gz",
   "workflows": [
     "Image Segmentation (SAM3).json",
     "Remove Background (BiRefNet).json",
     "Video Segmentation (SAM3).json",
     "Canny to Image (Z-Image-Turbo).json"
   ],
-  "checkout_url": "https://checkout.stripe.com/g/pay/cs_live_a1l4zB6iHPyVrqyut4ymriiK7tHih88TLGb48twTroD78eo76T1kPtEuwq#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdicGRmZGhqaWBTZHdsZGtxJz8ncXdgZHFoYGtxWjcnKSdicGRmZGhqaWBMa2xxVXdgY2BxZm1TZHdsZGtxJz8nZmprcXdqaScpJ2JwZGZkaGppYElqZGFsa2JWZndgYGtTZHdsZGtxJz8nZmprcXdqaScpJ2R1bE5gfCc%2FJ3VuWmlsc2BaMDRWQlB2TEYzMDRCM31odEJSdXB9aUlqS1djRmdtT11SY3xTXHJ2MVRyM2B8QExddEhrS0NKZE1VUDZwRHdkNU1kTlNDQGhIaX9GamFtNE1CSWRqdGlpcUI1NWRQa3ZfZ2ZSJyknY3dqaFZgd3Ngdyc%2FcXdwYCknZ2RmbmJ3anBrYUZqaWp3Jz8nJmNjY2NjYycpJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl",
-  "gumroad_url": "",
-  "image_path": "",
-  "created_at": "2026-08-23T19:03:11.336994+00:00",
-  "stripe_product_id": "prod_V7wZObe8ce0rV1",
-  "stripe_price_id": "price_1U7gg7C651G6xmqGjDAKe7DW"
+  "stripe_product_id": "prod_VEHHLuTei99wxj",
+  "stripe_price_id": "price_1UDoipC651G6xmqGenjXL04y",
+  "checkout_url": "https://buy.stripe.com/14A7sK2ZifSs0Wu2Yhb3r0e",
+  "deliverable_path": "/home/scott/hardonia.store/products/comfyui-pack-segmentation-suite/comfyui-pack-segmentation-suite-20260828-132225.tar.gz",
+  "manifest_sha": "13bdd0cec5321dfd4b62538d500cc63376e7114c0ceecff98eab324756876f15",
+  "workflow_count": 4,
+  "created_at": "2026-09-09T16:51:41.369278+00:00",
+  "image_path": "/home/scott/hardonia.store/products/comfyui-pack-segmentation-suite/assets/cover.png",
+  "updated_at": "2026-09-09T17:00:17.272387+00:00"
 }

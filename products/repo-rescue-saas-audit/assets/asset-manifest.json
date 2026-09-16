@@ -1,0 +1,23 @@
+{
+  "slug": "repo-rescue-saas-audit",
+  "generated_at": "2026-09-15T23:35:58.614128+00:00",
+  "source": "/home/scott/ai-lab/comfyui-covers/output/repo-rescue-saas-audit_00001_.png",
+  "source_sha256": "3d1d679513b2875878ea4b3fd3c272a894ca411e0d1cfde46633d02523eb2169",
+  "assets": {
+    "cover": {
+      "path": "/home/scott/hardonia.store/products/repo-rescue-saas-audit/assets/cover.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "e7556f0931ae95f06fc16898ab81c3ec4501d0893b898ca449bce2757fdc148e"
+    },
+    "demo_square": {
+      "path": "/home/scott/hardonia.store/products/repo-rescue-saas-audit/assets/demo-square.png",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "c2c2ef38f142a950a3cdb6f1220cae20305e3cbd02d7e5c66198315ecdb9dcef"
+    }
+  },
+  "copy_lane": "v100",
+  "copy_path": "/home/scott/hardonia.store/products/repo-rescue-saas-audit/assets/promo-copy.json",
+  "provenance": "Locally rendered ComfyUI image; locally generated Ollama copy; human review required before public campaign use."
+}

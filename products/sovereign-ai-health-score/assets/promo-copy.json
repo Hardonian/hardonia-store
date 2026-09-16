@@ -1,0 +1,16 @@
+{
+  "headline": "Sovereign AI Health Score",
+  "subheadline": "Recurring trust score from your own telemetry.",
+  "three_benefits": [
+    "Self-verified on landing page",
+    "For sovereign AI operators and private LLM fleet owners",
+    "Ensure the health and reliability of your AI systems"
+  ],
+  "alt_text": "Sovereign AI Health Score logo and key metrics visualized",
+  "social_caption": "Get a recurring trust score for your sovereign AI with Sovereign AI Health Score.",
+  "image_prompt": "A graphic showing a rising trust score line graph and key metrics",
+  "generated_at": "2026-09-09T17:01:30.240009+00:00",
+  "model": "hermes3:latest",
+  "lane": "v100",
+  "source": "local-ollama"
+}

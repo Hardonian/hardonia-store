@@ -1,0 +1,16 @@
+{
+  "headline": "ComfyUI Pack: Your Ultimate Image Editing Studio",
+  "subheadline": "Unleash your creativity with our professional image editing suite.",
+  "three_benefits": [
+    "Inpainting, outpainting, and color correction tools at your fingertips",
+    "Powerful yet user-friendly interface for seamless editing experience",
+    "Wide range of workflows to cater to your specific image editing needs"
+  ],
+  "alt_text": "ComfyUI Pack: Image Editing Studio - A collection of professional image editing tools including inpainting, outpainting, and color correction.",
+  "social_caption": "Elevate your image editing game with ComfyUI Pack. Professional tools for inpainting, outpainting, and color correction.",
+  "image_prompt": "Showcase the power of ComfyUI Pack, a comprehensive image editing studio with advanced features like inpainting, outpainting, and color correction.",
+  "generated_at": "2026-09-09T17:00:02.088243+00:00",
+  "model": "hermes3:latest",
+  "lane": "v100",
+  "source": "local-ollama"
+}

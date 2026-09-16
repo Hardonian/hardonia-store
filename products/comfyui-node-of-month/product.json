@@ -8,7 +8,7 @@
   "checkout_url": "https://buy.stripe.com/cNi5kC1Ve49KfRoaqJb3q2x",
   "gumroad_url": "https://buy.stripe.com/cNi5kC1Ve49KfRoaqJb3q2x",
   "category": "comfyui-node",
-  "status": "draft",
+  "status": "ready",
   "readiness_score": 85,
   "launch_gate": {
     "build_evidence": true,
@@ -24,20 +24,20 @@
   ],
   "deliverables": [
     "Custom ComfyUI node (Python backend + JS frontend)",
-    "README.md — usage, inputs, outputs, examples",
+    "README.md \u2014 usage, inputs, outputs, examples",
     "Example workflow.json demonstrating the node",
-    "install.sh — copies to ComfyUI/custom_nodes/, installs deps",
-    "Source code (MIT licensed — modify freely)"
+    "install.sh \u2014 copies to ComfyUI/custom_nodes/, installs deps",
+    "Source code (MIT licensed \u2014 modify freely)"
   ],
   "stripe_sku": "comfyui-node-of-month",
   "price_id": "price_1U1qC1C651G6xmqGJje9qrCi",
   "factory_backed": true,
   "factory_name": "comfyui-node-factory (to be built)",
   "planned_nodes": [
-    "Prompt Scheduler — time/condition-based prompt switching",
-    "Model Hot-Swap — seamless checkpoint switching mid-workflow",
-    "VRAM Guard — auto offloads when memory exceeds threshold",
-    "Batch Namer — structured output filenames from metadata"
+    "Prompt Scheduler \u2014 time/condition-based prompt switching",
+    "Model Hot-Swap \u2014 seamless checkpoint switching mid-workflow",
+    "VRAM Guard \u2014 auto offloads when memory exceeds threshold",
+    "Batch Namer \u2014 structured output filenames from metadata"
   ],
   "delivery": "monthly via shared repo / email",
   "deliverable_path": "/home/scott/ai-lab/revenue-os/deliverables/comfyui-node-of-month.tar.gz"

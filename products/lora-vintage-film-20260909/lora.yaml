@@ -1,0 +1,20 @@
+name: "Vintage Film LoRA"
+sku: lora-vintage-film-20260909
+type: comfyui-lora
+base_model: "SDXL 1.0"
+trigger_word: "vintagestock"
+recommended_strength: 0.64
+description: >
+  Warm analog film grain. Sovereign-trained LoRA; drop into
+  ComfyUI /models/loras and reference by filename.
+files:
+  - lora: lora-vintage-film-20260909.safetensors
+  - preview: preview.png
+  - readme: README.md
+install:
+  - "mkdir -p ~/ComfyUI/models/loras"
+  - "cp lora-vintage-film-20260909/lora-vintage-film-20260909.safetensors ~/ComfyUI/models/loras/"
+compat:
+  - "ComfyUI"
+  - "SDXL"
+  - "Automatic1111 (lora load)"

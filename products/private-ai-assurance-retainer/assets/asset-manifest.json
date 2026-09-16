@@ -1,0 +1,23 @@
+{
+  "slug": "private-ai-assurance-retainer",
+  "generated_at": "2026-09-15T23:35:52.957309+00:00",
+  "source": "/home/scott/ai-lab/comfyui-covers/output/private-ai-assurance-retainer_00001_.png",
+  "source_sha256": "611893705aa026e9822d814b4fbb66cfac7ed932df00d4f7fdaa0b4b24381ea3",
+  "assets": {
+    "cover": {
+      "path": "/home/scott/hardonia.store/products/private-ai-assurance-retainer/assets/cover.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "80748372b14b58f6b5164cdd2622cc6f94296e16d92dbffd501dfe84ece88020"
+    },
+    "demo_square": {
+      "path": "/home/scott/hardonia.store/products/private-ai-assurance-retainer/assets/demo-square.png",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "be0d87c32c572251621098dda258f68ea7d7f1e08d0cf48a6af959ebe2cde12a"
+    }
+  },
+  "copy_lane": "p40",
+  "copy_path": "/home/scott/hardonia.store/products/private-ai-assurance-retainer/assets/promo-copy.json",
+  "provenance": "Locally rendered ComfyUI image; locally generated Ollama copy; human review required before public campaign use."
+}

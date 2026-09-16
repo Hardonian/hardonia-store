@@ -1,0 +1,16 @@
+{
+  "headline": "Provable AI Change Ledger",
+  "subheadline": "Hash-chained receipts for verifiable software evolution.",
+  "three_benefits": [
+    "Prove your code shipped and evolved.",
+    "Stand up to audit at any scale.",
+    "Never lose the thread of solo dev projects."
+  ],
+  "alt_text": "A diagram showing a hash-chain of receipts proving software evolution.",
+  "social_caption": "Provable AI change ledger with hash-chained receipts. Founder: prove it shipped. Enterprise: stand the audit. Solo-dev: never lose the thread.",
+  "image_prompt": "Illustrate a hash-chain of receipts, each linked to the next by a lock icon.",
+  "generated_at": "2026-09-09T16:59:26.474045+00:00",
+  "model": "hermes3:latest",
+  "lane": "v100",
+  "source": "local-ollama"
+}

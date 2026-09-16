@@ -1,0 +1,23 @@
+{
+  "slug": "comfyui-pack-image-enhancement-pro",
+  "generated_at": "2026-09-15T23:35:20.291218+00:00",
+  "source": "/home/scott/ai-lab/comfyui-covers/output/comfyui-pack-image-enhancement-pro_00001_.png",
+  "source_sha256": "2ea878fe0b4765eca9075214d5058895a58591fd4d58ecaa1fef44eee7bc2f8f",
+  "assets": {
+    "cover": {
+      "path": "/home/scott/hardonia.store/products/comfyui-pack-image-enhancement-pro/assets/cover.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "256d77f3912d662f786691899ba82761c42b5436ebfecbb9222caad535a54c58"
+    },
+    "demo_square": {
+      "path": "/home/scott/hardonia.store/products/comfyui-pack-image-enhancement-pro/assets/demo-square.png",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "1b0230432f68159dd6a68587340980d39bbebe716741f2f10dd5d833bf9bd815"
+    }
+  },
+  "copy_lane": "p40",
+  "copy_path": "/home/scott/hardonia.store/products/comfyui-pack-image-enhancement-pro/assets/promo-copy.json",
+  "provenance": "Locally rendered ComfyUI image; locally generated Ollama copy; human review required before public campaign use."
+}

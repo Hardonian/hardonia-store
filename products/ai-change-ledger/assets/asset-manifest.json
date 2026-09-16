@@ -1,0 +1,23 @@
+{
+  "slug": "ai-change-ledger",
+  "generated_at": "2026-09-15T23:34:59.003431+00:00",
+  "source": "/home/scott/ai-lab/comfyui-covers/output/ai-change-ledger_00001_.png",
+  "source_sha256": "3f8eb3b0762676bdec699a7285b002a4862efab8cc33e55bddbdae750b687b16",
+  "assets": {
+    "cover": {
+      "path": "/home/scott/hardonia.store/products/ai-change-ledger/assets/cover.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "acfc84806c4925d4903e8bc9a1d0d42816e201eaafc21cedb256ddbd19974dfe"
+    },
+    "demo_square": {
+      "path": "/home/scott/hardonia.store/products/ai-change-ledger/assets/demo-square.png",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "d0092864dc123151bfe516a2faa4553c180c60066bf90081b04723d495813bae"
+    }
+  },
+  "copy_lane": "v100",
+  "copy_path": "/home/scott/hardonia.store/products/ai-change-ledger/assets/promo-copy.json",
+  "provenance": "Locally rendered ComfyUI image; locally generated Ollama copy; human review required before public campaign use."
+}

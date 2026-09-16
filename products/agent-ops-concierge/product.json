@@ -8,7 +8,7 @@
   "checkout_url": "https://buy.stripe.com/7sYdR88jC6hS34CbuNb3q2t",
   "gumroad_url": "https://buy.stripe.com/7sYdR88jC6hS34CbuNb3q2t",
   "category": "service",
-  "status": "draft",
+  "status": "ready",
   "readiness_score": 85,
   "launch_gate": {
     "build_evidence": true,
@@ -21,11 +21,11 @@
     "delivery_schedule.md"
   ],
   "deliverables": [
-    "Onboarding call (30 min) — configure your preferences",
-    "Shared private repo — we push ready assets weekly",
+    "Onboarding call (30 min) \u2014 configure your preferences",
+    "Shared private repo \u2014 we push ready assets weekly",
     "Weekly delivery: 1 skin + 1 LoRA + 1 workflow + 1 prompt pack",
     "Priority support via Telegram/email",
-    "Factory monitoring — we handle failures, retries, updates"
+    "Factory monitoring \u2014 we handle failures, retries, updates"
   ],
   "stripe_sku": "agent-ops-concierge",
   "price_id": "price_1U1qC0C651G6xmqGH1LDXXfO",

@@ -4,7 +4,7 @@
   "headline": "Keep private AI systems provable, reliable, and ready for the next change.",
   "status": "ready",
   "audience": "Enterprise buyers, founders with customers",
-  "pain": "You need a standing witness that your AI stack is configured, isolated, and provable \u2014 before a customer demands it.",
+  "pain": "You need a standing witness that your AI stack is configured, isolated, and provable — before a customer demands it.",
   "offer": "Private-AI assurance retainer: recurring evidence, not a one-off PDF. Founder: close enterprise deals. Enterprise: continuous proof. Solo-dev: sleep at night.",
   "price": "CAD$299/mo founding / CAD$799/mo team / CAD$1,500/mo managed",
   "checkout_url": "https://buy.stripe.com/bJebJ0dDW21C20ydCVb3q1Y",
@@ -14,8 +14,8 @@
   "source": "/home/scott/hardonia.store/products/private-ai-assurance-retainer",
   "readiness_score": 100,
   "created_at": "2026-07-23T00:50:00Z",
-  "updated_at": "2026-08-03T18:02:48+00:00",
-  "image_path": "",
+  "updated_at": "2026-09-09T17:01:09.748266+00:00",
+  "image_path": "/home/scott/hardonia.store/products/private-ai-assurance-retainer/assets/cover.png",
   "dashboard_url": "",
   "dashboard_features": "Local audit, regression evidence, security findings, remediation queue, monthly report"
 }

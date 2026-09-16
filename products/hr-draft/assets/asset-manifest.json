@@ -1,0 +1,23 @@
+{
+  "slug": "hr-draft",
+  "generated_at": "2026-09-15T23:35:38.342907+00:00",
+  "source": "/home/scott/ai-lab/comfyui-covers/output/hr-draft_00001_.png",
+  "source_sha256": "a376ca5f0b4c45b5d97efd8fecdccf5ffecbe76d3724c6c440bef41a6a094cda",
+  "assets": {
+    "cover": {
+      "path": "/home/scott/hardonia.store/products/hr-draft/assets/cover.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "219f0ae7a023b8d45383e436e8e5d57d6479f3db3f490cf7fe972162b75c54a7"
+    },
+    "demo_square": {
+      "path": "/home/scott/hardonia.store/products/hr-draft/assets/demo-square.png",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "2bfe685f42d5c27635547cb8d3856f2c2ebacfd5489d6391bb9bba0efc451177"
+    }
+  },
+  "copy_lane": "v100",
+  "copy_path": "/home/scott/hardonia.store/products/hr-draft/assets/promo-copy.json",
+  "provenance": "Locally rendered ComfyUI image; locally generated Ollama copy; human review required before public campaign use."
+}

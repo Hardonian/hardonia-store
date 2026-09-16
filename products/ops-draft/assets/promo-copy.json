@@ -1,0 +1,16 @@
+{
+  "headline": "Streamline Your Ops with OpsDraft",
+  "subheadline": "Ditch the chaos and embrace efficiency with our expertly crafted runbook drafts.",
+  "three_benefits": [
+    "Eliminate key-person risk for founders",
+    "Ensure documented procedures for enterprises",
+    "Enable solo-devs to recover without you"
+  ],
+  "alt_text": "A clean, organized desk with a laptop and papers neatly arranged in folders",
+  "social_caption": "Take control of your operations with OpsDraft. Runbook drafts designed for founders, enterprises, and solo-devs.",
+  "image_prompt": "Showcase the peace of mind and increased efficiency that comes with using OpsDraft's runbook drafts",
+  "generated_at": "2026-09-09T17:00:59.362189+00:00",
+  "model": "hermes3:latest",
+  "lane": "v100",
+  "source": "local-ollama"
+}

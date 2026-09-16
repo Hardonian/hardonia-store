@@ -1,0 +1,23 @@
+{
+  "slug": "comfyui-pack-segmentation-suite",
+  "generated_at": "2026-09-15T23:35:23.662201+00:00",
+  "source": "/home/scott/ai-lab/comfyui-covers/output/comfyui-pack-segmentation-suite_00001_.png",
+  "source_sha256": "c4245b52248569fbe6dec6926b2d45a4b1eb45b62e5d206254bb7ca26554087f",
+  "assets": {
+    "cover": {
+      "path": "/home/scott/hardonia.store/products/comfyui-pack-segmentation-suite/assets/cover.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "1dbf3882019d3882e128df0e42185d0077fac286e7e51d58b6370793b225cb3e"
+    },
+    "demo_square": {
+      "path": "/home/scott/hardonia.store/products/comfyui-pack-segmentation-suite/assets/demo-square.png",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "79c1bf7d0c0c9e318f7f960230be597c27db92b3656a7d16b4c31e1fd6c73406"
+    }
+  },
+  "copy_lane": "v100",
+  "copy_path": "/home/scott/hardonia.store/products/comfyui-pack-segmentation-suite/assets/promo-copy.json",
+  "provenance": "Locally rendered ComfyUI image; locally generated Ollama copy; human review required before public campaign use."
+}

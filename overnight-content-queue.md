@@ -424,3 +424,103 @@ Install: curl -fsSL https://aiautomatedsystems.ca/install-lora-cyber-chrome-2026
 Violet Sovereign command surface for operators running sovereign AI fleets at 2am.
 Buy: https://aiautomatedsystems.ca/store?sku=pack-stripe-setup-20260823
 Install: curl -fsSL https://aiautomatedsystems.ca/install-pack-stripe-setup-20260823.sh | bash
+
+## 2026-09-09 16:42 UTC — NEW PACK: Neon Sovereign ($19)
+Midnight Ops command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=skin-neon-sovereign-20260909
+Install: curl -fsSL https://aiautomatedsystems.ca/install-skin-neon-sovereign-20260909.sh | bash
+
+## 2026-09-09 16:42 UTC — NEW PACK: Violet Operator ($19)
+Heritage Quiet command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=skin-violet-operator-20260909
+Install: curl -fsSL https://aiautomatedsystems.ca/install-skin-violet-operator-20260909.sh | bash
+
+## 2026-09-09 16:42 UTC — NEW PACK: Vintage Film LoRA ($19)
+Violet Sovereign command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=lora-vintage-film-20260909
+Install: curl -fsSL https://aiautomatedsystems.ca/install-lora-vintage-film-20260909.sh | bash
+
+## 2026-09-09 16:42 UTC — NEW PACK: Model Launch Checklist ($9)
+Violet Sovereign command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=pack-model-launch-20260909
+Install: curl -fsSL https://aiautomatedsystems.ca/install-pack-model-launch-20260909.sh | bash
+
+## 2026-09-10 22:45 UTC — NEW PACK: Neon Sovereign ($19)
+Midnight Ops command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=skin-neon-sovereign-20260910
+Install: curl -fsSL https://aiautomatedsystems.ca/install-skin-neon-sovereign-20260910.sh | bash
+
+## 2026-09-10 22:45 UTC — NEW PACK: Violet Operator ($19)
+Heritage Quiet command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=skin-violet-operator-20260910
+Install: curl -fsSL https://aiautomatedsystems.ca/install-skin-violet-operator-20260910.sh | bash
+
+## 2026-09-10 22:45 UTC — NEW PACK: Ink Wash LoRA ($19)
+Violet Sovereign command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=lora-ink-wash-20260910
+Install: curl -fsSL https://aiautomatedsystems.ca/install-lora-ink-wash-20260910.sh | bash
+
+## 2026-09-10 22:45 UTC — NEW PACK: Sovereign RFP Checklist ($9)
+Violet Sovereign command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=pack-rfp-20260910
+Install: curl -fsSL https://aiautomatedsystems.ca/install-pack-rfp-20260910.sh | bash
+
+## 2026-09-11 17:07 UTC — NEW PACK: Neon Sovereign ($19)
+Midnight Ops command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=skin-neon-sovereign-20260911
+Install: curl -fsSL https://aiautomatedsystems.ca/install-skin-neon-sovereign-20260911.sh | bash
+
+## 2026-09-11 17:07 UTC — NEW PACK: Violet Operator ($19)
+Heritage Quiet command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=skin-violet-operator-20260911
+Install: curl -fsSL https://aiautomatedsystems.ca/install-skin-violet-operator-20260911.sh | bash
+
+## 2026-09-11 17:07 UTC — NEW PACK: Cyber Chrome LoRA ($19)
+Violet Sovereign command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=lora-cyber-chrome-20260911
+Install: curl -fsSL https://aiautomatedsystems.ca/install-lora-cyber-chrome-20260911.sh | bash
+
+## 2026-09-11 17:07 UTC — NEW PACK: Stripe sovereign setup Checklist ($9)
+Violet Sovereign command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=pack-stripe-setup-20260911
+Install: curl -fsSL https://aiautomatedsystems.ca/install-pack-stripe-setup-20260911.sh | bash
+
+## 2026-09-13 23:43 UTC — NEW PACK: Neon Sovereign ($19)
+Midnight Ops command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=skin-neon-sovereign-20260913
+Install: curl -fsSL https://aiautomatedsystems.ca/install-skin-neon-sovereign-20260913.sh | bash
+
+## 2026-09-13 23:43 UTC — NEW PACK: Violet Operator ($19)
+Heritage Quiet command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=skin-violet-operator-20260913
+Install: curl -fsSL https://aiautomatedsystems.ca/install-skin-violet-operator-20260913.sh | bash
+
+## 2026-09-13 23:43 UTC — NEW PACK: Vintage Film LoRA ($19)
+Violet Sovereign command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=lora-vintage-film-20260913
+Install: curl -fsSL https://aiautomatedsystems.ca/install-lora-vintage-film-20260913.sh | bash
+
+## 2026-09-13 23:43 UTC — NEW PACK: ComfyUI Workflow Prompt Pack ($9)
+Violet Sovereign command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=pack-comfyui-20260913
+Install: curl -fsSL https://aiautomatedsystems.ca/install-pack-comfyui-20260913.sh | bash
+
+## 2026-09-15 23:25 UTC — NEW PACK: Neon Sovereign ($19)
+Midnight Ops command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=skin-neon-sovereign-20260915
+Install: curl -fsSL https://aiautomatedsystems.ca/install-skin-neon-sovereign-20260915.sh | bash
+
+## 2026-09-15 23:25 UTC — NEW PACK: Violet Operator ($19)
+Heritage Quiet command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=skin-violet-operator-20260915
+Install: curl -fsSL https://aiautomatedsystems.ca/install-skin-violet-operator-20260915.sh | bash
+
+## 2026-09-15 23:25 UTC — NEW PACK: Cyber Chrome LoRA ($19)
+Violet Sovereign command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=lora-cyber-chrome-20260915
+Install: curl -fsSL https://aiautomatedsystems.ca/install-lora-cyber-chrome-20260915.sh | bash
+
+## 2026-09-15 23:25 UTC — NEW PACK: Model Launch Checklist ($9)
+Violet Sovereign command surface for operators running sovereign AI fleets at 2am.
+Buy: https://aiautomatedsystems.ca/store?sku=pack-model-launch-20260915
+Install: curl -fsSL https://aiautomatedsystems.ca/install-pack-model-launch-20260915.sh | bash

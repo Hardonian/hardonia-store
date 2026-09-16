@@ -1,0 +1,23 @@
+{
+  "slug": "sovereign-ai-health-score",
+  "generated_at": "2026-09-15T23:36:06.046617+00:00",
+  "source": "/home/scott/ai-lab/comfyui-covers/output/sovereign-ai-health-score_00001_.png",
+  "source_sha256": "a01b004c6d397d35439dc1135c515b3967f80172731d11d240fd3cfe356a1e3c",
+  "assets": {
+    "cover": {
+      "path": "/home/scott/hardonia.store/products/sovereign-ai-health-score/assets/cover.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "6aa31da6dd2f6b2de92138a04fce19fbfa327de2c618fcfbf1c5667357c46284"
+    },
+    "demo_square": {
+      "path": "/home/scott/hardonia.store/products/sovereign-ai-health-score/assets/demo-square.png",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "21f8820549620403714e8094423ede2021d6bcbcd3f17ea4da04a8c18a080af6"
+    }
+  },
+  "copy_lane": "v100",
+  "copy_path": "/home/scott/hardonia.store/products/sovereign-ai-health-score/assets/promo-copy.json",
+  "provenance": "Locally rendered ComfyUI image; locally generated Ollama copy; human review required before public campaign use."
+}

@@ -8,7 +8,7 @@
   "checkout_url": "https://buy.stripe.com/cNi5kC57q8q09t0aqJb3q2q",
   "gumroad_url": "https://buy.stripe.com/cNi5kC57q8q09t0aqJb3q2q",
   "category": "comfyui-workflow-subscription",
-  "status": "draft",
+  "status": "ready",
   "readiness_score": 100,
   "launch_gate": {
     "build_evidence": true,

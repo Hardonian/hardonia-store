@@ -1,0 +1,23 @@
+{
+  "slug": "hardonia-enterpriser",
+  "generated_at": "2026-09-15T23:35:36.009126+00:00",
+  "source": "/home/scott/ai-lab/comfyui-covers/output/hardonia-enterpriser_00001_.png",
+  "source_sha256": "1a7e4d90632b7e06f75b1bdb6cb4a363ca9f34142cbc586a0d3b69c4fe840ec7",
+  "assets": {
+    "cover": {
+      "path": "/home/scott/hardonia.store/products/hardonia-enterpriser/assets/cover.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "de1e34f1ec9f71778ba924a3dafb656e228cafbb160dbd98cf71fc99e5cbb314"
+    },
+    "demo_square": {
+      "path": "/home/scott/hardonia.store/products/hardonia-enterpriser/assets/demo-square.png",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "a116a64cb705b550b6b1250c0fecd9e82448f49d98a553705b1e7f58d452058f"
+    }
+  },
+  "copy_lane": "p40",
+  "copy_path": "/home/scott/hardonia.store/products/hardonia-enterpriser/assets/promo-copy.json",
+  "provenance": "Locally rendered ComfyUI image; locally generated Ollama copy; human review required before public campaign use."
+}

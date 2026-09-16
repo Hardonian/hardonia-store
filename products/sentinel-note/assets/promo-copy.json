@@ -1,0 +1,16 @@
+{
+  "headline": "Sentinel Note",
+  "subheadline": "",
+  "three_benefits": [
+    "The control",
+    "Failure mode analysis",
+    "Audit-ready"
+  ],
+  "alt_text": "A security note for Sentinel",
+  "social_caption": "Sentinel Note: Control, Failure Mode, Audit-Ready",
+  "image_prompt": "A photo of a person working on a computer with a serious expression",
+  "generated_at": "2026-09-09T17:01:24.360894+00:00",
+  "model": "llama3.1:8b",
+  "lane": "p40",
+  "source": "local-ollama"
+}

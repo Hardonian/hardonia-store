@@ -1,0 +1,23 @@
+{
+  "slug": "comfyui-pack-video-generation-pack",
+  "generated_at": "2026-09-15T23:35:30.308090+00:00",
+  "source": "/home/scott/ai-lab/comfyui-covers/output/comfyui-pack-video-generation-pack_00001_.png",
+  "source_sha256": "24db08d556311cd029ec3075ec3a352e96dd0c0c7e0558b87660c6228979c750",
+  "assets": {
+    "cover": {
+      "path": "/home/scott/hardonia.store/products/comfyui-pack-video-generation-pack/assets/cover.png",
+      "width": 1200,
+      "height": 630,
+      "sha256": "3761aa9fe8442df82191f9a7009a594ced9f6ae957b04665cee2480767324355"
+    },
+    "demo_square": {
+      "path": "/home/scott/hardonia.store/products/comfyui-pack-video-generation-pack/assets/demo-square.png",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "68cea398b008ef3cd5043a1999cc24309b14f49de123b28ccef16b7ed8c63180"
+    }
+  },
+  "copy_lane": "v100",
+  "copy_path": "/home/scott/hardonia.store/products/comfyui-pack-video-generation-pack/assets/promo-copy.json",
+  "provenance": "Locally rendered ComfyUI image; locally generated Ollama copy; human review required before public campaign use."
+}

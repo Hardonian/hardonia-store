@@ -1,12 +1,12 @@
 {
   "slug": "comfyui-pack-image-enhancement-pro",
-  "name": "ComfyUI Pack: Image Enhancement Pro",
+  "name": "ComfyUI Pack: image-enhancement-pro",
   "description": "Image enhancement toolkit: upscale, sharpen, effects, film grain",
-  "price": 3900,
+  "price": 1900,
+  "price_display": "$19 one-time",
   "currency": "usd",
   "status": "ready",
   "category": "comfyui-pack",
-  "deliverable_path": "/home/scott/hardonia.store/products/comfyui-pack-image-enhancement-pro/comfyui-pack-image-enhancement-pro.tar.gz",
   "workflows": [
     "Image Upscale(Z-image-Turbo).json",
     "Sharpen.json",
@@ -15,10 +15,13 @@
     "Film Grain.json",
     "Edge-Preserving Blur.json"
   ],
-  "checkout_url": "https://checkout.stripe.com/g/pay/cs_live_a1Jguhjc2wYgrF2trqZSEgPbZpE2nnn5JOzqGZP9FtRYClNA7SrXQOSq65#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdicGRmZGhqaWBTZHdsZGtxJz8ncXdgZHFoYGtxWjQnKSdicGRmZGhqaWBMa2xxVXdgY2BxZm1TZHdsZGtxJz8nZmprcXdqaScpJ2JwZGZkaGppYElqZGFsa2JWZndgYGtTZHdsZGtxJz8nZmprcXdqaScpJ2R1bE5gfCc%2FJ3VuWmlsc2BaMDRWQlB2TEYzMDRCM31odEJSdXB9aUlqS1djRmdtT11SY3xTXHJ2MVRyM2B8QExddEhrS0NKZE1VUDZwRHdkNU1kTlNDQGhIaX9GamFtNE1CSWRqdGlpcUI1NWRQa3ZfZ2ZSJyknY3dqaFZgd3Ngdyc%2FcXdwYCknZ2RmbmJ3anBrYUZqaWp3Jz8nJmNjY2NjYycpJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl",
-  "gumroad_url": "",
-  "image_path": "",
-  "created_at": "2026-08-23T19:03:11.336994+00:00",
-  "stripe_product_id": "prod_V7wZ1feeY96e0g",
-  "stripe_price_id": "price_1U7gg7C651G6xmqGZyfYLTdW"
+  "stripe_product_id": "prod_VEHHRsiOxwMolT",
+  "stripe_price_id": "price_1UDoisC651G6xmqGknmGtGb9",
+  "checkout_url": "https://buy.stripe.com/4gMdR857q0Xy7kScyRb3r0h",
+  "deliverable_path": "/home/scott/hardonia.store/products/comfyui-pack-image-enhancement-pro/comfyui-pack-image-enhancement-pro-20260908-184103.tar.gz",
+  "manifest_sha": "2b20bb35a2e7b264bb08b98f5d2936781f6b8c4ef11d1a25419b81ff4744a754",
+  "workflow_count": 6,
+  "created_at": "2026-09-09T16:51:41.369278+00:00",
+  "image_path": "/home/scott/hardonia.store/products/comfyui-pack-image-enhancement-pro/assets/cover.png",
+  "updated_at": "2026-09-09T17:00:11.771371+00:00"
 }
