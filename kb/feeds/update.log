@@ -18421,3 +18421,918 @@
 [2026-08-23T19:03:51Z] financial: bridged from Gumroad
 [2026-08-23T19:03:51Z] analytics: bridged from storefront events
 [2026-08-23T19:03:51Z] snapshot written
+[2026-09-08T19:32:03Z] compute probe: util=0 free_pct=18 cap_ok=true
+[2026-09-08T19:32:03Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T19:32:03Z] financial: bridged from Gumroad
+[2026-09-08T19:32:03Z] analytics: bridged from storefront events
+[2026-09-08T19:32:03Z] snapshot written
+[2026-09-08T19:33:04Z] compute probe: util=0 free_pct=49 cap_ok=true
+[2026-09-08T19:33:04Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T19:33:04Z] financial: bridged from Gumroad
+[2026-09-08T19:33:04Z] analytics: bridged from storefront events
+[2026-09-08T19:33:04Z] snapshot written
+[2026-09-08T19:48:05Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-08T19:48:05Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T19:48:05Z] financial: bridged from Gumroad
+[2026-09-08T19:48:05Z] analytics: bridged from storefront events
+[2026-09-08T19:48:05Z] snapshot written
+[2026-09-08T20:02:03Z] compute probe: util=0 free_pct=18 cap_ok=true
+[2026-09-08T20:02:03Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T20:02:03Z] financial: bridged from Gumroad
+[2026-09-08T20:02:03Z] analytics: bridged from storefront events
+[2026-09-08T20:02:03Z] snapshot written
+[2026-09-08T20:03:05Z] compute probe: util=0 free_pct=49 cap_ok=true
+[2026-09-08T20:03:05Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T20:03:05Z] financial: bridged from Gumroad
+[2026-09-08T20:03:05Z] analytics: bridged from storefront events
+[2026-09-08T20:03:05Z] snapshot written
+[2026-09-08T20:18:06Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-08T20:18:06Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T20:18:06Z] financial: bridged from Gumroad
+[2026-09-08T20:18:06Z] analytics: bridged from storefront events
+[2026-09-08T20:18:06Z] snapshot written
+[2026-09-08T20:32:03Z] compute probe: util=0 free_pct=18 cap_ok=true
+[2026-09-08T20:32:03Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T20:32:03Z] financial: bridged from Gumroad
+[2026-09-08T20:32:03Z] analytics: bridged from storefront events
+[2026-09-08T20:32:03Z] snapshot written
+[2026-09-08T20:33:06Z] compute probe: util=0 free_pct=49 cap_ok=true
+[2026-09-08T20:33:06Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T20:33:06Z] financial: bridged from Gumroad
+[2026-09-08T20:33:06Z] analytics: bridged from storefront events
+[2026-09-08T20:33:06Z] snapshot written
+[2026-09-08T20:48:22Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-08T20:48:22Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T20:48:22Z] financial: bridged from Gumroad
+[2026-09-08T20:48:22Z] analytics: bridged from storefront events
+[2026-09-08T20:48:22Z] snapshot written
+[2026-09-08T21:02:23Z] compute probe: util=0 free_pct=18 cap_ok=true
+[2026-09-08T21:02:23Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T21:02:23Z] financial: bridged from Gumroad
+[2026-09-08T21:02:23Z] analytics: bridged from storefront events
+[2026-09-08T21:02:23Z] snapshot written
+[2026-09-08T21:03:23Z] compute probe: util=0 free_pct=49 cap_ok=true
+[2026-09-08T21:03:23Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T21:03:23Z] financial: bridged from Gumroad
+[2026-09-08T21:03:23Z] analytics: bridged from storefront events
+[2026-09-08T21:03:23Z] snapshot written
+[2026-09-08T21:18:25Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-08T21:18:25Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T21:18:25Z] financial: bridged from Gumroad
+[2026-09-08T21:18:25Z] analytics: bridged from storefront events
+[2026-09-08T21:18:25Z] snapshot written
+[2026-09-08T21:32:27Z] compute probe: util=0 free_pct=18 cap_ok=true
+[2026-09-08T21:32:27Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T21:32:27Z] financial: bridged from Gumroad
+[2026-09-08T21:32:27Z] analytics: bridged from storefront events
+[2026-09-08T21:32:27Z] snapshot written
+[2026-09-08T21:33:28Z] compute probe: util=0 free_pct=18 cap_ok=true
+[2026-09-08T21:33:28Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T21:33:28Z] financial: bridged from Gumroad
+[2026-09-08T21:33:28Z] analytics: bridged from storefront events
+[2026-09-08T21:33:28Z] snapshot written
+[2026-09-08T21:48:29Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-08T21:48:29Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T21:48:29Z] financial: bridged from Gumroad
+[2026-09-08T21:48:29Z] analytics: bridged from storefront events
+[2026-09-08T21:48:29Z] snapshot written
+[2026-09-08T22:02:28Z] compute probe: util=0 free_pct=18 cap_ok=true
+[2026-09-08T22:02:28Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T22:02:28Z] financial: bridged from Gumroad
+[2026-09-08T22:02:28Z] analytics: bridged from storefront events
+[2026-09-08T22:02:28Z] snapshot written
+[2026-09-08T22:03:28Z] compute probe: util=0 free_pct=18 cap_ok=true
+[2026-09-08T22:03:28Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T22:03:28Z] financial: bridged from Gumroad
+[2026-09-08T22:03:28Z] analytics: bridged from storefront events
+[2026-09-08T22:03:28Z] snapshot written
+[2026-09-08T22:18:28Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-08T22:18:28Z] intel: themes=none best_offer=0 wr=
+[2026-09-08T22:18:28Z] financial: bridged from Gumroad
+[2026-09-08T22:18:28Z] analytics: bridged from storefront events
+[2026-09-08T22:18:28Z] snapshot written
+[2026-09-09T16:42:41Z] compute probe: util=100 free_pct=49 cap_ok=true
+[2026-09-09T16:42:41Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T16:42:41Z] financial: bridged from Gumroad
+[2026-09-09T16:42:41Z] analytics: bridged from storefront events
+[2026-09-09T16:42:41Z] snapshot written
+[2026-09-09T16:43:41Z] compute probe: util=0 free_pct=49 cap_ok=true
+[2026-09-09T16:43:41Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T16:43:41Z] financial: bridged from Gumroad
+[2026-09-09T16:43:41Z] analytics: bridged from storefront events
+[2026-09-09T16:43:41Z] snapshot written
+[2026-09-09T16:58:41Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T16:58:41Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T16:58:41Z] financial: bridged from Gumroad
+[2026-09-09T16:58:41Z] analytics: bridged from storefront events
+[2026-09-09T16:58:41Z] snapshot written
+[2026-09-09T17:12:41Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T17:12:41Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T17:12:41Z] financial: bridged from Gumroad
+[2026-09-09T17:12:41Z] analytics: bridged from storefront events
+[2026-09-09T17:12:41Z] snapshot written
+[2026-09-09T17:13:42Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-09T17:13:42Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T17:13:42Z] financial: bridged from Gumroad
+[2026-09-09T17:13:42Z] analytics: bridged from storefront events
+[2026-09-09T17:13:42Z] snapshot written
+[2026-09-09T17:28:43Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T17:28:43Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T17:28:43Z] financial: bridged from Gumroad
+[2026-09-09T17:28:43Z] analytics: bridged from storefront events
+[2026-09-09T17:28:43Z] snapshot written
+[2026-09-09T17:42:41Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T17:42:41Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T17:42:41Z] financial: bridged from Gumroad
+[2026-09-09T17:42:41Z] analytics: bridged from storefront events
+[2026-09-09T17:42:41Z] snapshot written
+[2026-09-09T17:43:43Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-09T17:43:43Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T17:43:43Z] financial: bridged from Gumroad
+[2026-09-09T17:43:43Z] analytics: bridged from storefront events
+[2026-09-09T17:43:43Z] snapshot written
+[2026-09-09T17:58:43Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T17:58:43Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T17:58:43Z] financial: bridged from Gumroad
+[2026-09-09T17:58:43Z] analytics: bridged from storefront events
+[2026-09-09T17:58:43Z] snapshot written
+[2026-09-09T18:12:41Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T18:12:41Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T18:12:41Z] financial: bridged from Gumroad
+[2026-09-09T18:12:41Z] analytics: bridged from storefront events
+[2026-09-09T18:12:41Z] snapshot written
+[2026-09-09T18:13:44Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-09T18:13:44Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T18:13:44Z] financial: bridged from Gumroad
+[2026-09-09T18:13:44Z] analytics: bridged from storefront events
+[2026-09-09T18:13:44Z] snapshot written
+[2026-09-09T18:28:44Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T18:28:44Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T18:28:44Z] financial: bridged from Gumroad
+[2026-09-09T18:28:44Z] analytics: bridged from storefront events
+[2026-09-09T18:28:44Z] snapshot written
+[2026-09-09T18:42:41Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T18:42:41Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T18:42:41Z] financial: bridged from Gumroad
+[2026-09-09T18:42:41Z] analytics: bridged from storefront events
+[2026-09-09T18:42:41Z] snapshot written
+[2026-09-09T18:43:44Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-09T18:43:44Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T18:43:44Z] financial: bridged from Gumroad
+[2026-09-09T18:43:44Z] analytics: bridged from storefront events
+[2026-09-09T18:43:44Z] snapshot written
+[2026-09-09T18:58:45Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T18:58:45Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T18:58:45Z] financial: bridged from Gumroad
+[2026-09-09T18:58:45Z] analytics: bridged from storefront events
+[2026-09-09T18:58:45Z] snapshot written
+[2026-09-09T19:12:42Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T19:12:42Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T19:12:42Z] financial: bridged from Gumroad
+[2026-09-09T19:12:42Z] analytics: bridged from storefront events
+[2026-09-09T19:12:42Z] snapshot written
+[2026-09-09T19:13:45Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-09T19:13:45Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T19:13:45Z] financial: bridged from Gumroad
+[2026-09-09T19:13:45Z] analytics: bridged from storefront events
+[2026-09-09T19:13:45Z] snapshot written
+[2026-09-09T19:28:46Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T19:28:46Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T19:28:46Z] financial: bridged from Gumroad
+[2026-09-09T19:28:46Z] analytics: bridged from storefront events
+[2026-09-09T19:28:46Z] snapshot written
+[2026-09-09T19:42:42Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T19:42:42Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T19:42:42Z] financial: bridged from Gumroad
+[2026-09-09T19:42:42Z] analytics: bridged from storefront events
+[2026-09-09T19:42:42Z] snapshot written
+[2026-09-09T19:43:46Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-09T19:43:46Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T19:43:46Z] financial: bridged from Gumroad
+[2026-09-09T19:43:46Z] analytics: bridged from storefront events
+[2026-09-09T19:43:46Z] snapshot written
+[2026-09-09T19:58:46Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T19:58:46Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T19:58:46Z] financial: bridged from Gumroad
+[2026-09-09T19:58:46Z] analytics: bridged from storefront events
+[2026-09-09T19:58:46Z] snapshot written
+[2026-09-09T20:12:42Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T20:12:42Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T20:12:42Z] financial: bridged from Gumroad
+[2026-09-09T20:12:42Z] analytics: bridged from storefront events
+[2026-09-09T20:12:42Z] snapshot written
+[2026-09-09T20:13:46Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-09T20:13:46Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T20:13:46Z] financial: bridged from Gumroad
+[2026-09-09T20:13:46Z] analytics: bridged from storefront events
+[2026-09-09T20:13:46Z] snapshot written
+[2026-09-09T20:28:46Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T20:28:46Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T20:28:46Z] financial: bridged from Gumroad
+[2026-09-09T20:28:46Z] analytics: bridged from storefront events
+[2026-09-09T20:28:46Z] snapshot written
+[2026-09-09T20:42:43Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T20:42:43Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T20:42:43Z] financial: bridged from Gumroad
+[2026-09-09T20:42:43Z] analytics: bridged from storefront events
+[2026-09-09T20:42:43Z] snapshot written
+[2026-09-09T20:43:47Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-09T20:43:47Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T20:43:47Z] financial: bridged from Gumroad
+[2026-09-09T20:43:47Z] analytics: bridged from storefront events
+[2026-09-09T20:43:47Z] snapshot written
+[2026-09-09T20:58:48Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T20:58:48Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T20:58:48Z] financial: bridged from Gumroad
+[2026-09-09T20:58:48Z] analytics: bridged from storefront events
+[2026-09-09T20:58:48Z] snapshot written
+[2026-09-09T21:12:43Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T21:12:43Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T21:12:43Z] financial: bridged from Gumroad
+[2026-09-09T21:12:43Z] analytics: bridged from storefront events
+[2026-09-09T21:12:43Z] snapshot written
+[2026-09-09T21:13:48Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-09T21:13:48Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T21:13:48Z] financial: bridged from Gumroad
+[2026-09-09T21:13:48Z] analytics: bridged from storefront events
+[2026-09-09T21:13:48Z] snapshot written
+[2026-09-09T21:28:48Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T21:28:48Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T21:28:48Z] financial: bridged from Gumroad
+[2026-09-09T21:28:48Z] analytics: bridged from storefront events
+[2026-09-09T21:28:48Z] snapshot written
+[2026-09-09T21:42:44Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T21:42:44Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T21:42:44Z] financial: bridged from Gumroad
+[2026-09-09T21:42:44Z] analytics: bridged from storefront events
+[2026-09-09T21:42:44Z] snapshot written
+[2026-09-09T21:43:49Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-09T21:43:49Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T21:43:49Z] financial: bridged from Gumroad
+[2026-09-09T21:43:49Z] analytics: bridged from storefront events
+[2026-09-09T21:43:49Z] snapshot written
+[2026-09-09T21:58:49Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T21:58:49Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T21:58:49Z] financial: bridged from Gumroad
+[2026-09-09T21:58:49Z] analytics: bridged from storefront events
+[2026-09-09T21:58:49Z] snapshot written
+[2026-09-09T22:12:49Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T22:12:49Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T22:12:49Z] financial: bridged from Gumroad
+[2026-09-09T22:12:49Z] analytics: bridged from storefront events
+[2026-09-09T22:12:49Z] snapshot written
+[2026-09-09T22:13:49Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T22:13:49Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T22:13:49Z] financial: bridged from Gumroad
+[2026-09-09T22:13:49Z] analytics: bridged from storefront events
+[2026-09-09T22:13:49Z] snapshot written
+[2026-09-09T22:28:49Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T22:28:49Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T22:28:49Z] financial: bridged from Gumroad
+[2026-09-09T22:28:49Z] analytics: bridged from storefront events
+[2026-09-09T22:28:49Z] snapshot written
+[2026-09-09T22:42:49Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T22:42:49Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T22:42:49Z] financial: bridged from Gumroad
+[2026-09-09T22:42:49Z] analytics: bridged from storefront events
+[2026-09-09T22:42:49Z] snapshot written
+[2026-09-09T22:43:49Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T22:43:49Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T22:43:49Z] financial: bridged from Gumroad
+[2026-09-09T22:43:49Z] analytics: bridged from storefront events
+[2026-09-09T22:43:49Z] snapshot written
+[2026-09-09T22:58:49Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T22:58:49Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T22:58:49Z] financial: bridged from Gumroad
+[2026-09-09T22:58:49Z] analytics: bridged from storefront events
+[2026-09-09T22:58:49Z] snapshot written
+[2026-09-09T23:12:50Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T23:12:50Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T23:12:50Z] financial: bridged from Gumroad
+[2026-09-09T23:12:50Z] analytics: bridged from storefront events
+[2026-09-09T23:12:50Z] snapshot written
+[2026-09-09T23:13:49Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T23:13:49Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T23:13:49Z] financial: bridged from Gumroad
+[2026-09-09T23:13:49Z] analytics: bridged from storefront events
+[2026-09-09T23:13:49Z] snapshot written
+[2026-09-09T23:28:49Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T23:28:49Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T23:28:49Z] financial: bridged from Gumroad
+[2026-09-09T23:28:49Z] analytics: bridged from storefront events
+[2026-09-09T23:28:49Z] snapshot written
+[2026-09-09T23:42:50Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T23:42:50Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T23:42:50Z] financial: bridged from Gumroad
+[2026-09-09T23:42:50Z] analytics: bridged from storefront events
+[2026-09-09T23:42:50Z] snapshot written
+[2026-09-09T23:43:50Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T23:43:50Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T23:43:50Z] financial: bridged from Gumroad
+[2026-09-09T23:43:50Z] analytics: bridged from storefront events
+[2026-09-09T23:43:50Z] snapshot written
+[2026-09-09T23:59:30Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-09T23:59:30Z] intel: themes=none best_offer=0 wr=
+[2026-09-09T23:59:30Z] financial: bridged from Gumroad
+[2026-09-09T23:59:30Z] analytics: bridged from storefront events
+[2026-09-09T23:59:30Z] snapshot written
+[2026-09-10T00:12:50Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T00:12:50Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T00:12:50Z] financial: bridged from Gumroad
+[2026-09-10T00:12:50Z] analytics: bridged from storefront events
+[2026-09-10T00:12:50Z] snapshot written
+[2026-09-10T00:14:49Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T00:14:49Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T00:14:49Z] financial: bridged from Gumroad
+[2026-09-10T00:14:49Z] analytics: bridged from storefront events
+[2026-09-10T00:14:49Z] snapshot written
+[2026-09-10T00:29:49Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T00:29:49Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T00:29:49Z] financial: bridged from Gumroad
+[2026-09-10T00:29:49Z] analytics: bridged from storefront events
+[2026-09-10T00:29:49Z] snapshot written
+[2026-09-10T00:42:50Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T00:42:50Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T00:42:50Z] financial: bridged from Gumroad
+[2026-09-10T00:42:50Z] analytics: bridged from storefront events
+[2026-09-10T00:42:50Z] snapshot written
+[2026-09-10T00:44:50Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T00:44:50Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T00:44:50Z] financial: bridged from Gumroad
+[2026-09-10T00:44:50Z] analytics: bridged from storefront events
+[2026-09-10T00:44:50Z] snapshot written
+[2026-09-10T00:59:50Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T00:59:50Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T00:59:50Z] financial: bridged from Gumroad
+[2026-09-10T00:59:50Z] analytics: bridged from storefront events
+[2026-09-10T00:59:50Z] snapshot written
+[2026-09-10T01:12:50Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T01:12:50Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T01:12:50Z] financial: bridged from Gumroad
+[2026-09-10T01:12:50Z] analytics: bridged from storefront events
+[2026-09-10T01:12:50Z] snapshot written
+[2026-09-10T01:14:51Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T01:14:51Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T01:14:51Z] financial: bridged from Gumroad
+[2026-09-10T01:14:51Z] analytics: bridged from storefront events
+[2026-09-10T01:14:51Z] snapshot written
+[2026-09-10T01:29:58Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T01:29:58Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T01:29:58Z] financial: bridged from Gumroad
+[2026-09-10T01:29:58Z] analytics: bridged from storefront events
+[2026-09-10T01:29:58Z] snapshot written
+[2026-09-10T01:42:51Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T01:42:51Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T01:42:51Z] financial: bridged from Gumroad
+[2026-09-10T01:42:51Z] analytics: bridged from storefront events
+[2026-09-10T01:42:51Z] snapshot written
+[2026-09-10T01:44:58Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T01:44:58Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T01:44:58Z] financial: bridged from Gumroad
+[2026-09-10T01:44:58Z] analytics: bridged from storefront events
+[2026-09-10T01:44:58Z] snapshot written
+[2026-09-10T01:59:59Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T01:59:59Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T01:59:59Z] financial: bridged from Gumroad
+[2026-09-10T01:59:59Z] analytics: bridged from storefront events
+[2026-09-10T01:59:59Z] snapshot written
+[2026-09-10T02:12:51Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T02:12:51Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T02:12:51Z] financial: bridged from Gumroad
+[2026-09-10T02:12:51Z] analytics: bridged from storefront events
+[2026-09-10T02:12:51Z] snapshot written
+[2026-09-10T02:15:03Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T02:15:03Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T02:15:03Z] financial: bridged from Gumroad
+[2026-09-10T02:15:03Z] analytics: bridged from storefront events
+[2026-09-10T02:15:03Z] snapshot written
+[2026-09-10T22:45:33Z] compute probe: util=100 free_pct=49 cap_ok=true
+[2026-09-10T22:45:33Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T22:45:33Z] financial: bridged from Gumroad
+[2026-09-10T22:45:33Z] analytics: bridged from storefront events
+[2026-09-10T22:45:33Z] snapshot written
+[2026-09-10T22:46:33Z] compute probe: util=0 free_pct=49 cap_ok=true
+[2026-09-10T22:46:33Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T22:46:33Z] financial: bridged from Gumroad
+[2026-09-10T22:46:33Z] analytics: bridged from storefront events
+[2026-09-10T22:46:33Z] snapshot written
+[2026-09-10T23:01:33Z] compute probe: util=0 free_pct=18 cap_ok=true
+[2026-09-10T23:01:33Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T23:01:33Z] financial: bridged from Gumroad
+[2026-09-10T23:01:33Z] analytics: bridged from storefront events
+[2026-09-10T23:01:33Z] snapshot written
+[2026-09-10T23:15:33Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T23:15:33Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T23:15:33Z] financial: bridged from Gumroad
+[2026-09-10T23:15:33Z] analytics: bridged from storefront events
+[2026-09-10T23:15:33Z] snapshot written
+[2026-09-10T23:16:33Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T23:16:33Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T23:16:33Z] financial: bridged from Gumroad
+[2026-09-10T23:16:33Z] analytics: bridged from storefront events
+[2026-09-10T23:16:33Z] snapshot written
+[2026-09-10T23:31:34Z] compute probe: util=0 free_pct=7 cap_ok=false
+[2026-09-10T23:31:34Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T23:31:34Z] financial: bridged from Gumroad
+[2026-09-10T23:31:34Z] analytics: bridged from storefront events
+[2026-09-10T23:31:34Z] snapshot written
+[2026-09-10T23:45:33Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-10T23:45:33Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T23:45:33Z] financial: bridged from Gumroad
+[2026-09-10T23:45:33Z] analytics: bridged from storefront events
+[2026-09-10T23:45:33Z] snapshot written
+[2026-09-10T23:46:34Z] compute probe: util=44 free_pct=66 cap_ok=true
+[2026-09-10T23:46:34Z] intel: themes=none best_offer=0 wr=
+[2026-09-10T23:46:34Z] financial: bridged from Gumroad
+[2026-09-10T23:46:34Z] analytics: bridged from storefront events
+[2026-09-10T23:46:34Z] snapshot written
+[2026-09-11T00:01:34Z] compute probe: util=0 free_pct=18 cap_ok=true
+[2026-09-11T00:01:34Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T00:01:34Z] financial: bridged from Gumroad
+[2026-09-11T00:01:34Z] analytics: bridged from storefront events
+[2026-09-11T00:01:34Z] snapshot written
+[2026-09-11T00:15:35Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-11T00:15:35Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T00:15:35Z] financial: bridged from Gumroad
+[2026-09-11T00:15:35Z] analytics: bridged from storefront events
+[2026-09-11T00:15:35Z] snapshot written
+[2026-09-11T00:16:35Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-11T00:16:35Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T00:16:35Z] financial: bridged from Gumroad
+[2026-09-11T00:16:35Z] analytics: bridged from storefront events
+[2026-09-11T00:16:35Z] snapshot written
+[2026-09-11T00:31:41Z] compute probe: util=0 free_pct=18 cap_ok=true
+[2026-09-11T00:31:41Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T00:31:41Z] financial: bridged from Gumroad
+[2026-09-11T00:31:41Z] analytics: bridged from storefront events
+[2026-09-11T00:31:41Z] snapshot written
+[2026-09-11T00:45:51Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-11T00:45:51Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T00:45:51Z] financial: bridged from Gumroad
+[2026-09-11T00:45:51Z] analytics: bridged from storefront events
+[2026-09-11T00:45:51Z] snapshot written
+[2026-09-11T00:46:51Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-11T00:46:51Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T00:46:51Z] financial: bridged from Gumroad
+[2026-09-11T00:46:51Z] analytics: bridged from storefront events
+[2026-09-11T00:46:51Z] snapshot written
+[2026-09-11T01:01:51Z] compute probe: util=0 free_pct=18 cap_ok=true
+[2026-09-11T01:01:51Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T01:01:51Z] financial: bridged from Gumroad
+[2026-09-11T01:01:51Z] analytics: bridged from storefront events
+[2026-09-11T01:01:51Z] snapshot written
+[2026-09-11T01:16:09Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-11T01:16:09Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T01:16:09Z] financial: bridged from Gumroad
+[2026-09-11T01:16:09Z] analytics: bridged from storefront events
+[2026-09-11T01:16:09Z] snapshot written
+[2026-09-11T01:16:51Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-11T01:16:51Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T01:16:51Z] financial: bridged from Gumroad
+[2026-09-11T01:16:51Z] analytics: bridged from storefront events
+[2026-09-11T01:16:51Z] snapshot written
+[2026-09-11T01:31:56Z] compute probe: util=0 free_pct=18 cap_ok=true
+[2026-09-11T01:31:56Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T01:31:56Z] financial: bridged from Gumroad
+[2026-09-11T01:31:56Z] analytics: bridged from storefront events
+[2026-09-11T01:31:56Z] snapshot written
+[2026-09-11T01:46:13Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-11T01:46:13Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T01:46:13Z] financial: bridged from Gumroad
+[2026-09-11T01:46:13Z] analytics: bridged from storefront events
+[2026-09-11T01:46:13Z] snapshot written
+[2026-09-11T01:46:57Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-11T01:46:57Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T01:46:57Z] financial: bridged from Gumroad
+[2026-09-11T01:46:57Z] analytics: bridged from storefront events
+[2026-09-11T01:46:57Z] snapshot written
+[2026-09-11T02:02:11Z] compute probe: util=0 free_pct=18 cap_ok=true
+[2026-09-11T02:02:11Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T02:02:11Z] financial: bridged from Gumroad
+[2026-09-11T02:02:11Z] analytics: bridged from storefront events
+[2026-09-11T02:02:11Z] snapshot written
+[2026-09-11T02:16:17Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-11T02:16:17Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T02:16:17Z] financial: bridged from Gumroad
+[2026-09-11T02:16:17Z] analytics: bridged from storefront events
+[2026-09-11T02:16:17Z] snapshot written
+[2026-09-11T02:17:11Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-11T02:17:11Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T02:17:11Z] financial: bridged from Gumroad
+[2026-09-11T02:17:11Z] analytics: bridged from storefront events
+[2026-09-11T02:17:11Z] snapshot written
+[2026-09-11T02:32:18Z] compute probe: util=0 free_pct=18 cap_ok=true
+[2026-09-11T02:32:18Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T02:32:18Z] financial: bridged from Gumroad
+[2026-09-11T02:32:18Z] analytics: bridged from storefront events
+[2026-09-11T02:32:18Z] snapshot written
+[2026-09-11T02:46:18Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-11T02:46:18Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T02:46:18Z] financial: bridged from Gumroad
+[2026-09-11T02:46:18Z] analytics: bridged from storefront events
+[2026-09-11T02:46:18Z] snapshot written
+[2026-09-11T02:47:18Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-11T02:47:18Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T02:47:18Z] financial: bridged from Gumroad
+[2026-09-11T02:47:18Z] analytics: bridged from storefront events
+[2026-09-11T02:47:18Z] snapshot written
+[2026-09-11T03:02:18Z] compute probe: util=0 free_pct=18 cap_ok=true
+[2026-09-11T03:02:18Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T03:02:18Z] financial: bridged from Gumroad
+[2026-09-11T03:02:18Z] analytics: bridged from storefront events
+[2026-09-11T03:02:18Z] snapshot written
+[2026-09-11T17:07:22Z] compute probe: util=82 free_pct=49 cap_ok=true
+[2026-09-11T17:07:22Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T17:07:22Z] financial: bridged from Gumroad
+[2026-09-11T17:07:22Z] analytics: bridged from storefront events
+[2026-09-11T17:07:22Z] snapshot written
+[2026-09-11T17:08:23Z] compute probe: util=0 free_pct=49 cap_ok=true
+[2026-09-11T17:08:23Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T17:08:23Z] financial: bridged from Gumroad
+[2026-09-11T17:08:23Z] analytics: bridged from storefront events
+[2026-09-11T17:08:23Z] snapshot written
+[2026-09-11T17:23:23Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-11T17:23:23Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T17:23:23Z] financial: bridged from Gumroad
+[2026-09-11T17:23:23Z] analytics: bridged from storefront events
+[2026-09-11T17:23:23Z] snapshot written
+[2026-09-11T17:37:23Z] compute probe: util=0 free_pct=35 cap_ok=true
+[2026-09-11T17:37:23Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T17:37:23Z] financial: bridged from Gumroad
+[2026-09-11T17:37:23Z] analytics: bridged from storefront events
+[2026-09-11T17:37:23Z] snapshot written
+[2026-09-11T17:38:25Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-11T17:38:25Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T17:38:25Z] financial: bridged from Gumroad
+[2026-09-11T17:38:25Z] analytics: bridged from storefront events
+[2026-09-11T17:38:25Z] snapshot written
+[2026-09-11T17:53:25Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T17:53:25Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T17:53:25Z] financial: bridged from Gumroad
+[2026-09-11T17:53:25Z] analytics: bridged from storefront events
+[2026-09-11T17:53:25Z] snapshot written
+[2026-09-11T18:07:23Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T18:07:23Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T18:07:23Z] financial: bridged from Gumroad
+[2026-09-11T18:07:23Z] analytics: bridged from storefront events
+[2026-09-11T18:07:23Z] snapshot written
+[2026-09-11T18:08:25Z] compute probe: util=0 free_pct=64 cap_ok=true
+[2026-09-11T18:08:25Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T18:08:25Z] financial: bridged from Gumroad
+[2026-09-11T18:08:25Z] analytics: bridged from storefront events
+[2026-09-11T18:08:25Z] snapshot written
+[2026-09-11T18:23:26Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T18:23:26Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T18:23:26Z] financial: bridged from Gumroad
+[2026-09-11T18:23:26Z] analytics: bridged from storefront events
+[2026-09-11T18:23:26Z] snapshot written
+[2026-09-11T18:37:36Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T18:37:36Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T18:37:36Z] financial: bridged from Gumroad
+[2026-09-11T18:37:36Z] analytics: bridged from storefront events
+[2026-09-11T18:37:36Z] snapshot written
+[2026-09-11T18:38:37Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T18:38:37Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T18:38:37Z] financial: bridged from Gumroad
+[2026-09-11T18:38:37Z] analytics: bridged from storefront events
+[2026-09-11T18:38:37Z] snapshot written
+[2026-09-11T18:53:44Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T18:53:44Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T18:53:44Z] financial: bridged from Gumroad
+[2026-09-11T18:53:44Z] analytics: bridged from storefront events
+[2026-09-11T18:53:44Z] snapshot written
+[2026-09-11T19:07:44Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T19:07:44Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T19:07:44Z] financial: bridged from Gumroad
+[2026-09-11T19:07:44Z] analytics: bridged from storefront events
+[2026-09-11T19:07:44Z] snapshot written
+[2026-09-11T19:08:44Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T19:08:44Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T19:08:44Z] financial: bridged from Gumroad
+[2026-09-11T19:08:44Z] analytics: bridged from storefront events
+[2026-09-11T19:08:44Z] snapshot written
+[2026-09-11T19:23:58Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T19:23:58Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T19:23:58Z] financial: bridged from Gumroad
+[2026-09-11T19:23:58Z] analytics: bridged from storefront events
+[2026-09-11T19:23:58Z] snapshot written
+[2026-09-11T19:37:44Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T19:37:44Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T19:37:44Z] financial: bridged from Gumroad
+[2026-09-11T19:37:44Z] analytics: bridged from storefront events
+[2026-09-11T19:37:44Z] snapshot written
+[2026-09-11T19:38:58Z] compute probe: util=0 free_pct=64 cap_ok=true
+[2026-09-11T19:38:58Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T19:38:58Z] financial: bridged from Gumroad
+[2026-09-11T19:38:58Z] analytics: bridged from storefront events
+[2026-09-11T19:38:58Z] snapshot written
+[2026-09-11T19:54:02Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T19:54:02Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T19:54:02Z] financial: bridged from Gumroad
+[2026-09-11T19:54:02Z] analytics: bridged from storefront events
+[2026-09-11T19:54:02Z] snapshot written
+[2026-09-11T20:07:44Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T20:07:44Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T20:07:44Z] financial: bridged from Gumroad
+[2026-09-11T20:07:44Z] analytics: bridged from storefront events
+[2026-09-11T20:07:44Z] snapshot written
+[2026-09-11T20:09:03Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-11T20:09:03Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T20:09:03Z] financial: bridged from Gumroad
+[2026-09-11T20:09:03Z] analytics: bridged from storefront events
+[2026-09-11T20:09:03Z] snapshot written
+[2026-09-11T20:24:05Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T20:24:05Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T20:24:05Z] financial: bridged from Gumroad
+[2026-09-11T20:24:05Z] analytics: bridged from storefront events
+[2026-09-11T20:24:05Z] snapshot written
+[2026-09-11T20:38:06Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T20:38:06Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T20:38:06Z] financial: bridged from Gumroad
+[2026-09-11T20:38:06Z] analytics: bridged from storefront events
+[2026-09-11T20:38:06Z] snapshot written
+[2026-09-11T20:39:05Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-11T20:39:05Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T20:39:05Z] financial: bridged from Gumroad
+[2026-09-11T20:39:05Z] analytics: bridged from storefront events
+[2026-09-11T20:39:05Z] snapshot written
+[2026-09-11T20:54:07Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T20:54:07Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T20:54:07Z] financial: bridged from Gumroad
+[2026-09-11T20:54:07Z] analytics: bridged from storefront events
+[2026-09-11T20:54:07Z] snapshot written
+[2026-09-11T21:08:10Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T21:08:10Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T21:08:10Z] financial: bridged from Gumroad
+[2026-09-11T21:08:10Z] analytics: bridged from storefront events
+[2026-09-11T21:08:10Z] snapshot written
+[2026-09-11T21:09:07Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T21:09:07Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T21:09:07Z] financial: bridged from Gumroad
+[2026-09-11T21:09:07Z] analytics: bridged from storefront events
+[2026-09-11T21:09:07Z] snapshot written
+[2026-09-11T21:24:07Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T21:24:07Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T21:24:07Z] financial: bridged from Gumroad
+[2026-09-11T21:24:07Z] analytics: bridged from storefront events
+[2026-09-11T21:24:07Z] snapshot written
+[2026-09-11T21:38:13Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T21:38:13Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T21:38:13Z] financial: bridged from Gumroad
+[2026-09-11T21:38:13Z] analytics: bridged from storefront events
+[2026-09-11T21:38:13Z] snapshot written
+[2026-09-11T21:39:14Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T21:39:14Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T21:39:14Z] financial: bridged from Gumroad
+[2026-09-11T21:39:14Z] analytics: bridged from storefront events
+[2026-09-11T21:39:14Z] snapshot written
+[2026-09-11T21:54:16Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T21:54:16Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T21:54:16Z] financial: bridged from Gumroad
+[2026-09-11T21:54:16Z] analytics: bridged from storefront events
+[2026-09-11T21:54:16Z] snapshot written
+[2026-09-11T22:08:16Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T22:08:16Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T22:08:16Z] financial: bridged from Gumroad
+[2026-09-11T22:08:16Z] analytics: bridged from storefront events
+[2026-09-11T22:08:16Z] snapshot written
+[2026-09-11T22:09:17Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T22:09:17Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T22:09:17Z] financial: bridged from Gumroad
+[2026-09-11T22:09:17Z] analytics: bridged from storefront events
+[2026-09-11T22:09:17Z] snapshot written
+[2026-09-11T22:24:19Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T22:24:19Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T22:24:19Z] financial: bridged from Gumroad
+[2026-09-11T22:24:19Z] analytics: bridged from storefront events
+[2026-09-11T22:24:19Z] snapshot written
+[2026-09-11T22:38:21Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T22:38:21Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T22:38:21Z] financial: bridged from Gumroad
+[2026-09-11T22:38:21Z] analytics: bridged from storefront events
+[2026-09-11T22:38:21Z] snapshot written
+[2026-09-11T22:39:22Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T22:39:22Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T22:39:22Z] financial: bridged from Gumroad
+[2026-09-11T22:39:22Z] analytics: bridged from storefront events
+[2026-09-11T22:39:22Z] snapshot written
+[2026-09-11T22:54:23Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T22:54:23Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T22:54:23Z] financial: bridged from Gumroad
+[2026-09-11T22:54:23Z] analytics: bridged from storefront events
+[2026-09-11T22:54:23Z] snapshot written
+[2026-09-11T23:08:25Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T23:08:25Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T23:08:25Z] financial: bridged from Gumroad
+[2026-09-11T23:08:25Z] analytics: bridged from storefront events
+[2026-09-11T23:08:25Z] snapshot written
+[2026-09-11T23:09:25Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T23:09:25Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T23:09:25Z] financial: bridged from Gumroad
+[2026-09-11T23:09:25Z] analytics: bridged from storefront events
+[2026-09-11T23:09:25Z] snapshot written
+[2026-09-11T23:24:27Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T23:24:27Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T23:24:27Z] financial: bridged from Gumroad
+[2026-09-11T23:24:27Z] analytics: bridged from storefront events
+[2026-09-11T23:24:27Z] snapshot written
+[2026-09-11T23:38:28Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T23:38:28Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T23:38:28Z] financial: bridged from Gumroad
+[2026-09-11T23:38:28Z] analytics: bridged from storefront events
+[2026-09-11T23:38:28Z] snapshot written
+[2026-09-11T23:39:29Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T23:39:29Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T23:39:29Z] financial: bridged from Gumroad
+[2026-09-11T23:39:29Z] analytics: bridged from storefront events
+[2026-09-11T23:39:29Z] snapshot written
+[2026-09-11T23:54:30Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-11T23:54:30Z] intel: themes=none best_offer=0 wr=
+[2026-09-11T23:54:30Z] financial: bridged from Gumroad
+[2026-09-11T23:54:30Z] analytics: bridged from storefront events
+[2026-09-11T23:54:30Z] snapshot written
+[2026-09-12T00:08:32Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T00:08:32Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T00:08:32Z] financial: bridged from Gumroad
+[2026-09-12T00:08:32Z] analytics: bridged from storefront events
+[2026-09-12T00:08:32Z] snapshot written
+[2026-09-12T00:09:32Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T00:09:32Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T00:09:32Z] financial: bridged from Gumroad
+[2026-09-12T00:09:32Z] analytics: bridged from storefront events
+[2026-09-12T00:09:32Z] snapshot written
+[2026-09-12T00:24:34Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T00:24:34Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T00:24:34Z] financial: bridged from Gumroad
+[2026-09-12T00:24:34Z] analytics: bridged from storefront events
+[2026-09-12T00:24:34Z] snapshot written
+[2026-09-12T00:38:35Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T00:38:35Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T00:38:35Z] financial: bridged from Gumroad
+[2026-09-12T00:38:35Z] analytics: bridged from storefront events
+[2026-09-12T00:38:35Z] snapshot written
+[2026-09-12T00:39:36Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T00:39:36Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T00:39:36Z] financial: bridged from Gumroad
+[2026-09-12T00:39:36Z] analytics: bridged from storefront events
+[2026-09-12T00:39:36Z] snapshot written
+[2026-09-12T00:54:37Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T00:54:37Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T00:54:37Z] financial: bridged from Gumroad
+[2026-09-12T00:54:37Z] analytics: bridged from storefront events
+[2026-09-12T00:54:37Z] snapshot written
+[2026-09-12T01:08:39Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T01:08:39Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T01:08:39Z] financial: bridged from Gumroad
+[2026-09-12T01:08:39Z] analytics: bridged from storefront events
+[2026-09-12T01:08:39Z] snapshot written
+[2026-09-12T01:09:39Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T01:09:39Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T01:09:39Z] financial: bridged from Gumroad
+[2026-09-12T01:09:39Z] analytics: bridged from storefront events
+[2026-09-12T01:09:39Z] snapshot written
+[2026-09-12T01:24:41Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T01:24:41Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T01:24:41Z] financial: bridged from Gumroad
+[2026-09-12T01:24:41Z] analytics: bridged from storefront events
+[2026-09-12T01:24:41Z] snapshot written
+[2026-09-12T01:38:42Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T01:38:42Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T01:38:42Z] financial: bridged from Gumroad
+[2026-09-12T01:38:42Z] analytics: bridged from storefront events
+[2026-09-12T01:38:42Z] snapshot written
+[2026-09-12T01:39:43Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T01:39:43Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T01:39:43Z] financial: bridged from Gumroad
+[2026-09-12T01:39:43Z] analytics: bridged from storefront events
+[2026-09-12T01:39:43Z] snapshot written
+[2026-09-12T01:54:44Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T01:54:44Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T01:54:44Z] financial: bridged from Gumroad
+[2026-09-12T01:54:44Z] analytics: bridged from storefront events
+[2026-09-12T01:54:44Z] snapshot written
+[2026-09-12T02:08:44Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T02:08:44Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T02:08:44Z] financial: bridged from Gumroad
+[2026-09-12T02:08:44Z] analytics: bridged from storefront events
+[2026-09-12T02:08:44Z] snapshot written
+[2026-09-12T02:09:44Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T02:09:44Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T02:09:44Z] financial: bridged from Gumroad
+[2026-09-12T02:09:44Z] analytics: bridged from storefront events
+[2026-09-12T02:09:44Z] snapshot written
+[2026-09-12T02:24:48Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T02:24:48Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T02:24:48Z] financial: bridged from Gumroad
+[2026-09-12T02:24:48Z] analytics: bridged from storefront events
+[2026-09-12T02:24:48Z] snapshot written
+[2026-09-12T02:38:44Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T02:38:44Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T02:38:44Z] financial: bridged from Gumroad
+[2026-09-12T02:38:44Z] analytics: bridged from storefront events
+[2026-09-12T02:38:44Z] snapshot written
+[2026-09-12T02:39:48Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-12T02:39:48Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T02:39:48Z] financial: bridged from Gumroad
+[2026-09-12T02:39:48Z] analytics: bridged from storefront events
+[2026-09-12T02:39:48Z] snapshot written
+[2026-09-12T02:54:52Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T02:54:52Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T02:54:52Z] financial: bridged from Gumroad
+[2026-09-12T02:54:52Z] analytics: bridged from storefront events
+[2026-09-12T02:54:52Z] snapshot written
+[2026-09-12T03:08:54Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T03:08:54Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T03:08:54Z] financial: bridged from Gumroad
+[2026-09-12T03:08:54Z] analytics: bridged from storefront events
+[2026-09-12T03:08:54Z] snapshot written
+[2026-09-12T03:09:53Z] compute probe: util=87 free_pct=66 cap_ok=true
+[2026-09-12T03:09:53Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T03:09:53Z] financial: bridged from Gumroad
+[2026-09-12T03:09:53Z] analytics: bridged from storefront events
+[2026-09-12T03:09:53Z] snapshot written
+[2026-09-12T03:24:56Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-12T03:24:56Z] intel: themes=none best_offer=0 wr=
+[2026-09-12T03:24:56Z] financial: bridged from Gumroad
+[2026-09-12T03:24:56Z] analytics: bridged from storefront events
+[2026-09-12T03:24:56Z] snapshot written
+[2026-09-13T23:43:44Z] compute probe: util=99 free_pct=53 cap_ok=true
+[2026-09-13T23:43:44Z] intel: themes=none best_offer=0 wr=
+[2026-09-13T23:43:44Z] financial: bridged from Gumroad
+[2026-09-13T23:43:44Z] analytics: bridged from storefront events
+[2026-09-13T23:43:44Z] snapshot written
+[2026-09-13T23:44:45Z] compute probe: util=0 free_pct=49 cap_ok=true
+[2026-09-13T23:44:45Z] intel: themes=none best_offer=0 wr=
+[2026-09-13T23:44:45Z] financial: bridged from Gumroad
+[2026-09-13T23:44:45Z] analytics: bridged from storefront events
+[2026-09-13T23:44:45Z] snapshot written
+[2026-09-13T23:51:35Z] compute probe: util=0 free_pct=99 cap_ok=true
+[2026-09-13T23:51:35Z] intel: themes=none best_offer=0 wr=
+[2026-09-13T23:51:35Z] financial: bridged from Gumroad
+[2026-09-13T23:51:35Z] analytics: bridged from storefront events
+[2026-09-13T23:51:35Z] snapshot written
+[2026-09-13T23:54:54Z] compute probe: util=0 free_pct=99 cap_ok=true
+[2026-09-13T23:54:54Z] intel: themes=none best_offer=0 wr=
+[2026-09-13T23:54:54Z] financial: bridged from Gumroad
+[2026-09-13T23:54:54Z] analytics: bridged from storefront events
+[2026-09-13T23:54:54Z] snapshot written
+[2026-09-13T23:55:55Z] compute probe: util=0 free_pct=99 cap_ok=true
+[2026-09-13T23:55:55Z] intel: themes=none best_offer=0 wr=
+[2026-09-13T23:55:55Z] financial: bridged from Gumroad
+[2026-09-13T23:55:55Z] analytics: bridged from storefront events
+[2026-09-13T23:55:55Z] snapshot written
+[2026-09-14T00:10:55Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-14T00:10:55Z] intel: themes=none best_offer=0 wr=
+[2026-09-14T00:10:55Z] financial: bridged from Gumroad
+[2026-09-14T00:10:55Z] analytics: bridged from storefront events
+[2026-09-14T00:10:55Z] snapshot written
+[2026-09-14T00:24:55Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-14T00:24:55Z] intel: themes=none best_offer=0 wr=
+[2026-09-14T00:24:55Z] financial: bridged from Gumroad
+[2026-09-14T00:24:55Z] analytics: bridged from storefront events
+[2026-09-14T00:24:55Z] snapshot written
+[2026-09-14T00:25:55Z] compute probe: util=9 free_pct=32 cap_ok=true
+[2026-09-14T00:25:55Z] intel: themes=none best_offer=0 wr=
+[2026-09-14T00:25:55Z] financial: bridged from Gumroad
+[2026-09-14T00:25:55Z] analytics: bridged from storefront events
+[2026-09-14T00:25:55Z] snapshot written
+[2026-09-14T00:40:56Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-14T00:40:56Z] intel: themes=none best_offer=0 wr=
+[2026-09-14T00:40:56Z] financial: bridged from Gumroad
+[2026-09-14T00:40:56Z] analytics: bridged from storefront events
+[2026-09-14T00:40:56Z] snapshot written
+[2026-09-14T00:54:55Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-14T00:54:55Z] intel: themes=none best_offer=0 wr=
+[2026-09-14T00:54:55Z] financial: bridged from Gumroad
+[2026-09-14T00:54:55Z] analytics: bridged from storefront events
+[2026-09-14T00:54:55Z] snapshot written
+[2026-09-14T00:55:57Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-14T00:55:57Z] intel: themes=none best_offer=0 wr=
+[2026-09-14T00:55:57Z] financial: bridged from Gumroad
+[2026-09-14T00:55:57Z] analytics: bridged from storefront events
+[2026-09-14T00:55:57Z] snapshot written
+[2026-09-15T23:26:05Z] compute probe: util=99 free_pct=64 cap_ok=true
+[2026-09-15T23:26:05Z] intel: themes=none best_offer=0 wr=
+[2026-09-15T23:26:05Z] financial: bridged from Gumroad
+[2026-09-15T23:26:05Z] analytics: bridged from storefront events
+[2026-09-15T23:26:05Z] snapshot written
+[2026-09-15T23:27:05Z] compute probe: util=0 free_pct=49 cap_ok=true
+[2026-09-15T23:27:05Z] intel: themes=none best_offer=0 wr=
+[2026-09-15T23:27:05Z] financial: bridged from Gumroad
+[2026-09-15T23:27:05Z] analytics: bridged from storefront events
+[2026-09-15T23:27:05Z] snapshot written
+[2026-09-15T23:42:05Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-15T23:42:05Z] intel: themes=none best_offer=0 wr=
+[2026-09-15T23:42:05Z] financial: bridged from Gumroad
+[2026-09-15T23:42:05Z] analytics: bridged from storefront events
+[2026-09-15T23:42:05Z] snapshot written
+[2026-09-15T23:56:05Z] compute probe: util=0 free_pct=32 cap_ok=true
+[2026-09-15T23:56:05Z] intel: themes=none best_offer=0 wr=
+[2026-09-15T23:56:05Z] financial: bridged from Gumroad
+[2026-09-15T23:56:05Z] analytics: bridged from storefront events
+[2026-09-15T23:56:05Z] snapshot written
+[2026-09-15T23:57:06Z] compute probe: util=0 free_pct=66 cap_ok=true
+[2026-09-15T23:57:06Z] intel: themes=none best_offer=0 wr=
+[2026-09-15T23:57:06Z] financial: bridged from Gumroad
+[2026-09-15T23:57:06Z] analytics: bridged from storefront events
+[2026-09-15T23:57:06Z] snapshot written

@@ -1,12 +1,12 @@
 {
-  "total_page_views": 92076,
-  "views_today": 6138,
+  "total_page_views": 5366,
+  "views_today": 0,
   "unique_visitors": 0,
-  "checkout_clicks": 10,
+  "checkout_clicks": 0,
   "checkout_clicks_today": 0,
-  "conversions": 36,
-  "conversion_rate": 0.04,
-  "total_revenue_cents": 1009200,
-  "top_pages": "comfyui-workflow-pack(7069), hardonia-compute-api-access(7005), ai-lab-health-report(7000)",
-  "generated_at": "2026-08-23T19:03:52.074712Z"
+  "conversions": 0,
+  "conversion_rate": 0.0,
+  "total_revenue_cents": 0,
+  "top_pages": "repo-rescue-saas-audit(361), comfyui-workflow-pack(354), ai-lab-health-report(347)",
+  "generated_at": "2026-09-15T23:57:07.488400Z"
 }
